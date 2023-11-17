@@ -12,7 +12,7 @@ gameDocs
    :maxdepth: 2
    :caption: PC Games
 
-   starcraft <pcGames/starcraft.md>
+   starcraft II <pcGames/starcraft.md>
    steel division II <pcGames/steelDivision2.md>
 
 
