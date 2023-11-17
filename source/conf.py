@@ -31,3 +31,7 @@ html_title = "gameDocs"
 html_theme_options = {
     "sidebar_hide_name": False,
 }
+
+html_css_files = [
+    'styleConfig.css',
+]
