@@ -7,10 +7,13 @@ REM Command file for Sphinx documentation
 if "%SPHINXBUILD%" == "" (
 	set SPHINXBUILD=sphinx-build
 )
-
-set SPHINXBUILD=sphinx-build
 set SOURCEDIR=source
 set BUILDDIR=build
+
+if "%1" == "" goto help
+if "%1" == "build_html" goto build_html 
+if "%1" == "publish" goto publish
+if "%1" == "release" goto release
 
 %SPHINXBUILD% >NUL 2>NUL
 if errorlevel 9009 (
