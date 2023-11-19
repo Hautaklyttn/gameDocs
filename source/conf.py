@@ -30,6 +30,10 @@ html_title = "gameDocs"
 
 html_theme_options = {
     "sidebar_hide_name": False,
+    "light_css_variables": {
+        "font-stack": "Arial, sans-serif",
+        "font-stack--monospace": "Courier, monospace",
+    },
 }
 
 html_css_files = [
