@@ -36,6 +36,10 @@ html_theme_options = {
     },
 }
 
+myst_enable_extensions = {
+    "attrs_block"
+}
+
 html_css_files = [
     'styleConfig.css',
 ]

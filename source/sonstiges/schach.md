@@ -4,8 +4,8 @@
 
 ## Schachbegriffe
 
-**Fianchetto**  
-Ein Fianchetto entsteht, wenn ein Läufer auf den Feldern g2, g7, b2 oder b7 auf die zweite Reihe (für Weiß) 
+***Fianchetto***  
+Ein *Fianchetto* entsteht, wenn ein Läufer auf den Feldern g2, g7, b2 oder b7 auf die zweite Reihe (für Weiß) 
 oder die siebte Reihe (für Schwarz) entwickelt wird. 
 Dieser Schritt wird durchgeführt, um den Läufer auf der längsten möglichen Diagonale zu platzieren.
 
@@ -13,30 +13,151 @@ Dieser Schritt wird durchgeführt, um den Läufer auf der längsten möglichen D
 
 &nbsp;
 
-## Verteidigungen
+## Eröffnungen
 &nbsp;
 
-### Schwarz
+
+### 1.e4  
+
+&nbsp;
+
+```{list-table}
+
+* - ![](pics/sicilian.png)
+  - ![](pics/french.png)
+  - ![](pics/ruyLopez.png)
+* - [Sicilian Defense](#e4_1)
+  - [French Defense](#e4_2)
+  - [Ruy Lopez Defense](#e4_3)
+* - ![](pics/caroKann.png)
+  - ![](pics/italianGame.png)
+  - ![](pics/scandinavian.png)
+* - [Caro-Kann Defense](#e4_4)
+  - [Italian Game](#e4_5)
+  - [Scandinavian Defense](#e4_6)
+* - ![](pics/pirc.png)
+  - ![](pics/alekhine.png)
+  - ![](pics/kingsGambit.png)
+* - [Pirc Defense](#e4_7)
+  - [Alekhine's Game](#e4_8)
+  - [King's Gambit](#e4_9)
+* - ![](pics/scotchGame.png)
+  - ![](pics/viennaGame.png)
+  - 
+* - [Scotch Game](#e4_10)
+  - [Vienna Game](#e4_11)
+  - 
+```  
+
+&nbsp;
+
+---
+
+&nbsp;
+
+{#e4_1} 
+#### *Sicilian Defense*
 
 ```{list-table}
 :header-rows: 1
+:widths: 30 15 30
 
-* - Name
-  - Antwort auf 
+* - Zugfolge/Varianten
   - Eigenschaften
-  - Zugfolge/Varianten
   - Vor- und Nachteile
-* - **Caro-Kann Defense**
-  - 1.e4
-  - - Besonderer Favorit des GM Antoly Karpov  
-  - **Klassische Variante**  
+* - **Klassische Variante**  
+    1....  
+	2....  
+	3....  
+	4....  
+	&nbsp;  
+  - -
+  - - <span style="color:green">...</span>  
+	- <span style="color:green">...</span>   
+	- <span style="color:green">...</span>  
+	&nbsp;  
+	- <span style="color:red">...</span>   
+	- <span style="color:red">...</span>   
+	- <span style="color:red">...</span>   
+```
+
+&nbsp;
+
+{#e4_2} 
+#### *French Defense*
+
+```{list-table}
+:header-rows: 1
+:widths: 30 15 30
+
+* - Zugfolge/Varianten
+  - Eigenschaften
+  - Vor- und Nachteile
+* - **Klassische Variante**  
+    1....  
+	2....  
+	3....  
+	4....  
+	&nbsp;  
+  - -
+  - - <span style="color:green">...</span>  
+	- <span style="color:green">...</span>   
+	- <span style="color:green">...</span>  
+	&nbsp;  
+	- <span style="color:red">...</span>   
+	- <span style="color:red">...</span>   
+	- <span style="color:red">...</span>   
+```
+
+&nbsp;
+
+{#e4_3} 
+#### *Ruy Lopez Opening*
+
+```{list-table}
+:header-rows: 1
+:widths: 30 15 30
+
+* - Zugfolge/Varianten
+  - Eigenschaften
+  - Vor- und Nachteile
+* - **Klassische Variante**  
+    1....  
+	2....  
+	3....  
+	4....  
+	&nbsp;  
+  - -
+  - - <span style="color:green">...</span>  
+	- <span style="color:green">...</span>   
+	- <span style="color:green">...</span>  
+	&nbsp;  
+	- <span style="color:red">...</span>   
+	- <span style="color:red">...</span>   
+	- <span style="color:red">...</span>   
+```
+
+&nbsp;
+
+{#e4_4} 
+#### *Caro-Kann Defense*
+
+```{list-table}
+:header-rows: 1
+:widths: 30 15 30
+
+* - Zugfolge/Varianten
+  - Eigenschaften
+  - Vor- und Nachteile
+* - **Klassische Variante**  
     1.e4 c6  
 	2.d4 d5  
 	3.Sc3 dxe4  
 	4.Sxe4 Lf5  
 	&nbsp;  
 	[!] Spielt Weiss 3.f3, sollte Schwarz nicht schlagen!  
-	Besser 3...e6 oder 3...Db6  
+	Besser 3...e6 oder 3...Db6 
+  - - Besonderer Favorit des GM Antoly Karpov   
   - - <span style="color:green">Solide Bauernstruktur</span>  
 	- <span style="color:green">Freier heller Läufer</span>   
 	- <span style="color:green">Sicher und Solide</span>  
@@ -44,8 +165,82 @@ Dieser Schritt wird durchgeführt, um den Läufer auf der längsten möglichen D
 	- <span style="color:red">Weniger Platz für Schwarz</span>   
 	- <span style="color:red">Langsame Entwicklung</span>   
 	- <span style="color:red">Viele Antworten von Weiss</span>   
+```
+
+&nbsp;
+
+{#e4_5} 
+#### *Italian Game*
+
+```{list-table}
+:header-rows: 1
+:widths: 30 15 30
+
+* - Zugfolge/Varianten
+  - Eigenschaften
+  - Vor- und Nachteile
+* - **Klassische Variante**  
+    1....  
+	2....  
+	3....  
+	4....  
+	&nbsp;  
+  - -
+  - - <span style="color:green">...</span>  
+	- <span style="color:green">...</span>   
+	- <span style="color:green">...</span>  
+	&nbsp;  
+	- <span style="color:red">...</span>   
+	- <span style="color:red">...</span>   
+	- <span style="color:red">...</span>   
+```
+
+&nbsp;
+
+{#e4_6} 
+#### *Scandinavian Defense*
+
+```{list-table}
+:header-rows: 1
+:widths: 30 15 30
+
+* - Zugfolge/Varianten
+  - Eigenschaften
+  - Vor- und Nachteile
+* - **Klassische Variante**  
+    1....  
+	2....  
+	3....  
+	4....  
+	&nbsp;  
+  - -
+  - - <span style="color:green">...</span>  
+	- <span style="color:green">...</span>   
+	- <span style="color:green">...</span>  
+	&nbsp;  
+	- <span style="color:red">...</span>   
+	- <span style="color:red">...</span>   
+	- <span style="color:red">...</span>   
+```
+
+&nbsp;
+
+
+
+&nbsp;
+
+---
+
+### 1.d4  
+
+```{list-table}
+:header-rows: 1
+
+* - Name
+  - Eigenschaften
+  - Zugfolge/Varianten
+  - Vor- und Nachteile
 * - **Dutch Defense**  
-  - 1.d4  
   - ...
   - **Klassisch Niederländisch**  
     1.d4 f5  
@@ -64,22 +259,3 @@ Dieser Schritt wird durchgeführt, um den Läufer auf der längsten möglichen D
     - <span style="color:red">Gut vorbereiteter Gegner kann Schwierigkeiten bereiten</span>  
     - <span style="color:red">Weiss gewinnt zentralen Raum</span>  
 ```
-
-&nbsp;
-
-### Weiss
-
-```{list-table}
-:header-rows: 1
-
-* - Name
-  - Antwort auf 
-  - Eigenschaften
-  - Zugfolge/Varianten
-  - Vor- und Nachteile
-* - ...
-  - ...
-  - ...
-  - ...
-  - ...
-```  
