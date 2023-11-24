@@ -22,6 +22,7 @@ gameDocs
 
 .. toctree::
    :maxdepth: 3
-   :caption: Sonstige
+   :caption: Schach
 
-   schach <sonstiges/schach.md>
+   Terminologie <schach/terminology.md>
+   Eröffnungen <schach/openings.md>
