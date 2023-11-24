@@ -2,7 +2,7 @@
 
 &nbsp;
 
-## Terminologie
+## Schachbegriffe
 
 ***Fianchetto***  
 Ein *Fianchetto* entsteht, wenn ein Läufer auf den Feldern g2, g7, b2 oder b7 auf die zweite Reihe (für Weiß) 

@@ -4,11 +4,7 @@
 
 &nbsp;
 
-## Eröffnungen
-&nbsp;
-
-
-### 1.e4  
+## 1.e4  
 
 &nbsp;
 
@@ -47,7 +43,7 @@
 &nbsp;
 
 {#e4_1} 
-#### *Sicilian Defense*
+### *Sicilian Defense*
 
 ```{list-table}
 :header-rows: 1
@@ -75,7 +71,7 @@
 &nbsp;
 
 {#e4_2} 
-#### *French Defense*
+### *French Defense*
 
 ```{list-table}
 :header-rows: 1
@@ -103,7 +99,7 @@
 &nbsp;
 
 {#e4_3} 
-#### *Ruy Lopez Opening*
+### *Ruy Lopez Opening*
 
 ```{list-table}
 :header-rows: 1
@@ -131,7 +127,7 @@
 &nbsp;
 
 {#e4_4} 
-#### *Caro-Kann Defense*
+### *Caro-Kann Defense*
 
 ```{list-table}
 :header-rows: 1
@@ -161,7 +157,7 @@
 &nbsp;
 
 {#e4_5} 
-#### *Italian Game*
+### *Italian Game*
 
 ```{list-table}
 :header-rows: 1
@@ -189,7 +185,7 @@
 &nbsp;
 
 {#e4_6} 
-#### *Scandinavian Defense*
+### *Scandinavian Defense*
 
 ```{list-table}
 :header-rows: 1
@@ -217,7 +213,7 @@
 &nbsp;
 
 {#e4_7} 
-#### *Pirc Defense*
+### *Pirc Defense*
 
 ```{list-table}
 :header-rows: 1
@@ -245,7 +241,7 @@
 &nbsp;
 
 {#e4_8} 
-#### *Alekhine’s Game*
+### *Alekhine’s Game*
 
 ```{list-table}
 :header-rows: 1
@@ -273,7 +269,7 @@
 &nbsp;
 
 {#e4_9} 
-#### *King’s Gambit*
+### *King’s Gambit*
 
 ```{list-table}
 :header-rows: 1
@@ -301,7 +297,7 @@
 &nbsp;
 
 {#e4_10} 
-#### *Scotch Game*
+### *Scotch Game*
 
 ```{list-table}
 :header-rows: 1
@@ -329,7 +325,7 @@
 &nbsp;
 
 {#e4_11} 
-#### *Vienna Game*
+### *Vienna Game*
 
 ```{list-table}
 :header-rows: 1
@@ -360,7 +356,7 @@
 
 ---
 
-### 1.d4  
+## 1.d4  
 
 &nbsp;
 
@@ -390,10 +386,10 @@
 * - [Trompowsky Attacke](#d4_10)
   - [Benko Gambit](#d4_11)
   - [London System](#d4_12)
-* - ![](pics/viennaGame.png
+* - ![](pics/viennaGame.png)
   -
   -
-* - )[Benoni Defense](#d4_13)
+* - [Benoni Defense](#d4_13)
   -
   -
 ```  
@@ -403,7 +399,7 @@
 &nbsp;
 
 {#d4_1} 
-#### *Queen's Gambit*
+### *Queen's Gambit*
 
 ```{list-table}
 :header-rows: 1
@@ -431,7 +427,7 @@
 &nbsp;
 
 {#d4_2} 
-#### *Slav Defense*
+### *Slav Defense*
 
 ```{list-table}
 :header-rows: 1
@@ -459,7 +455,7 @@
 &nbsp;
 
 {#d4_3} 
-#### *King’s Indian Defenset*
+### *King’s Indian Defenset*
 
 ```{list-table}
 :header-rows: 1
@@ -487,7 +483,7 @@
 &nbsp;
 
 {#d4_4} 
-#### *Nimzo-Indian Defense*
+### *Nimzo-Indian Defense*
 
 ```{list-table}
 :header-rows: 1
@@ -515,7 +511,7 @@
 &nbsp;
 
 {#d4_5} 
-#### *Queen’s Indian Defense*
+### *Queen’s Indian Defense*
 
 ```{list-table}
 :header-rows: 1
@@ -543,7 +539,7 @@
 &nbsp;
 
 {#d4_6} 
-#### *Catalan Opening*
+### *Catalan Opening*
 
 ```{list-table}
 :header-rows: 1
@@ -571,7 +567,7 @@
 &nbsp;
 
 {#d4_7} 
-#### *Bogo-Indian Defense*
+### *Bogo-Indian Defense*
 
 ```{list-table}
 :header-rows: 1
@@ -599,7 +595,7 @@
 &nbsp;
 
 {#d4_8} 
-#### *Grünfeld Defense*
+### *Grünfeld Defense*
 
 ```{list-table}
 :header-rows: 1
@@ -627,7 +623,7 @@
 &nbsp;
 
 {#d4_9} 
-#### *Dutch Defense*
+### *Dutch Defense*
 
 ```{list-table}
 :header-rows: 1
@@ -659,7 +655,7 @@
 &nbsp;
 
 {#d4_10} 
-#### *Trompowsky Attacke*
+### *Trompowsky Attacke*
 
 ```{list-table}
 :header-rows: 1
@@ -687,7 +683,7 @@
 &nbsp;
 
 {#d4_11} 
-#### *Benko Gambit*
+### *Benko Gambit*
 
 ```{list-table}
 :header-rows: 1
@@ -715,7 +711,7 @@
 &nbsp;
 
 {#d4_12} 
-#### *London System*
+### *London System*
 
 ```{list-table}
 :header-rows: 1
@@ -743,7 +739,7 @@
 &nbsp;
 
 {#d4_13} 
-#### *Benoni Defense*
+### *Benoni Defense*
 
 ```{list-table}
 :header-rows: 1
