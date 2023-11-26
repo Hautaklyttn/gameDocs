@@ -5,12 +5,6 @@ gameDocs
 
 |
 
-.. note::
-
-   This project is under active development.
-
-|
-
 .. toctree::
    :maxdepth: 3
    :caption: PC Games
@@ -24,5 +18,5 @@ gameDocs
    :maxdepth: 3
    :caption: Schach
 
-   Terminologie <schach/terminology.md>
+   Grundlagen <schach/basics.md>
    Eröffnungen <schach/openings.md>
