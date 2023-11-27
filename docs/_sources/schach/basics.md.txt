@@ -1,4 +1,4 @@
-# Schach
+# Grundlagen
 
 &nbsp;
 
@@ -12,14 +12,25 @@
 
 > "*Figuren* sind im Schach alle Nicht-Bauern."
 
-> "Rudimentärer Schach-Grundsätz: Bringe die Figuren in eine zentrale Position!"
-
-> "[Weiss] Königsseitigen Läufer (dunkles Feld) nicht zu früh entwickeln."  
+> "Schach-Grundsätz: Bringe die *Figuren* in eine zentrale Position!"
 
 > "Entgegen der üblichen Wertannahme *Springer == Läufer* ist der Läufer etwas höher einzuordnen (Schachprogramme tun das auch)."  
 
+> "Wenn Schlagen mit Bauern, (wenn möglich) immer in Richtung des Zentrums schlagen."
+
+> "Wenn hinten, dann sollte man Abtausche vermeiden! (Weniger Potential mit dem man zurückkommen kann)"
+
+&nbsp; 
+
+### Bei Eröffnung  
+
 > "Der f-Bauer steht für '**f**orget-about-it-Bauer'. Der Bauer auf f2/f7 sollte bei Eröffnung nicht bewegt werden (Gefahr für frühen Verlust von Material oder sogar Matt möglich)."
 
+> "Bei den ersten Zügen, Bauern nur dann bewegen, wenn es zur Unterstützung der *Figuren* beiträgt. Sind alle *Figuren* entwickelt, dann erst mit Bauern ziehen."
+
+> "Versuche es immer zu vermeiden, die Läufer durch *f- oder e-Bauern* zu blockieren."
+
+> "[Weiss] Königsseitigen Läufer (dunkles Feld) nicht zu früh entwickeln."  
 
 
 &nbsp;
