@@ -103,3 +103,75 @@ Beim Setzen der Einheiten darauf achten, schnelle Einheiten zu verwenden (~80km/
 &nbsp;
   
 ### Deck Building
+
+- Die Anzahl der Einheiten die man in die Phasen *A*, *B* und *C* steckt ist immer abhängig davon, welchen *Deployment Type* man gewählt hat.  
+- **Immer schauen:** In welcher Phase kann ich bestimmte Einheiten am wirkungsvollsten einsetzen?  
+- Für gewöhnlich sollte man Einheiten mit (mindestens) Erfahrung 1-VET (eine Schulterklappe) auswählen.  
+- Auswahl des richtigen 'Transport' nicht vergessen: Entscheidend ist die Geschwindigkeit des Transporters (80-100 km/h sind sehr gut). Kosten beachten!
+- Einheiten haben Spezialeigenschaften, dargestellt durch ein Symbol(e) unten links. Durch Hovern mit der Maus darüber erscheint eine kurze Erklärung.
+
+```{tip}
+**Je mehr Tabs man im Deck in einer Reihe hat, desto höher kann man die einzelne "Erfahrung" setzen** (da man zwar pro Auswahl weniger Einheiten hat, dafür aber vorher im Deckbuildung mehr auswählen kann).
+```
+
+- **Führer**:  
+   - **Führer** jeder Art erhöhen den Vet-Status jeder Einheit um ihn herum um 1!  
+   - **Kommandanten** jeder Art erhöhen den Vet-Status jeder Einheit um ihn herum um 2!
+   - **Führer** im Bereich eines **Kommandanten** erhöhen Vet-Status jeder Einheit um ihn herum um 2!  
+
+&nbsp;
+
+&nbsp;
+  
+### Divisionen
+
+- **Slot Layout** des Decks sollte man immer als erstes checken:   
+   - Gehen die Kosten schnell hoch (==schlecht)? Oder bleiben sie lange auf Kosten '1' (==gut)?   
+   - Gibt es eine Kategorie mit sehr wenigen Slots (=schlecht)?  
+&nbsp;
+- **Immer schauen:** In welcher Phase kann ich bestimmte Einheiten einsetzen?  
+&nbsp;
+- **Transporter** sind essenziell, einige Divisionen haben sehr schlechte Transporter was sie langsam/ineffektiver macht.  
+- **Panzer**: 'Medium Panzer' sind das Rückgrat jeder Division, sollten ausreichend (min. für Phase A und B) verfügbar sein  
+- **Support**: Manche Divisionen haben keine 'Flammenwerfer' (=schlecht für EarlyGame)  
+- **Infantrie**: Ist genug Nahkampfinfantrie (==CQC) im Deck ('Pioniere' jeglicher Art o.ä.)?  
+
+&nbsp;
+
+&nbsp;
+  
+### Deployment Types
+
+- **Balanced** oder **Maverick** (nicht für Anfänger) sind die besten types im 1v1
+
+- **Flat Line** und **Juggernaut** sind eher schwach im 1v1
+
+- **V for Victory** nicht spielbar im 1v1, aber gut im Team Game
+
+&nbsp;
+
+&nbsp;
+  
+### About AI
+
+Die KI betrügt nicht, sie spielt nach den gleichen Regeln wie der Spieler. Das bedeutet, dass sie keine Kenntnis von der Position versteckter Einheiten hat, keine bessere Trefferchance oder bessere Waffendurchdringungs hat und auch nicht mehr Trefferpunkte auf seinen Einheiten hat.
+
+Allerdings kann eine KI mehr Informationen verarbeiten als ein Spieler und hat eine bessere Erinnerung an das, was sie entdeckt hat. Um diesen natürlichen Vorteil abzuschwächen, wird der Speicher der KI regelmäßig „geleert“. D.h. in einem kurzen Zeitraum hat es eine bessere Erinnerung an jede feindliche Einheit als ein menschlicher Spieler. Es vergisst aber alles nach einiger Zeit und muss es erneut auskundschaften.
+
+```{important}
+<span style="color:red">Schwierigkeitsgrade beeinflussen die KI mit Buffs oder Nerfs in zwei Bereichen: **Einkommen** und **Einheitenverfügbarkeit**. Nichts anderes.</span>
+&nbsp;
+Die *Hard AI* ist diejenige, die nach denselben Regeln spielt wie der Spieler. Die *Normal AI* und die einfacheren AI haben alle gewisse Nachteile. *Very Hard AI* und härter, wie oben erklärt,haben Einkommens- und Verfügbarkeits-Buffs.
+```
+
+&nbsp;
+
+&nbsp;
+  
+### Gebäude
+
+- Gebäude sind Strukturen auf der Karte, die von Infanterieeinheiten erobert werden können. 
+- Gebäude bieten **immer schwere Deckung.** 
+- Alle Gebäude außer Betonbunkern können zerstört werden.  
+- Ein Gebäude bietet einen noch besseren Schutz vor Entdeckung oder Identifizierung als andere schwere Deckung!
+- Wenn ein Gebäude, in dem sich Infanterie befindet, von einer „Feuerwaffe“ angegriffen wird, muss die darin befindliche Infanterie das Gebäude verlassen und erleidet dabei geringfügigen Unterdrückungsschaden. Das Gebäude selbst wird für eine Weile in Flammen stehen und die Infanterie, die in das Gebäude eindringen will, wird es sofort wieder evakuieren.
