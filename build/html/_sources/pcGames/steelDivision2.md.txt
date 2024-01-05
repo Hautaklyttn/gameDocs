@@ -110,11 +110,15 @@ Beim Setzen der Einheiten darauf achten, schnelle Einheiten zu verwenden (~80km/
 - Auswahl des richtigen 'Transport' nicht vergessen: Entscheidend ist die Geschwindigkeit des Transporters (80-100 km/h sind sehr gut). Kosten beachten!
 - Einheiten haben Spezialeigenschaften, dargestellt durch ein Symbol(e) unten links. Durch Hovern mit der Maus darüber erscheint eine kurze Erklärung.
 
+&nbsp;
+
 ```{tip}
 **Je mehr Tabs man im Deck in einer Reihe hat, desto höher kann man die einzelne "Erfahrung" setzen** (da man zwar pro Auswahl weniger Einheiten hat, dafür aber vorher im Deckbuildung mehr auswählen kann).
 ```
 
-- **Führer**:  
+&nbsp;
+
+- **Offiziere**:  
    - **Führer** jeder Art erhöhen den Vet-Status jeder Einheit um ihn herum um 1!  
    - **Kommandanten** jeder Art erhöhen den Vet-Status jeder Einheit um ihn herum um 2!
    - **Führer** im Bereich eines **Kommandanten** erhöhen Vet-Status jeder Einheit um ihn herum um 2!  
@@ -156,12 +160,16 @@ Beim Setzen der Einheiten darauf achten, schnelle Einheiten zu verwenden (~80km/
 
 Die KI betrügt nicht, sie spielt nach den gleichen Regeln wie der Spieler. Das bedeutet, dass sie keine Kenntnis von der Position versteckter Einheiten hat, keine bessere Trefferchance oder bessere Waffendurchdringungs hat und auch nicht mehr Trefferpunkte auf seinen Einheiten hat.
 
-Allerdings kann eine KI mehr Informationen verarbeiten als ein Spieler und hat eine bessere Erinnerung an das, was sie entdeckt hat. Um diesen natürlichen Vorteil abzuschwächen, wird der Speicher der KI regelmäßig „geleert“. D.h. in einem kurzen Zeitraum hat es eine bessere Erinnerung an jede feindliche Einheit als ein menschlicher Spieler. Es vergisst aber alles nach einiger Zeit und muss es erneut auskundschaften.
+Allerdings kann eine KI mehr Informationen verarbeiten als ein Spieler und hat eine bessere Erinnerung an das, was sie entdeckt hat. Um diesen natürlichen Vorteil abzuschwächen, wird der Speicher der KI regelmäßig „geleert“. D.h. in einem kurzen Zeitraum hat es eine bessere Erinnerung an jede feindliche Einheit als ein menschlicher Spieler. Es vergisst aber alles nach einiger Zeit und muss es erneut auskundschaften.  
+
+&nbsp;
 
 ```{important}
-<span style="color:red">Schwierigkeitsgrade beeinflussen die KI mit Buffs oder Nerfs in zwei Bereichen: **Einkommen** und **Einheitenverfügbarkeit**. Nichts anderes.</span>
+<span style="color:red">Schwierigkeitsgrade beeinflussen die KI mit Buffs oder Nerfs in zwei Bereichen: **Einkommen** und **Einheitenverfügbarkeit**. Nichts anderes.</span>  
+
 &nbsp;
-Die *Hard AI* ist diejenige, die nach denselben Regeln spielt wie der Spieler. Die *Normal AI* und die einfacheren AI haben alle gewisse Nachteile. *Very Hard AI* und härter, wie oben erklärt,haben Einkommens- und Verfügbarkeits-Buffs.
+
+Die *Hard AI* ist diejenige, die nach denselben Regeln spielt wie der Spieler. Die *Normal AI* und die einfacheren AI haben alle gewisse Nachteile. *Very Hard AI* und härter, wie oben erklärt, haben Einkommens- und Verfügbarkeits-Buffs.
 ```
 
 &nbsp;
