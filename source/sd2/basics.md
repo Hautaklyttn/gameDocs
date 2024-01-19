@@ -1,6 +1,6 @@
 # Steel Division 2
 
-## Allgemeines
+## Grundlagen
 
 ### Essentielle Basics
 
