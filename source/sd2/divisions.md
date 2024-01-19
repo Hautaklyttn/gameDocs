@@ -16,9 +16,9 @@
   - Anmerkungen
 * - 17. SS Panzergrenadier
   - ![](pics/17_ss.png)
-  - - <span style="color:green">+ Sehr stark durch die Bank</span>
+  - - <span style="color:green">Sehr stark durch die Bank</span>  
     &nbsp;
-    - <span style="color:red">Im Grunde keine Schwäche</span>
+    - <span style="color:red">Im Grunde keine Schwäche</span>  
   - S
   - ...
 ```
@@ -44,11 +44,11 @@
     - <span style="color:green">Gute Flugzeuge</span>  
     - <span style="color:green">Günstige Infanterie</span>  
     &nbsp;
-    - <span style="color:red">Wenig CQC</span>
+    - <span style="color:red">Wenig CQC</span>  
   - S
-  - **Typhoon Mk Ib**: Beste AT Rocket Flugzeug im Spiel  
+  - - **Typhoon Mk Ib**: Beste AT Rocket Flugzeug im Spiel  
     &nbsp;
-    **17-PDR 76.2mm**: sehr gutes AT Geschütz (2 Karten)  
+    - **17-PDR 76.2mm**: sehr gutes AT Geschütz (2 Karten)  
     &nbsp;
-    **Zeniste**: Sehr gute CQC (4 Thompson + Flamer)  
+    - **Zeniste**: Sehr gute CQC (4 Thompson + Flamer)  
 ```
