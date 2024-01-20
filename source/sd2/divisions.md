@@ -125,6 +125,32 @@
     - **Pz.Grenadier '41**: Verbesserte Panzergrenadiere
 ```
 
+&nbsp;
+
+#### *B-Tier*
+
+```{list-table}
+:header-rows: 1
+
+* - Division
+  - Wappen
+  - Stärken / Schwächen
+  - Anmerkungen
+* - [5. SS-Panzer "Wiking"](https://steeldivision.fandom.com/wiki/5._SS-Panzer_%22Wiking%22)
+  - ![](pics/5_ss.png)
+  - - <span style="color:green">Starke Infanterie</span>  
+    - <span style="color:green">Starke Panzer</span>  
+    - <span style="color:green">Modernste Jäger</span>  
+    - <span style="color:green">Gute mobile Artillerie</span>  
+    &nbsp;
+    - <span style="color:red">Wenig Anti-Air</span>  
+    - <span style="color:red">Etwas zu wenig CQC</span>  
+  - - **FW 190 D-9**: Sehr guter Jäger
+    &nbsp;
+    - **FW 190 F-8 AT Rocket**: Sehr guter AT-Flieger
+    &nbsp;
+    - Taktik: Anti-Infantrie: **Grille**
+```
 
 &nbsp;
 
