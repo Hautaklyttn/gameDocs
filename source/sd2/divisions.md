@@ -64,6 +64,65 @@
     - Taktik: Infantrie Spam
     &nbsp;
     - Taktik: Light/Medium Tank Spam
+* - [Gruppe Harteneck](https://steeldivision.fandom.com/wiki/Gruppe_Harteneck)
+  - ![](pics/grupHart.png)
+  - - <span style="color:green">Starke Infanterie</span>  
+    - <span style="color:green">Starke Anti-Tank</span>  
+    &nbsp;
+    - <span style="color:red">Schwache Anti-Air</span>  
+    - <span style="color:red">Probleme gegen schwere Panzer</span>  
+  - - **Reit.-Jäger**:  Problem, da sie nie in den Nahkampf kommen, da sie mit der 98K auf >100m schießen
+    &nbsp;
+    - **Jäger Pionier**: Eine der besten Pionier-Squads im Spiel (Semi-Auto Rifle + Granate)  
+* - [20. Panzer](https://steeldivision.fandom.com/wiki/20._Panzer)
+  - ![](pics/20_pzer.png)
+  - - <span style="color:green">Guter Support (Grille+MG42+PzIV)</span>  
+    - <span style="color:green">Starke Anti-Tank</span>  
+    - <span style="color:green">Sehr gute Anti-Air</span>  
+    &nbsp;
+    - <span style="color:red">Mangel an CQC-Einheiten</span>  
+    - <span style="color:red">Im Grunde nur Panzer IV</span>  
+    - <span style="color:red">Schwache Flugzeuge</span>  
+  - - **Pz.Grenadier (DP)**:  2xMG34 (für 20Pkt!)  
+* - [2. Páncélos](https://steeldivision.fandom.com/wiki/2._P%C3%A1nc%C3%A9los)
+  - ![](pics/2ndPanc.png)
+  - - <span style="color:green">Sehr starke Panzer</span>  
+    - <span style="color:green">Starke Artilerie</span>  
+    - <span style="color:green">Starke Anti-Air (Nimrod)</span>  
+    - <span style="color:green">Gute und günstige Infanterie</span>  
+    &nbsp;
+    - <span style="color:red">Mittelmässiger Support: Mangel an 2k HE</span>  
+  - - **41M Turán II**: Hoher HE-Damage, schießt schnell  
+    - **36/40M Nimród**: Eine der beste AA im Spiel  
+    - **31M 149mm**: Eine der beste Artillerien im Spiel  
+    - Mit der beste Panzer-Tab im Spiel!  
+* - [26. Panzer](https://steeldivision.fandom.com/wiki/26._Panzer)
+  - ![](pics/26_pzer.png)
+  - - <span style="color:red">Schwächere Anti-Air</span>  
+    - <span style="color:red">Keine AT-Flugzeuge</span>  
+  -
+* - [5 Cavalerie Motorizata](https://steeldivision.fandom.com/wiki/5_Cavalerie_Motorizata)
+  - ![](pics/5_cav.png)
+  - - <span style="color:green">Sehr starke Infanterie</span>  
+    &nbsp;
+    - <span style="color:red">Wenig Panzer</span>  
+    - <span style="color:red">Mangel an 2k (AP und HE)</span>  
+  -
+* - [715. Infanterie](https://steeldivision.fandom.com/wiki/715._Infanterie)
+  - ![](pics/715_inf.png)
+  - - <span style="color:green">Sehr gute Recon</span>  
+    - <span style="color:green">Sehr gute Infanterie (viele Beretta)</span>  
+    - <span style="color:green">Sehr gute Artillerie</span>  
+    - <span style="color:green">Guter Panzermix</span>  
+    &nbsp;
+    - <span style="color:red">Etwas schwächere Anti-Air</span>  
+    - <span style="color:red">Im Grunde nur Panzer IV</span>  
+    - <span style="color:red">Schwache Flugzeuge</span>  
+  - - S-Tier Potential!
+    - **SDKFZ 135/1 149mm**: Extrem gute Artillerie!
+    - **Mörser 531(f) 220mm**: Guter Mörser
+    - **Decima + Decima Ardetti**: Sehr gute Infanterie
+    - **Pz.Grenadier '41**: Verbesserte Panzergrenadiere
 ```
 
 
