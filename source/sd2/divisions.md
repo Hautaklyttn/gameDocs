@@ -15,13 +15,13 @@
   - Wappen
   - Stärken / Schwächen
   - Anmerkungen
-* - 17. SS Panzergrenadier
+* - [17. SS Panzergrenadier](https://steeldivision.fandom.com/wiki/17._SS-Panzergrenadier_(SD2))
   - ![](pics/17_ss.png)
   - - <span style="color:green">Sehr stark durch die Bank</span>  
     &nbsp;
     - <span style="color:red">Im Grunde keine Schwäche</span>  
-  - ...
-* - 4. Fallschirmjäger
+  -
+* - [4. Fallschirmjäger](https://steeldivision.fandom.com/wiki/4._Fallschirmj%C3%A4ger)
   - ![](pics/4_fj.png)
   - - <span style="color:green">Sehr starke Infanterie</span>  
     - <span style="color:green">Stark in allen Tabs</span>  
@@ -49,7 +49,7 @@
   - Wappen
   - Stärken / Schwächen
   - Anmerkungen
-* - Panzerdivision Tatra  
+* - [Panzerdivision Tatra](https://steeldivision.fandom.com/wiki/Panzerdivision_Tatra)
   - ![](pics/pd_tatra.png)
   - - <span style="color:green">Starkes Anti-Tank</span>  
     - <span style="color:green">Guter Infanterie Mix</span>  
@@ -81,7 +81,7 @@
   - Wappen
   - Stärken / Schwächen
   - Anmerkungen
-* - C.I.A.B.G.
+* - [C.I.A.B.G.](https://steeldivision.fandom.com/wiki/C.I.A.B.G.)
   - ![](pics/ciabg.png)
   - - <span style="color:green">Günstige Infanterie</span>  
     - <span style="color:green">Starke Panzer</span>  
@@ -95,14 +95,14 @@
     - **17-PDR 76.2mm**: sehr gutes AT Geschütz (2 Karten)  
     &nbsp;
     - **Zeniste**: Sehr gute CQC (4 Thompson + Flamer)  
-* - 2nd Infantry
+* - [2nd Infantry](https://steeldivision.fandom.com/wiki/2nd_Infantry)
   - ![](pics/2nd_inf.png)
   - - <span style="color:green">Extrem gute Artillerie</span>  
     - <span style="color:green">Sehr gute Flugzeuge</span>  
     - <span style="color:green">Semi-Automatic Rifles</span>  
     - <span style="color:green">Gute 2k</span>  
   -
-* - 1st Special Brigade
+* - [1st Special Brigade](https://steeldivision.fandom.com/wiki/1st_Special_Service_Brigade)
   - ![](pics/1st_specBrig.png)
   - - <span style="color:green">Sehr gute Infanterie</span>  
     - <span style="color:green">Sehr gute Anti-Air</span>  
@@ -118,7 +118,7 @@
     - **Commando No4**: Mit die beste CQC im Spiel  
     &nbsp;
     - **Commando No6**: Sehr gutes Rifle Squad mit Sniper  
-* - 1st Airborne TaskForce
+* - [1st Airborne TaskForce](https://steeldivision.fandom.com/wiki/1st_Airborne_Task_Force)
   - ![](pics/1st_airTF.png)
   - - <span style="color:green">Viel sehr gute Infanterie + Recon</span>  
     - <span style="color:green">Sehr gute Luftwaffe</span>  
@@ -146,7 +146,7 @@
   - Wappen
   - Stärken / Schwächen
   - Anmerkungen
-* - 84-ya Gvard. Strelkovy  
+* - [84-ya Gvard. Strelkovy](https://steeldivision.fandom.com/wiki/84-ya_Gvard._Strelkovy)  
   - ![](pics/84ya_GS.png)
   - - <span style="color:green">Sehr starke Armor</span>  
     - <span style="color:green">Stark in allen Tabs</span>  
