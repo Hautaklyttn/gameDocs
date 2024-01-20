@@ -6,7 +6,7 @@
 
 &nbsp;
 
-#### S-Tier
+#### *S-Tier*
 
 ```{list-table}
 :header-rows: 1
@@ -40,7 +40,7 @@
 
 &nbsp;
 
-#### A-Tier
+#### *A-Tier*
 
 ```{list-table}
 :header-rows: 1
@@ -72,7 +72,7 @@
 
 ### ALLIES
 
-#### S-Tier
+#### *S-Tier*
 
 ```{list-table}
 :header-rows: 1
@@ -83,7 +83,7 @@
   - Anmerkungen
 * - C.I.A.B.G.
   - ![](pics/ciabg.png)
-  - - <span style="color:green">Günstige Infanterie (Spam)</span>  
+  - - <span style="color:green">Günstige Infanterie</span>  
     - <span style="color:green">Starke Panzer</span>  
     - <span style="color:green">Sehr gute Artillerie</span>  
     - <span style="color:green">Gute Flugzeuge</span>  
@@ -95,4 +95,60 @@
     - **17-PDR 76.2mm**: sehr gutes AT Geschütz (2 Karten)  
     &nbsp;
     - **Zeniste**: Sehr gute CQC (4 Thompson + Flamer)  
+* - 2nd Infantry
+  - ![](pics/2nd_inf.png)
+  - - <span style="color:green">Extrem gute Artillerie</span>  
+    - <span style="color:green">Sehr gute Flugzeuge</span>  
+    - <span style="color:green">Semi-Automatic Rifles</span>  
+    - <span style="color:green">Gute 2k</span>  
+  -
+* - 1st Special Brigade
+  - ![](pics/1st_specBrig.png)
+  - - <span style="color:green">Sehr gute Infanterie</span>  
+    - <span style="color:green">Sehr gute Anti-Air</span>  
+    - <span style="color:green">Extrem starke Off-Map</span>  
+    - <span style="color:green">Sehr schnelle Division</span>  
+    &nbsp;
+    - <span style="color:red">Extrem Phase-Locked Anti-Tank</span>  
+    - <span style="color:red">Mittelmässige Artillerie</span>  
+  - - Sehr viele **Hellcat I** Cards bei Flugzeugen  
+    &nbsp;
+    - Sehr viele **Shermans**  
+    &nbsp;
+    - **Commando No4**: Mit die beste CQC im Spiel  
+    &nbsp;
+    - **Commando No6**: Sehr gutes Rifle Squad mit Sniper  
+* - 1st Airborne TaskForce
+  - ![](pics/1st_airTF.png)
+  - - <span style="color:green">Viel sehr gute Infanterie + Recon</span>  
+    - <span style="color:green">Sehr gute Luftwaffe</span>  
+    &nbsp;
+    - <span style="color:red">Deck hat keine Tiefe, d.h. wird wohl nicht 'Balanced' gespielt werden</span>  
+    - <span style="color:red">Schlechte Anti-Air, keine AA in Phase A</span>  
+    - <span style="color:red">Mittelmäßige Artillerie</span>  
+  - - **Forceman**: sehr starke CQC/Mid-Range Infanterie  
+    &nbsp;
+    - **Beaufighter Mk X**: starkes AT Flugzeug  
+    &nbsp;
+    - Taktik: Häuserkampf/Nahkampf suchen  
+    &nbsp;
+    - Taktik: Kampf im offenen Gelände vermeiden  
+```
+
+&nbsp;
+
+#### *A-Tier*
+
+```{list-table}
+:header-rows: 1
+
+* - Division
+  - Wappen
+  - Stärken / Schwächen
+  - Anmerkungen
+* - 84-ya Gvard. Strelkovy  
+  - ![](pics/84ya_GS.png)
+  - - <span style="color:green">Sehr starke Armor</span>  
+    - <span style="color:green">Stark in allen Tabs</span>  
+  - - Beste sowjetische Division
 ```

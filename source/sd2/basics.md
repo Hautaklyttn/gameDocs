@@ -1,8 +1,7 @@
 # Steel Division 2
 
-## Grundlagen
 
-### Essentielle Basics
+## Essentielle Basics
 
 ```{important}
 Entscheidend ist das Wissen: <span style="color:red">**Was kann ich womit töten?**</span>  
@@ -55,7 +54,7 @@ Beim Setzen der Einheiten darauf achten, schnelle Einheiten zu verwenden (~80km/
 
 &nbsp;
   
-### Hotkeys
+## Hotkeys
   
 ```{list-table}
 :header-rows: 1
@@ -102,7 +101,7 @@ Beim Setzen der Einheiten darauf achten, schnelle Einheiten zu verwenden (~80km/
 
 &nbsp;
   
-### Deck Building
+## Deck Building
 
 - Die Anzahl der Einheiten die man in die Phasen *A*, *B* und *C* steckt ist immer abhängig davon, welchen *Deployment Type* man gewählt hat.  
 - **Immer schauen:** In welcher Phase kann ich bestimmte Einheiten am wirkungsvollsten einsetzen?  
@@ -127,7 +126,7 @@ Beim Setzen der Einheiten darauf achten, schnelle Einheiten zu verwenden (~80km/
 
 &nbsp;
   
-### Divisionen
+## Divisionen
 
 - **Slot Layout** des Decks sollte man immer als erstes checken:   
    - Gehen die Kosten schnell hoch (==schlecht)? Oder bleiben sie lange auf Kosten '1' (==gut)?   
@@ -144,7 +143,7 @@ Beim Setzen der Einheiten darauf achten, schnelle Einheiten zu verwenden (~80km/
 
 &nbsp;
   
-### Deployment Types
+## Deployment Types
 
 - **Balanced** oder **Maverick** (nicht für Anfänger) sind die besten types im 1v1
 
@@ -156,7 +155,7 @@ Beim Setzen der Einheiten darauf achten, schnelle Einheiten zu verwenden (~80km/
 
 &nbsp;
   
-### About AI
+## About AI
 
 Die KI betrügt nicht, sie spielt nach den gleichen Regeln wie der Spieler. Das bedeutet, dass sie keine Kenntnis von der Position versteckter Einheiten hat, keine bessere Trefferchance oder bessere Waffendurchdringungs hat und auch nicht mehr Trefferpunkte auf seinen Einheiten hat.
 
@@ -176,7 +175,7 @@ Die *Hard AI* ist diejenige, die nach denselben Regeln spielt wie der Spieler. D
 
 &nbsp;
   
-### Gebäude
+## Gebäude
 
 - Gebäude sind Strukturen auf der Karte, die von Infanterieeinheiten erobert werden können. 
 - Gebäude bieten **immer schwere Deckung.** 
