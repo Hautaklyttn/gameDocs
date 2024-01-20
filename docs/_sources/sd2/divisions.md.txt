@@ -236,4 +236,74 @@
   - - <span style="color:green">Sehr starke Armor</span>  
     - <span style="color:green">Stark in allen Tabs</span>  
   - - Beste sowjetische Division
+* - [97-ya Gvard. Strelkovy](https://steeldivision.fandom.com/wiki/97-ya_Gvard._Strelkovy)  
+  - ![](pics/97ya_GS.png)
+  - - <span style="color:green">Starke Panzer</span>  
+    - <span style="color:green">Sehr viel und sehr gute Off-Map Artillerie</span>  
+    - <span style="color:green">Gute Infanterie</span>  
+  - - Die Division verfügt mit der **GPA KAO (132 mm)** über die stärkste Off-Map-Artillerie im Spiel  
+    - **IS-2 obr.1944**: 2 Karten; maximal 6 Stück möglich  
+    - Viele **T-34/76 1942** (1 Karte; 16 in B oder 22 in C) und **T-34/85 Komroti** (1 Karte; max. 3 in C)  
+    - Taktik: Mit Panzern den Gegner in den Ebenen dominieren und dann mit der überaus effizienten (da günstigen) Infanterie stürmen  
+    - Taktik: Mit Off-Map Gebiete ‚vorbereiten‘ und dann mit Truppen nachstoßen  
+* - [26-ya Gvard. Strelkovy](https://steeldivision.fandom.com/wiki/26-ya_Gvard._Strelkovy)  
+  - ![](pics/26ya_GS.png)
+  - - <span style="color:green">Starke Infanterie</span>  
+    - <span style="color:green">2 Karten ISU-152</span>  
+    &nbsp;
+    - <span style="color:red">Sehr schlechte Anti-Air</span>  
+    - <span style="color:red">Schwächerer Anti-Tank Tab</span>  
+    - <span style="color:red">Probleme gegen schwere Panzer</span>  
+    - <span style="color:red">Keine schwere Artillerie</span>  
+  - - 2 Karten **Shturmoviki (Roks)**: sehr gute CQC  
+    - 1 Karte **Shtrafniki**: beste Rifle Squad  
+* - [1e DFL](https://steeldivision.fandom.com/wiki/1e_DFL)  
+  - ![](pics/1st_DFL.png)
+  - - <span style="color:green">Starke Infanterie</span>  
+    - <span style="color:green">Starke Artillerie</span>  
+    - <span style="color:green">Sehr gute Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Insgesamt schwer zu spielen</span>  
+    - <span style="color:red">Schwache Panzer und AT</span>   
+  - - Schwer zu spielen, aber wenn man es kann, dann sehr stark.  
+* - [Div. 8 Cav. Purtată](https://steeldivision.fandom.com/wiki/Div._8_Cav._Purtat%C4%83)  
+  - ![](pics/div8cav.png)
+  - - <span style="color:green">Starke Anti-Tank (Resita!)</span>  
+    - <span style="color:green">Starke Infanterie</span>  
+    - <span style="color:green">Gute Artillerie</span>  
+    &nbsp;
+    - <span style="color:red">Mangel an CQC-Einheiten</span>  
+    - <span style="color:red">Mangel an Armor</span>   
+  -
+* - [Task Force 45](https://steeldivision.fandom.com/wiki/Task_Force_45)  
+  - ![](pics/TF45.png)
+  - - <span style="color:green">Sehr gute Infanterie</span>   
+  -
+* - [Rezerv 43-y Armii](https://steeldivision.fandom.com/wiki/Rezerv_43-y_Armii)  
+  - ![](pics/Rez43Arm.png)
+  - - <span style="color:green">Gute Infanterie</span>  
+    - <span style="color:green">Guter Panzer-Tab und AT-Tab</span>  
+    &nbsp;
+    - <span style="color:red">Sehr schwache Artillerie</span>  
+    - <span style="color:red">Schwache Anti-Air und Recon</span>   
+  - - **Saperi (Roks)**: Sehr gute CQC  
+    - **Shtrafniki (Officeri)**: Sehr gutes Rifle Squad  
+    - **Yak 9b**: Guter Bomber (schnelles Rearmament)  
+    - 2 Karten **IS-2 obr.1943** (maximal 8 Stück möglich) und 2 Karten **SU-152** (max. 14 Stück möglich)  
+* - [Corpul VI Teritorial](https://steeldivision.fandom.com/wiki/Corpul_VI_Teritorial)  
+  - ![](pics/corpVI.png)
+  - - <span style="color:green">Sehr gute Infanterie</span>  
+    - <span style="color:green">Gute Artillerie</span>  
+    &nbsp;
+    - <span style="color:red">Sehr schwache A-Phase (keine Armor)</span>  
+  -
+* - [Podv. Gruppa Fedyunkina](https://steeldivision.fandom.com/wiki/Podv._Gruppa_Fedyunkina)  
+  - ![](pics/pGFedyun.png)
+  - - <span style="color:green">Sehr gute Infanterie</span>  
+    - <span style="color:green">Sehr gute Anti-Tank</span>  
+  -
+* - [6th Airborne](https://steeldivision.fandom.com/wiki/6th_Airborne_(SD2))  
+  - ![](pics/6thAir.png)
+  - - <span style="color:green">Sehr starke Sniper-Einheiten</span>  
+  -
 ```
