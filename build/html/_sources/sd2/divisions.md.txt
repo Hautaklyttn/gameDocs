@@ -415,3 +415,110 @@
   - - <span style="color:green">Sehr starke Sniper-Einheiten</span>  
   -
 ```
+
+&nbsp;
+
+#### *B-Tier*
+
+```{list-table}
+:header-rows: 1
+
+* - Division
+  - Wappen
+  - Stärken / Schwächen
+  - Anmerkungen
+* - [44-ya Gvard. Strelkovy](https://steeldivision.fandom.com/wiki/44-ya_Gvard._Strelkovy)  
+  - ![](pics/44ya_GS.png)
+  - - <span style="color:green">Starke Panzer</span>  
+    - <span style="color:green">Sehr viel günstige Infanterie</span>  
+    - <span style="color:green">Viel T-34/76 1943 und T-34/85 1944</span>  
+    &nbsp;
+    - <span style="color:red">Schwächere Artillerie</span>      
+  -
+* - [2nd New Zealand](https://steeldivision.fandom.com/wiki/2nd_New-Zealand)  
+  - ![](pics/2ndNZ.png)
+  - - <span style="color:green">Sehr starke Sniper-Einheiten</span>  
+  -
+* - [44-ya Gvard. Strelkovy](https://steeldivision.fandom.com/wiki/10-y_Gv._Tank._Korpus)  
+  - ![](pics/10y_tankKorp.png)
+  - - <span style="color:green">Viele Beutepanzer (Tiger+Panther)</span>  
+    - <span style="color:green">Viel T-34/76 und T-34/85</span>  
+    - <span style="color:green">Viel Artillerie + gute Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Mangel an guter Infanterie</span>  
+    - <span style="color:red">Sehr schwache Anti-Air</span>  
+  - - Bis zu 9 **T-6 Tigr** möglich  
+    - 2 **T-5 Panther** in A möglich  
+    - **OB-25 76.2mm**: Bestes HE-Geschütz  
+* - [1 Piechoty "Tadeusza Kościuszki"](https://steeldivision.fandom.com/wiki/1_Piechoty_%22Tadeusza_Ko%C5%9Bciuszki%22)  
+  - ![](pics/1_pieTadKos.png)
+  - - <span style="color:green">Sehr viel günstige Infanterie</span>  
+    - <span style="color:green">Viel T-34/76 1943 und T-34E (Pol) (vor allem ab C)</span>  
+    &nbsp;
+    - <span style="color:red">Probleme gegen schwere Panzer</span>  
+    - <span style="color:red">Schwächere Anti-Air</span>  
+  - - Taktik: T34 Spam  
+    - Taktik: Infanterie Spam  
+* - [Corpo Italiano di Liberazione](https://steeldivision.fandom.com/wiki/Corpo_Italiano_di_Liberazione)  
+  - ![](pics/corpItalLiber.png)
+  - - <span style="color:green">Sehr viel Infanterie</span>  
+    - <span style="color:green">Sehr gute Recon</span>  
+    - <span style="color:green">Sehr gute Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Infanterie nicht günstig</span>  
+    - <span style="color:red">Sehr schwache Anti-Air</span>  
+    - <span style="color:red">Mittelmäßige Anti-Tank</span>  
+  - - Taktik: Infanterie Spam  
+* - [Podv. Gruppa Vyborg](https://steeldivision.fandom.com/wiki/Podv._Gruppa_Vyborg)  
+  - ![](pics/podvGrVyborg.png)
+  - - <span style="color:green">2 Karten IS-2 (bzw. IS-2 Komroti)</span>  
+    &nbsp;
+    - <span style="color:red">Wenig brauchbare Panzer, hauptsächlich leichte und mittlere</span>  
+    - <span style="color:red">Mittelmäßige Infanterie</span>  
+  -
+* - [2e Blindee](https://steeldivision.fandom.com/wiki/2e_Blindee_(SD2))  
+  - ![](pics/2ndBlind.png)
+  - - <span style="color:red">Keine schweren Panzer</span>  
+    - <span style="color:red">Probleme gegen schwere Panzer</span>  
+  - Taktik: Light/Medium Tank Spam  
+* - [Groupement Dody](https://steeldivision.fandom.com/wiki/Groupement_Dody)  
+  - ![](pics/groupDody.png)
+  - - <span style="color:green">Sehr gute Infanterie</span>  
+    - <span style="color:green">Gute Artillerie</span>  
+    - <span style="color:green">Sehr gute Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Schwächere Anti-Tank</span>  
+    - <span style="color:red">Mittelmäßige Panzer</span>  
+  - - **Goumiers Eclaireurs**: Sniper Recon + 10 Mann  
+    - **Goumiers (PM)**: 22 Mann + Bazooka + 5 Thompson  
+    - **AB Rifles**: Bazooka, 1xMG + 2xThompson (12 Mann)  
+    - **P-47D-22-RE**: Schneller, schwerer Bomber, MedRes  
+* - [1Panc](https://steeldivision.fandom.com/wiki/1._Pancerna_(SD2))  
+  - ![](pics/1Panc.png)
+  - - <span style="color:green">Sehr gute Anti-Air</span>  
+    - <span style="color:green">Sehr gute Anti-Tank</span>  
+    - <span style="color:green">Viele mittlere Panzer + Tank Destroyer</span>  
+    &nbsp;
+    - <span style="color:red">Mittelmässige Infanterie</span>  
+    - <span style="color:red">Mittelmässige Artillerie</span>  
+  - - **Armata 17-pdr**: Sehr gutes AT Geschütz (4 Karten)  
+    - **Firefly Vc (Pol)**: 170mm Pen; 3+1 Karten  
+    - **Achilles IIc**: 170mm Pen; 4 Karten  
+    - **Hurricane Mk IV**: Guter Panzerjäger  
+    - Viele **Cromwell V** (5 Karten) und **Stuart V** (4 Karten)  
+* - [3rd Armored "Spearhead"](https://steeldivision.fandom.com/wiki/3rd_Armored_(SD2))  
+  - ![](pics/3rdArmor.png)
+  - - <span style="color:green">Viele Panzer (Sherman+Stuart)</span>  
+    - <span style="color:green">Gute Artillerie</span>  
+    &nbsp;
+    - <span style="color:red">Wenig Infanterie</span>  
+  -
+* - [8th Indian Infantry](https://steeldivision.fandom.com/wiki/8th_Indian_Infantry)  
+  - ![](pics/8thIndian.png)
+  -  
+  -
+* - [7-y Mechanizi. Korpus](https://steeldivision.fandom.com/wiki/7-y_Mechanizi._Korpus)  
+  - ![](pics/7yMechKorp.png)
+  -  
+  -    
+```
