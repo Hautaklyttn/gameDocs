@@ -150,7 +150,115 @@
     - **FW 190 F-8 AT Rocket**: Sehr guter AT-Flieger
     &nbsp;
     - Taktik: Anti-Infantrie: **Grille**
+* - [Fallschirm-Panzer "Hermann Göring"](https://steeldivision.fandom.com/wiki/Fallschirm-Panzer_%22Hermann_G%C3%B6ring%22)
+  - ![](pics/fp_hg.png)
+  - - <span style="color:green">Starke Einheiten in allen Tabs</span>  
+    &nbsp;
+    - <span style="color:red">Teure Einheiten</span>  
+    - <span style="color:red">Schlechte Flugzeuge</span>  
+    - <span style="color:red">Zu wenig CQC</span>  
+  - - Einzige Division mit **Sturmtiger**     
+* - [78. Sturm](https://steeldivision.fandom.com/wiki/78._Sturm)
+  - ![](pics/78sturm.png)
+  - - <span style="color:green">Sehr starke Infanterie</span>  
+    - <span style="color:green">Starke Artillerie</span>  
+    - <span style="color:green">Starke Anti-Air</span>  
+    &nbsp;
+    - <span style="color:red">Wenig Panzer (nur Stug III)</span>  
+    - <span style="color:red">Teure Infanterie</span>   
+  - - **S.IG 33**: Sehr gute Anti-Infantrie  
+* - [1. Lovas](https://steeldivision.fandom.com/wiki/1._Lovas)
+  - ![](pics/1_lovas.png)
+  - - <span style="color:green">Starke Infanterie</span>  
+    - <span style="color:green">Turan Spam</span>  
+    - <span style="color:green">Gute Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Wenig 2k</span>  
+  - - **41M Turán II**: Hoher HE-Damage, schießt schnell  
+    - **36/40M Nimród**: Eine der beste AA im Spiel  
+* - [122. Infanterie](https://steeldivision.fandom.com/wiki/122._Infanterie)
+  - ![](pics/122_inf.png)
+  - - <span style="color:green">Gute Finnische Infanterie</span>  
+    - <span style="color:green">Guter 2k-Mix</span>  
+    &nbsp;
+    - <span style="color:red">Mittelmäßige Infanterie</span>  
+    - <span style="color:red">Schlechte Anti-Air</span>   
+  -
+* - [11. SS-Fr.-Panzergrenadier "Nordland"](https://steeldivision.fandom.com/wiki/11._SS-Fr.-Panzergrenadier_%22Nordland%22)
+  - ![](pics/11_ss.png)
+  -
+  -
+* - [Verteidigungsbereich Toulon](https://steeldivision.fandom.com/wiki/Verteidigungsbereich_Toulon)
+  - ![](pics/vertToulon.png)
+  -
+  -  
+* - [Panzergrenadier "Großdeutschland"](https://steeldivision.fandom.com/wiki/Panzergrenadier_%22Gro%C3%9Fdeutschland%22)
+  - ![](pics/pg_grossD.png)
+  - - <span style="color:green">Sehr gute Infanterie</span>  
+    - <span style="color:green">sehr guter Support (Grille,StuH + SDKFZ251/9D)</span>  
+    &nbsp;
+    - <span style="color:red">Wenig gute CQC</span>  
+    - <span style="color:red">Zu wenig Medium Panzer (nur 2 Karten)</span>   
+  -
+* - [Kampfgruppe von Tettau](https://steeldivision.fandom.com/wiki/Kampfgruppe_von_Tettau)
+  - ![](pics/kgTettau.png)
+  - - <span style="color:green">Sehr viel Infantrie</span>  
+    - <span style="color:green">Sehr gute Anti-Air</span>  
+    - <span style="color:green">Gute Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Mittelmässiger Panzer Tab</span>  
+  - - 2 Karten **Königstiger**  
+    - Artillerie im Grunde nur 'Rocket Artillery'  
+    - **He-219/A0**: Sehr gut gegen Bodenziele und gegen Fighter + sehr schnell  
+    - **SS-Junker (PzF)** - Sehr gutes Rifle Squad  
+    - Taktik: Infanterie Spam  
+* - [1. Páncélos Hadosztály](https://steeldivision.fandom.com/wiki/1._P%C3%A1nc%C3%A9los_Hadoszt%C3%A1ly)
+  - ![](pics/1stPanc.png)
+  - - <span style="color:green">Gute günstige Infanterie</span>  
+    - <span style="color:green">Sehr gute leichte Panzer</span>  
+    - <span style="color:green">Sehr gute Anti-Air</span>  
+    - <span style="color:green">Gute Artillerie</span>  
+    &nbsp;
+    - <span style="color:red">Schwache Infanterie in A</span>  
+    - <span style="color:red">Schlechter Support-Tab</span>  
+    - <span style="color:red">Probleme gegen schwere Panzer</span>  
+    - <span style="color:red">Flugzeug-Tab locked in B</span>  
+    - <span style="color:red">Zu wenig 2k</span>  
+  - - **41M Turán II**: Hoher HE-Damage, schießt schnell  
+    - **36/40M Nimród**: Eine der beste AA im Spiel  
+    - Taktik: Turan Spam  
+* - [17. Divisioona](https://steeldivision.fandom.com/wiki/17._Divisioona)
+  - ![](pics/17divis.png)
+  - - <span style="color:green">Viel 2K HE</span>  
+    - <span style="color:green">Sehr gute leichte Panzer</span>  
+    - <span style="color:green">Sehr gute Artillerie</span>  
+    - <span style="color:green">Gute Anti-Air</span>  
+    &nbsp;
+    - <span style="color:red">Wenig Panzer</span>  
+    - <span style="color:red">Probleme auf offenen Karten</span>  
+  - - **Sext. Iskuryhma**: Sehr gute CQC (beste Submachine im Spiel (Suomi))  
+* - [Panssaridivisioona](https://steeldivision.fandom.com/wiki/Panssaridivisioona)
+  - ![](pics/panssari.png)
+  - - <span style="color:green">Gute finnische Infanterie</span>
+  -
+* - [1 Blindata "România Mare"](https://steeldivision.fandom.com/wiki/1_Blindata_%22Rom%C3%A2nia_Mare%22)
+  - ![](pics/1stBlind.png)
+  - - <span style="color:green">Gute Infanterie</span>
+    - <span style="color:green">Viele gepanzerte Fahrzeuge</span>
+  -
+* - [1. Skijäger](https://steeldivision.fandom.com/wiki/1._Skij%C3%A4ger)
+  - ![](pics/1_sj.png)
+  -
+  -
+* - [25. Hadosztály](https://steeldivision.fandom.com/wiki/25._Hadoszt%C3%A1ly)
+  - ![](pics/25_hados.png)
+  -
+  -  
 ```
+
+&nbsp;
+
+#### *C-Tier*
 
 &nbsp;
 
