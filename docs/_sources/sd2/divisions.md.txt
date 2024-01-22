@@ -260,8 +260,171 @@
 
 #### *C-Tier*
 
+```{list-table}
+:header-rows: 1
+
+* - Division
+  - Wappen
+  - Stärken / Schwächen
+  - Anmerkungen
+* - [3. Fallschirmjäger](https://steeldivision.fandom.com/wiki/3._Fallschirmj%C3%A4ger_(SD2))
+  - ![](pics/3_fj.png)
+  - - <span style="color:green">Sehr starke Recon (u.a. Fs-Scharfschütze)</span>  
+    - <span style="color:green">Sehr starke Infanterie</span>  
+    - <span style="color:green">Sehr starkes Anti-Tank</span>  
+    &nbsp;
+    - <span style="color:red">Teure und vgl. weniger Infantrie</span>  
+    - <span style="color:red">Wenig Panzer (nur Stug III)</span>  
+  - - **Fs-Jäger**: Bestes Rifle Squad im Spiel
+    &nbsp;
+    - **Püppchen**: Short-Range AT-Monster
+    &nbsp;
+    - Taktik: Durchbrüche mit kleinen Infanteriegruppen (3-4 Gruppen + 1 Führer)
+* - [12. SS-Panzer "Hitlerjugend"](https://steeldivision.fandom.com/wiki/12._SS-Panzer_(SD2))
+  - ![](pics/12_ss.png)
+  - - <span style="color:green">Starke Recon</span>  
+    - <span style="color:green">Sehr starke Panzer</span>  
+    - <span style="color:green">Starke Anti-Air</span>  
+    - <span style="color:green">Gute mobile Artillerie</span>  
+    - <span style="color:green">Modernsten Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Mittelmäßige Infantrie</span>  
+    - <span style="color:red">Sehr teuer, zu wenig CQC</span>  
+  - - **Fw 190 A-8**: Bester Jäger der Axis
+    &nbsp;
+    - Taktik: Anti-Infantrie: **Grille**  
+* - [1. Fallschirmjäger](https://steeldivision.fandom.com/wiki/1._Fallschirmj%C3%A4ger)
+  - ![](pics/1_fj.png)
+  - - <span style="color:red">Wenig Panzer</span>    
+  -  
+* - [Sperrverband Kessel](https://steeldivision.fandom.com/wiki/Sperrverband_Kessel)
+  - ![](pics/1_fj.png)
+  - - <span style="color:red">Schlechte Anti-Tank</span>  
+    - <span style="color:red">Probleme gegen Panzerdivisionen oder auf offenen Karten</span>  
+    - <span style="color:red">Wenig Artillerie</span>    
+  -  
+* - [5. Gebirgsjäger](https://steeldivision.fandom.com/wiki/5._Gebirgsj%C3%A4ger)
+  - ![](pics/5_gj.png)
+  - - <span style="color:red">Schlechte Anti-Air</span>  
+    - <span style="color:red">Keine Long-range Waffen</span>  
+  -  
+* - [21. Panzer](https://steeldivision.fandom.com/wiki/21._Panzer_(SD2))
+  - ![](pics/21_pzer.png)
+  - 
+  - 
+* - [116. Panzer](https://steeldivision.fandom.com/wiki/116._Panzer_(SD2))
+  - ![](pics/116_pzer.png)
+  - 
+  -  
+* - [25. Panzergrenadier](https://steeldivision.fandom.com/wiki/25._Panzergrenadier)
+  - ![](pics/25_pg.png)
+  - - <span style="color:red">Wenig CQC</span>  
+  -  
+* - [28. Jäger](https://steeldivision.fandom.com/wiki/28._J%C3%A4ger)
+  - ![](pics/28_jaeger.png)
+  - - <span style="color:green">Günstige und gute Infanterie</span>
+    - <span style="color:green">Gute Anti-Air</span>
+    - <span style="color:green">Moderne Fw Flugzeuge</span>
+    - <span style="color:green">Gute Artillerie</span>
+  -  
+* - [Festung Dünkirchen](https://steeldivision.fandom.com/wiki/Festung_D%C3%BCnkirchen)
+  - ![](pics/festD.png)
+  - 
+  -  
+* - [5. Panzer](https://steeldivision.fandom.com/wiki/5._Panzer)
+  - ![](pics/5_pzer.png)
+  - - <span style="color:red">Schlechte CQC</span>  
+  - 
+* - [Panzer-Lehr](https://steeldivision.fandom.com/wiki/Panzer-Lehr_(SD2))
+  - ![](pics/pLehr.png)
+  - - <span style="color:red">Zu teuer und langsam</span>  
+  - 
+* - [20. Panzergrenadier](https://steeldivision.fandom.com/wiki/20._Panzergrenadier)
+  - ![](pics/20_pg.png)
+  - - <span style="color:red">Wenig Infanterie, wenig CQC</span>  
+    - <span style="color:red">Teure Einheiten</span>  
+  - 
+* - [16. Panzer](https://steeldivision.fandom.com/wiki/16._Panzer)
+  - ![](pics/16_pzer.png)
+  - - <span style="color:red">Zu teure Einheiten</span>  
+  - 
+* - [14. Infanterie](https://steeldivision.fandom.com/wiki/14._Infanterie)
+  - ![](pics/14_inf.png)
+  - - <span style="color:green">Gute Panzer (Stug III + Tiger E)</span>  
+    - <span style="color:green">Sehr guter Support (IG18, IG33)</span>  
+    - <span style="color:green">Gute Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Mittelmässige Infanterie</span>  
+    - <span style="color:red">Mittelmässige Anti-Air</span>  
+  - 
+* - [12. Tartalék](https://steeldivision.fandom.com/wiki/12._Tartal%C3%A9k)
+  - ![](pics/12Tart.png)
+  -  
+  -
+* - [4a Alpina "Monterosa"](https://steeldivision.fandom.com/wiki/4a_Alpina_%22Monterosa%22)
+  - ![](pics/20_pg.png)
+  - - <span style="color:green">Sehr gute CQC</span>  
+    &nbsp;
+    - <span style="color:red">Wenig Panzer</span>  
+    - <span style="color:red">Wenig Anti-Tank, AT-Flugzeuge nötig</span>  
+  -  
+* - [4 Munte](https://steeldivision.fandom.com/wiki/4_Munte)
+  - ![](pics/4_munte.png)
+  - - <span style="color:red">Keine Armor in A</span>  
+    - <span style="color:red">Schlechte Anit-Tank</span>  
+    - <span style="color:red">Mittelmässiger Panzer Tab</span>  
+    - <span style="color:red">Mittelmässige Infanterie</span>  
+  -  
+* - [352. Infanterie](https://steeldivision.fandom.com/wiki/352._Infanterie_(SD2))
+  - ![](pics/352_inf.png)
+  - - <span style="color:green">Sehr gut gegen schwere Armor</span>  
+    &nbsp;
+    - <span style="color:red">Schwache Infanterie</span>  
+  - **Jagdpanther**: Sehr guter schwerer Panzer
+* - [Ryhmä Raappana](https://steeldivision.fandom.com/wiki/Ryhm%C3%A4_Raappana)
+  - ![](pics/ryhmaeR.png)
+  -  
+  -    
+```
+
 &nbsp;
 
+#### *D-Tier*
+
+```{list-table}
+:header-rows: 1
+
+* - Division
+  - Wappen
+  - Stärken / Schwächen
+  - Anmerkungen
+* - [Unternehmen Rösselsprung](https://steeldivision.fandom.com/wiki/Unternehmen_R%C3%B6sselsprung)
+  - ![](pics/unternR.png)
+  - - <span style="color:green">Sehr gute Recon, viele SPW</span>  
+    - <span style="color:green">Sehr gute Infanterie</span>  
+    &nbsp;
+    - <span style="color:red">Wenig und nur schlechte Panzer</span>  
+    - <span style="color:red">Schlechte Anti-Air</span>  
+    - <span style="color:red">Mittelmäßige Artillerie</span>  
+  - **Brandenburger**: Elite-Infanterie
+* - [Korück 559](https://steeldivision.fandom.com/wiki/Kor%C3%BCck_559)
+  - ![](pics/korueck.png)
+  - - <span style="color:red">Wenig Panzer</span>  
+  -  
+* - [52. Sicherungs-Division z.b.V.](https://steeldivision.fandom.com/wiki/52._Sicherungs-Division_z.b.V.)
+  - ![](pics/52Sicher.png)
+  - - <span style="color:green">Gute Infanterie</span>  
+    &nbsp;
+    - <span style="color:red">Wenig Panzer bis C</span>  
+    - <span style="color:red">Schwache Artillerie</span>  
+  - **Jagdpanther**: Sehr guter schwerer Panzer  
+* - [Panzerverband Strachwitz](https://steeldivision.fandom.com/wiki/Panzerverband_Strachwitz)
+  - ![](pics/pvStrach.png)
+  -  
+  -  
+```
+
+&nbsp;
 
 ### ALLIES
 
