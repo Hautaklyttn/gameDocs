@@ -344,8 +344,17 @@
   - 
 * - [Panzer-Lehr](https://steeldivision.fandom.com/wiki/Panzer-Lehr_(SD2))
   - ![](pics/pLehr.png)
-  - - <span style="color:red">Zu teuer und langsam</span>  
-  - 
+  - - <span style="color:green">Fantastischer Recon Tab</span>  
+    - <span style="color:green">Guter Panzer- und AT-Tab</span>  
+    - <span style="color:green">Gute Artillerie</span>  
+    &nbsp;
+    - <span style="color:red">Zu hohe Slot-Kosten und zu wenige</span>  
+    - <span style="color:red">Mittelmäßige Infanterie</span>
+    - <span style="color:red">Zu teuer und langsam</span>  
+  - - **SPW 234/2 PUMA**: Sehr gutes gepanzertes Fahrzeug  
+    - **Pz.Grenadier(PzSchk)**: Phänomenale Panzergrenadiere  
+    - **Borgward IV**: Kann Teil von Ortschaft zerstören  
+    - **FW 190 A-8**: Einer der besten Fighter im Spiel
 * - [20. Panzergrenadier](https://steeldivision.fandom.com/wiki/20._Panzergrenadier)
   - ![](pics/20_pg.png)
   - - <span style="color:red">Wenig Infanterie, wenig CQC</span>  
@@ -663,7 +672,7 @@
     - **Goumiers (PM)**: 22 Mann + Bazooka + 5 Thompson  
     - **AB Rifles**: Bazooka, 1xMG + 2xThompson (12 Mann)  
     - **P-47D-22-RE**: Schneller, schwerer Bomber, MedRes  
-* - [1Panc](https://steeldivision.fandom.com/wiki/1._Pancerna_(SD2))  
+* - [1. Pancerna](https://steeldivision.fandom.com/wiki/1._Pancerna_(SD2))  
   - ![](pics/1Panc.png)
   - - <span style="color:green">Sehr gute Anti-Air</span>  
     - <span style="color:green">Sehr gute Anti-Tank</span>  
