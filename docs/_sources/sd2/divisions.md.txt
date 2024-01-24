@@ -298,7 +298,7 @@
   - - <span style="color:red">Wenig Panzer</span>    
   -  
 * - [Sperrverband Kessel](https://steeldivision.fandom.com/wiki/Sperrverband_Kessel)
-  - ![](pics/1_fj.png)
+  - ![](pics/svKessel.png)
   - - <span style="color:red">Schlechte Anti-Tank</span>  
     - <span style="color:red">Probleme gegen Panzerdivisionen oder auf offenen Karten</span>  
     - <span style="color:red">Wenig Artillerie</span>    
@@ -314,8 +314,15 @@
   - 
 * - [116. Panzer](https://steeldivision.fandom.com/wiki/116._Panzer_(SD2))
   - ![](pics/116_pzer.png)
-  - 
-  -  
+  - - <span style="color:green">Sehr gute Recon und Support</span>  
+    - <span style="color:green">Guter Panzer-Tab (gute Mischung) und AT-Tab</span>  
+    &nbsp;
+    - <span style="color:red">Zu hohe Slot-Kosten</span>  
+    - <span style="color:red">Viel zu wenig Infanterie</span>  
+    - <span style="color:red">*Balanced* nicht spielbar (zu wenig Tiefe)</span>  
+  - - **Ersatz-Pionier**: Sehr gute Verfügbarkeit in A/B
+    - **Panzer III L**: Guter, günstiger Panzer
+    - **Ju88 A-4 (500kg)**: Guter Bomber
 * - [25. Panzergrenadier](https://steeldivision.fandom.com/wiki/25._Panzergrenadier)
   - ![](pics/25_pg.png)
   - - <span style="color:red">Wenig CQC</span>  
