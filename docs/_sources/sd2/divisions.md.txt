@@ -325,8 +325,13 @@
     - **Ju88 A-4 (500kg)**: Guter Bomber
 * - [25. Panzergrenadier](https://steeldivision.fandom.com/wiki/25._Panzergrenadier)
   - ![](pics/25_pg.png)
-  - - <span style="color:red">Wenig CQC</span>  
-  -  
+  - - <span style="color:green">Sehr gute Recon und AT</span>  
+    - <span style="color:green">Sehr gute Artillerie</span>
+    &nbsp;
+    - <span style="color:red">Sehr schlechte Anti-Air</span>  
+  - - **Stosstrupp (MP44)**: Gute günstige CQC  
+    - **K35(t) 105mm**: Sehr gute Artillerie mit hoher Feuerrate  
+    - **Nebelwerfer 42 300mm**: Beste Rocket Artillerie im Spiel
 * - [28. Jäger](https://steeldivision.fandom.com/wiki/28._J%C3%A4ger)
   - ![](pics/28_jaeger.png)
   - - <span style="color:green">Günstige und gute Infanterie</span>
@@ -348,11 +353,11 @@
     - <span style="color:green">Guter Panzer- und AT-Tab</span>  
     - <span style="color:green">Gute Artillerie</span>  
     &nbsp;
-    - <span style="color:red">Zu hohe Slot-Kosten und zu wenige</span>  
+    - <span style="color:red">Zu hohe Slot-Kosten und zu wenige Slots</span>  
     - <span style="color:red">Mittelmäßige Infanterie</span>
     - <span style="color:red">Zu teuer und langsam</span>  
   - - **SPW 234/2 PUMA**: Sehr gutes gepanzertes Fahrzeug  
-    - **Pz.Grenadier(PzSchk)**: Phänomenale Panzergrenadiere  
+    - **Pz.Grenadier (PzSchk)**: Phänomenale Panzergrenadiere  
     - **Borgward IV**: Kann Teil von Ortschaft zerstören  
     - **FW 190 A-8**: Einer der besten Fighter im Spiel
 * - [20. Panzergrenadier](https://steeldivision.fandom.com/wiki/20._Panzergrenadier)
