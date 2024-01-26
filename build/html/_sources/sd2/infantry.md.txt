@@ -8,20 +8,20 @@
 - Niemals, z.B. Ein-Stern-Infantrie gegen Drei-Stern-Infantrie schicken (auch wenn es eig bessere Truppen sind - werden immer verlieren)
 - Sobald Einheiten "Unterdrückt" sind => sofort "R" drücken (damit überleben deutlich mehr Männer der Einheit)
 - Auswahl des richtigen 'Transport' nicht vergessen: Entscheidend ist die Geschwindigkeit des Transporters (80-100 km/h sind sehr gut).
-- Truppen mit dem 'Disheartened'-Symbol (z.B. KM Flaktruppen) sind sehr robust, gehen aber schneller in *Suppression* (== Unterdrückt).
+- Truppen mit dem **Disheartened**-Symbol (z.B. KM Flaktruppen) sind sehr robust, gehen aber schneller in *Suppression* (== Unterdrückt).
 
 &nbsp;
 
 ## Positionierung  
 
 **Infanterie immer nach ihrer 'Reichweite' (Range) positionieren**, d.h.
-  - 'Assault Squads' oder 'CQC' (z.B. <span style="color:green">Pioniere</span>) (Range: 100-150m) gehören in dichten Wald und in Ortschaften.
-  - 'Rifle Squad' (z.b. <span style="color:green">Panzergrenadiere</span>) (Range: 500-700m) gehören an Rändern von Ortschaften und an Rändern von Wäldern 
+  - **Assault Squads** oder 'CQC' (z.B. <span style="color:green">Pioniere</span>) (Range: 100-150m) gehören in dichten Wald und in Ortschaften.
+  - **Rifle Squad** (z.b. <span style="color:green">Panzergrenadiere</span>) (Range: 500-700m) gehören an Rändern von Ortschaften und an Rändern von Wäldern 
      mit Sicht um gegnerische Infantrie zu bekämpfen (nie in dichten Wald).
-  - 'Assault Engineers' (z.B. <span style="color:green">Sturmpioniere</span>) sind ideal in dichten Wald und in Ortschaften, sind aber sehr
+  - **Assault Engineers** (z.B. <span style="color:green">Sturmpioniere</span>) sind ideal in dichten Wald und in Ortschaften, sind aber sehr
     schlecht auf offenem Feld (sollten immer an Einsatzort gefahren werden).
-  - 'Leader' (z.B. <span style="color:green">Begleit-Führer</span>) sind nicht als Kämpfer gedacht, stehen immer hinter den kämpfenden Truppen.
-  - 'Engineers' (z.B. <span style="color:green">Begleit-Pionier</span>) sind sehr effektiv in dichtem Wald  
+  - **Leader** (z.B. <span style="color:green">Begleit-Führer</span>) sind nicht als Kämpfer gedacht, stehen immer hinter den kämpfenden Truppen.
+  - **Engineers** (z.B. <span style="color:green">Begleit-Pionier</span>) sind sehr effektiv in dichtem Wald  
 
 &nbsp;
 
