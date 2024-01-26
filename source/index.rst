@@ -19,7 +19,7 @@ gameDocs
 
    Grundlagen <sd2/basics.md>
    Divisionen <sd2/divisions.md>
-   Recon <sd2/recon.md>
+   &rarr; Recon <sd2/recon.md>
    Infanterie <sd2/infantry.md>
    Panzer <sd2/panzer.md>
    AT und Support <sd2/at_support.md>
