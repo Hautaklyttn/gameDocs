@@ -19,6 +19,13 @@ gameDocs
 
    Grundlagen <sd2/basics.md>
    Divisionen <sd2/divisions.md>
+   Recon <sd2/recon.md>
+   Infanterie <sd2/infantry.md>
+   Panzer <sd2/panzer.md>
+   AT und Support <sd2/at_support.md>
+   Artillerie <sd2/artillerie.md>
+   Anti-Air <sd2/anti_air.md>
+   Luftwaffe <sd2/luftwaffe.md>
 
 |
 

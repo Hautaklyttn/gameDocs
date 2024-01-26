@@ -1,6 +1,4 @@
-# Steel Division 2
-
-## Übersicht Divisionen
+# Übersicht Divisionen
 
 &rarr; <span style="color:red">Nach Einschätzung AtkPwr Gaming (17.09.2023).</span>    
 
@@ -13,11 +11,11 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 
 &nbsp;
 
-### AXIS
+## AXIS
 
 &nbsp;
 
-#### *S-Tier*
+### *S-Tier*
 
 ```{list-table}
 :header-rows: 1
@@ -48,7 +46,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 
 &nbsp;
 
-#### *A-Tier*
+### *A-Tier*
 
 ```{list-table}
 :header-rows: 1
@@ -132,7 +130,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 
 &nbsp;
 
-#### *B-Tier*
+### *B-Tier*
 
 ```{list-table}
 :header-rows: 1
@@ -263,7 +261,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 
 &nbsp;
 
-#### *C-Tier*
+### *C-Tier*
 
 ```{list-table}
 :header-rows: 1
@@ -416,7 +414,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 
 &nbsp;
 
-#### *D-Tier*
+### *D-Tier*
 
 ```{list-table}
 :header-rows: 1
@@ -453,9 +451,9 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 
 &nbsp;
 
-### ALLIES
+## ALLIES
 
-#### *S-Tier*
+### *S-Tier*
 
 ```{list-table}
 :header-rows: 1
@@ -513,7 +511,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 
 &nbsp;
 
-#### *A-Tier*
+### *A-Tier*
 
 ```{list-table}
 :header-rows: 1
@@ -602,7 +600,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 
 &nbsp;
 
-#### *B-Tier*
+### *B-Tier*
 
 ```{list-table}
 :header-rows: 1
@@ -709,7 +707,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 
 &nbsp;
 
-#### *C-Tier*
+### *C-Tier*
 
 ```{list-table}
 :header-rows: 1
@@ -845,7 +843,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 
 &nbsp;
 
-#### *D-Tier*
+### *D-Tier*
 
 ```{list-table}
 :header-rows: 1
