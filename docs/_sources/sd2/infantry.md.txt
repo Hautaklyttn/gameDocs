@@ -15,7 +15,7 @@
 ## Positionierung  
 
 **Infanterie immer nach ihrer 'Reichweite' (Range) positionieren**, d.h.
-  - **Assault Squads** oder 'CQC' (z.B. <span style="color:green">Pioniere</span>) (Range: 100-150m) gehören in dichten Wald und in Ortschaften.
+  - **Assault Squads** oder **CQC** (z.B. <span style="color:green">Pioniere</span>) (Range: 100-150m) gehören in dichten Wald und in Ortschaften.
   - **Rifle Squad** (z.b. <span style="color:green">Panzergrenadiere</span>) (Range: 500-700m) gehören an Rändern von Ortschaften und an Rändern von Wäldern 
      mit Sicht um gegnerische Infantrie zu bekämpfen (nie in dichten Wald).
   - **Assault Engineers** (z.B. <span style="color:green">Sturmpioniere</span>) sind ideal in dichten Wald und in Ortschaften, sind aber sehr
