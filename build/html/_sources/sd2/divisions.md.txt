@@ -2,6 +2,16 @@
 
 ## Übersicht Divisionen
 
+&rarr; <span style="color:red">Nach Einschätzung AtkPwr Gaming (17.09.2023).</span>    
+
+&nbsp;
+
+```{important}
+Einschätzung bezieht sich auf 'Schnelles Spiel' auf zufälligen Karten. D.h. je besser die Division geranked, desto universeller ist sie.
+```
+
+&nbsp;
+
 ### AXIS
 
 &nbsp;
