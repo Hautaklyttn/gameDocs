@@ -7,7 +7,8 @@
 &nbsp;
 
 ```{important}
-Einschätzung bezieht sich auf 'Schnelles Spiel' auf zufälligen Karten. D.h. je besser die Division geranked, desto universeller ist sie.
+Einschätzung bezieht sich auf 'Schnelles Spiel' auf zufälligen Karten.  
+D.h. **je besser die Division geranked, desto universeller ist sie**.
 ```
 
 &nbsp;
@@ -222,7 +223,7 @@ Einschätzung bezieht sich auf 'Schnelles Spiel' auf zufälligen Karten. D.h. je
     - **He-219/A0**: Sehr gut gegen Bodenziele und gegen Fighter + sehr schnell  
     - **SS-Junker (PzF)** - Sehr gutes Rifle Squad  
     - Taktik: Infanterie Spam  
-* - [1. Páncélos Hadosztály](https://steeldivision.fandom.com/wiki/1._P%C3%A1nc%C3%A9los_Hadoszt%C3%A1ly)
+* - [1. Páncélos](https://steeldivision.fandom.com/wiki/1._P%C3%A1nc%C3%A9los_Hadoszt%C3%A1ly)
   - ![](pics/1stPanc.png)
   - - <span style="color:green">Gute günstige Infanterie</span>  
     - <span style="color:green">Sehr gute leichte Panzer</span>  
@@ -279,12 +280,13 @@ Einschätzung bezieht sich auf 'Schnelles Spiel' auf zufälligen Karten. D.h. je
   - Anmerkungen
 * - [3. Fallschirmjäger](https://steeldivision.fandom.com/wiki/3._Fallschirmj%C3%A4ger_(SD2))
   - ![](pics/3_fj.png)
-  - - <span style="color:green">Sehr starke Recon (u.a. Fs-Scharfschütze)</span>  
-    - <span style="color:green">Sehr starke Infanterie</span>  
+  - - <span style="color:green">Starke Recon (u.a. Fs-Scharfschütze)</span>  
+    - <span style="color:green">Starke Infanterie + Support</span>  
     - <span style="color:green">Sehr starkes Anti-Tank</span>  
     &nbsp;
-    - <span style="color:red">Teure und vgl. weniger Infantrie</span>  
+    - <span style="color:red">Teure und vgl. weniger Infantrie (wenig CQC)</span>  
     - <span style="color:red">Wenig Panzer (nur Stug III)</span>  
+    - <span style="color:red">Mittelmässige Artillerie</span>  
   - - **Fs-Jäger**: Bestes Rifle Squad im Spiel
     &nbsp;
     - **Püppchen**: Short-Range AT-Monster
@@ -537,7 +539,8 @@ Einschätzung bezieht sich auf 'Schnelles Spiel' auf zufälligen Karten. D.h. je
   - ![](pics/84ya_GS.png)
   - - <span style="color:green">Sehr starke Armor</span>  
     - <span style="color:green">Stark in allen Tabs</span>  
-  - - Beste sowjetische Division
+  - - Beste sowjetische Division  
+    - **ISU-152**: Beste sowjetische Einheit im Spiel  
 * - [97-ya Gvard. Strelkovy](https://steeldivision.fandom.com/wiki/97-ya_Gvard._Strelkovy)  
   - ![](pics/97ya_GS.png)
   - - <span style="color:green">Starke Panzer</span>  
@@ -737,10 +740,6 @@ Einschätzung bezieht sich auf 'Schnelles Spiel' auf zufälligen Karten. D.h. je
   - ![](pics/TF_butler.png)
   -  
   -  
-* - [3-ya VDV](https://steeldivision.fandom.com/wiki/3-ya_VDV)  
-  - ![](pics/3ya_VDV.png)
-  -  
-  - 
 * - [29-ya Tank. Korpus](https://steeldivision.fandom.com/wiki/29-ya_Tankovy_Korpus)  
   - ![](pics/29ya_TK.png)
   - - <span style="color:red">Mangel an guter Infanterie</span>  
@@ -880,6 +879,10 @@ Einschätzung bezieht sich auf 'Schnelles Spiel' auf zufälligen Karten. D.h. je
   - Jugoslawische Partisanenarmee
 * - [7. Eesti Laskurdiviis](https://steeldivision.fandom.com/wiki/7._Eesti_Laskurdiviis)  
   - ![](pics/7_estiL.png)
+  -  
+  - 
+* - [3-ya VDV](https://steeldivision.fandom.com/wiki/3-ya_VDV)  
+  - ![](pics/3ya_VDV.png)
   -  
   -   
 ```  
