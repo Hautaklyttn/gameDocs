@@ -36,7 +36,7 @@ Einheiten unter 'Recon' haben keinen Einfluss auf die Frontlinie!
 ## Best of: *Armored Cars*  
 
 ```{list-table}
-:widths: 50 50
+:widths: 70 70
 :header-rows: 1
 
 * - Axis
