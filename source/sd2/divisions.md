@@ -783,7 +783,7 @@
     - <span style="color:red">Hat Probleme auf Nahkampf-Karten</span>  
   -  
 * - [Podv. Gruppa Tyurina](https://steeldivision.fandom.com/wiki/Podv._Gruppa_Tyurina)  
-  - ![](pics/2ya_GTK.png)
+  - ![](pics/podvGT.png)
   - - <span style="color:green">Sehr viel T-34/76 1943 </span>  
     - <span style="color:green">Sehr viel Infanterie</span>  
     &nbsp;
