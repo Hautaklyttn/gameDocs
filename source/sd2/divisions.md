@@ -706,3 +706,170 @@
   -  
   -    
 ```
+
+&nbsp;
+
+#### *C-Tier*
+
+```{list-table}
+:header-rows: 1
+
+* - Division
+  - Wappen
+  - Stärken / Schwächen
+  - Anmerkungen
+* - [9-ya Gvard. Kavalerii](https://steeldivision.fandom.com/wiki/9-ya_Gvard._Kavalerii)  
+  - ![](pics/9ya_GK.png)
+  - - <span style="color:green">Gute günstige Infanterie</span>  
+    - <span style="color:green">Gute Recon</span> 
+  -
+* - [Task Force Butler](https://steeldivision.fandom.com/wiki/Task_Force_Butler)  
+  - ![](pics/TF_butler.png)
+  -  
+  -  
+* - [3-ya VDV](https://steeldivision.fandom.com/wiki/3-ya_VDV)  
+  - ![](pics/3ya_VDV.png)
+  -  
+  - 
+* - [29-ya Tank. Korpus](https://steeldivision.fandom.com/wiki/29-ya_Tankovy_Korpus)  
+  - ![](pics/29ya_TK.png)
+  - - <span style="color:red">Mangel an guter Infanterie</span>  
+  - 
+* - [126-y L. Gornostrelkovy Korpus](https://steeldivision.fandom.com/wiki/126-y_L._Gornostrelkovy_Korpus)  
+  - ![](pics/126y_LGK.png)
+  - - <span style="color:green">Viele leichte Panzer, Rush-Gefahr</span>  
+    - <span style="color:green">Gute Luftwaffe</span> 
+    &nbsp;
+    - <span style="color:red">Mittelmäßige Infanterie</span>  
+    - <span style="color:red">Nur leichte Panzer bis C</span>  
+  - - **Hurricane Mk IIb**: Guter Panzerjäger  
+    - Ab Phase C: **KV-85** und **ISU-152**  
+* - [9 Infanterie](https://steeldivision.fandom.com/wiki/9_Infanterie)  
+  - ![](pics/9_inf.png)
+  - - <span style="color:red">Extrem schlechte Anti-Air</span>  
+    - <span style="color:red">Nicht genug gute Infanterie</span>  
+  - 
+* - [358-ya Strelkova Div](https://steeldivision.fandom.com/wiki/358-ya_Strelkova_Div)  
+  - ![](pics/358ya_SD.png)
+  - - <span style="color:green">2 Karten ISU-122</span>  
+    - <span style="color:green">Gute Infanterie</span> 
+    &nbsp;
+    - <span style="color:red">Nur mittlere und leichte Panzer</span>  
+    - <span style="color:red">Mittelmäßige Artillerie</span>  
+  -  
+* - [Armia Krajowa](https://steeldivision.fandom.com/wiki/Armia_Krajowa)  
+  - ![](pics/armiaKrajowa.png)
+  - - <span style="color:green">Sehr viel Infanterie</span>  
+    - <span style="color:green">Sehr gute CQC-Infanterie</span>  
+    - <span style="color:green">Sehr viele (auch gute) Flugzeuge</span> 
+    &nbsp;
+    - <span style="color:red">Wenig Panzer, vor allem leichte (in B 1 x Panther und 1 x Tiger / in C einige T-34/76 1943)</span>  
+    - <span style="color:red">Sehr schwache Anti-Air (nur 20mm bis C dann 37mm)</span>  
+    - <span style="color:red">Sehr wenig Artillerie</span>  
+  - - Sehr gute CQC: **Ochotnicy** (15 man squad) 
+    - Taktik: Infanterie Spam  
+* - [358-ya Strelkova Div](https://steeldivision.fandom.com/wiki/3-ya_Gvard._Tankovy_Korpus)  
+  - ![](pics/3ya_GTK.png)
+  - - <span style="color:green">3 Karten IS-2 1944, 2 Karten ISU-152</span>  
+    &nbsp;
+    - <span style="color:red">Hat Probleme auf Nahkampf-Karten</span>  
+  -  
+* - [2-ya Gvard. Tankovy Korpus](https://steeldivision.fandom.com/wiki/2-ya_Gvard._Tankovy_Korpus)  
+  - ![](pics/2ya_GTK.png)
+  - - <span style="color:green">Sehr viel günstige Infanterie</span>  
+    - <span style="color:green">Viel T-34/76 1943 und T-34/85 1944 (vor allem ab C)</span>  
+    - <span style="color:green">Gute Artillerie</span>  
+    &nbsp;
+    - <span style="color:red">Hat Probleme auf Nahkampf-Karten</span>  
+  -  
+* - [Podv. Gruppa Tyurina](https://steeldivision.fandom.com/wiki/Podv._Gruppa_Tyurina)  
+  - ![](pics/2ya_GTK.png)
+  - - <span style="color:green">Sehr viel T-34/76 1943 </span>  
+    - <span style="color:green">Sehr viel Infanterie</span>  
+    &nbsp;
+    - <span style="color:red">Keine schweren Panzer</span>  
+    - <span style="color:red">Probleme gegen schwere Panzer</span>  
+  -  
+* - [6th SA Armoured](https://steeldivision.fandom.com/wiki/6th_SA_Armoured)  
+  - ![](pics/6thSA_armor.png)
+  - - <span style="color:green">Gute Panzer und Anti-Tank</span>  
+    - <span style="color:green">Guter Artillerie-Panzer (M10 Grouse)</span>  
+    &nbsp;
+    - <span style="color:red">Sehr schwache Infanterie (wenig CQC)</span>  
+  - - **M10 Grouse**: Starker Artillerie-Panzer
+* - [Bronirana Brigada](https://steeldivision.fandom.com/wiki/Bronirana_Brigada)  
+  - ![](pics/broniBrig.png)
+  - - <span style="color:green">Viele kleine günstige Panzer</span> 
+    &nbsp;
+    - <span style="color:red">Schwache Infanterie (wenig CQC)</span>  
+    - <span style="color:red">Schwacher Support</span>  
+    - <span style="color:red">Probleme gegen schwere Panzer</span>  
+    - <span style="color:red">Mittelmäßige Artillerie</span>  
+  -  
+* - [Podv. Gruppa Bezuglogo](https://steeldivision.fandom.com/wiki/Podv._Gruppa_Bezuglogo)  
+  - ![](pics/podvGB.png)
+  - - <span style="color:green">Gute Recon</span>  
+    - <span style="color:green">Viel Infanterie</span>  
+    &nbsp;
+    - <span style="color:red">Schwächere Panzer</span>  
+    - <span style="color:red">Mittelmässige Anti-Tank</span>  
+    - <span style="color:red">Schwache 2K</span>  
+  - - 2 Karten **Shtrafniki**  
+    - 1 Karte Beutetiger (**T-6 Tigr**)  
+    - **OB-25 76.2mm**: Bestes HE-Geschütz
+* - [15th Infantry](https://steeldivision.fandom.com/wiki/15th_Infantry_(SD2))  
+  - ![](pics/15th_inf.png)
+  - - <span style="color:red">Schwache Infanterie (schlechte Rifles)</span>  
+    - <span style="color:red">Sehr langsame Division</span>  
+  -
+* - [3rd Canadian Infantry](https://steeldivision.fandom.com/wiki/3rd_Canadian_Infantry_(SD2))  
+  - ![](pics/3rd_cana.png)
+  - - <span style="color:green">Sehr gute Anti-Tank</span>  
+    - <span style="color:green">Sehr gute Anti-Air</span>  
+    &nbsp;
+    - <span style="color:red">Schwache Infanterie</span>  
+    - <span style="color:red">Mittelmässige Panzer</span>  
+    - <span style="color:red">Mittelmässige Artillerie</span>  
+  - - **17-PDR 76.2mm**: sehr gutes AT Geschütz (2 Karten) 
+* - [3-ya Gvard. Mechanizi. Korpus](https://steeldivision.fandom.com/wiki/3-ya_Gvard._Mechanizi._Korpus)  
+  - ![](pics/3ya_GMK.png)
+  -  
+  - 
+* - [184-ya Strelkovy](https://steeldivision.fandom.com/wiki/3-ya_Gvard._Mechanizi._Korpus)  
+  - ![](pics/184ya_strel.png)
+  - - <span style="color:red">Viele ISU-122 (nicht besonders gut)</span>  
+  - 
+* - [Morskaya Gruppa Bakhtina](https://steeldivision.fandom.com/wiki/3-ya_Gvard._Mechanizi._Korpus)  
+  - ![](pics/moskayaGB.png)
+  - - <span style="color:green">Sehr gute Infanterie</span>  
+    &nbsp;
+    - <span style="color:red">Wenig Panzer</span>  
+  -   
+```  
+
+&nbsp;
+
+#### *D-Tier*
+
+```{list-table}
+:header-rows: 1
+
+* - Division
+  - Wappen
+  - Stärken / Schwächen
+  - Anmerkungen
+* - [19-y Tankovy Korpus](https://steeldivision.fandom.com/wiki/19-y_Tankovy_Korpus)  
+  - ![](pics/19ya_TK.png)
+  - - <span style="color:red">Sehr wenig Infanterie</span>  
+    - <span style="color:red">Insgesamt schwer zu spielen</span>  
+  - 
+* - [NOV](https://steeldivision.fandom.com/wiki/NOV)  
+  - ![](pics/nov.png)
+  - - <span style="color:red">Wenig Panzer</span>  
+    - <span style="color:red">Schlechte Anti-Tank</span>  
+  - Jugoslawische Partisanenarmee
+* - [7. Eesti Laskurdiviis](https://steeldivision.fandom.com/wiki/7._Eesti_Laskurdiviis)  
+  - ![](pics/7_estiL.png)
+  -  
+  -   
+```  
