@@ -4,41 +4,50 @@
 
 ## Allgemeine Infos
 
-- Infantrie in Bewegung erleidet mehr Schaden als stationäre Infantrie
-- Niemals, z.B. Ein-Stern-Infantrie gegen Drei-Stern-Infantrie schicken (auch wenn es eig bessere Truppen sind - werden immer verlieren)
-- Sobald Einheiten "Unterdrückt" sind => sofort "R" drücken (damit überleben deutlich mehr Männer der Einheit)
-- Auswahl des richtigen 'Transport' nicht vergessen: Entscheidend ist die Geschwindigkeit des Transporters (80-100 km/h sind sehr gut).
-- Truppen mit dem 'Disheartened'-Symbol (z.B. KM Flaktruppen) sind sehr robust, gehen aber schneller in *Suppression* (== Unterdrückt).
+```{important}
+Einheiten unter 'Recon' haben keinen Einfluss auf die Frontlinie!
+```
+
+- 'Recon'-Einheiten sind in erster Linie zum Aufklären gedacht, können aber auch sehr effektiv im 
+   rückwärtigen Raum des Gegners Versorgungslinien stören und Infantrie/Fahrzeuge zerstören.
+- Gepanzerte Fahrzeuge (z.B. SPW AB 41, SPW 222 (!), SPW 231 oder SPW 233) sind sehr gut, sind ihren Preis immer wert. 
+  Sehr gut zu Beginn (Phase A) gegen Infantrie oder gegnerische Transporte.  
 
 &nbsp;
 
-## Positionierung  
+## Recontypen - Eigenschaften  
 
-**Infanterie immer nach ihrer 'Reichweite' (Range) positionieren**, d.h.
-  - 'Assault Squads' oder 'CQC' (z.B. `Pioniere`) (Range: 100-150m) gehören in dichten Wald und in Ortschaften.
-  - 'Rifle Squad' (z.b. `Panzergrenadiere`) (Range: 500-700m) gehören an Rändern von Ortschaften und an Rändern von Wäldern 
-     mit Sicht um gegnerische Infantrie zu bekämpfen (nie in dichten Wald).
-  - 'Assault Engineers' (z.B. `Sturmpioniere`) sind ideal in dichten Wald und in Ortschaften, sind aber sehr
-    schlecht auf offenem Feld (sollten immer an Einsatzort gefahren werden).
-  - 'Leader' (z.B. `Begleit-Führer`) sind nicht als Kämpfer gedacht, stehen immer hinter den kämpfenden Truppen.
-  - 'Engineers' (z.B. `Begleit-Pionier`) sind sehr effektiv in dichtem Wald  
+- <span style="color:green">Fs-Aufklärer</span> haben in manchen Divisionen die Möglichkeit im **SPW 222** ausgewählt zu werden,
+   dann unbedingt ins Deck nehmen (sehr stark!).
+- <span style="color:green">Fs-Spähtrupp</span> sind nicht zu empfehlen, da sie zu schwach sind um auch mal jmd zu bekämpfen, aber
+   auch zu auffällig für den reinen Recon-Einsatz. Haben sie eine Anti-Tank-Waffe, dann unbedingt
+   auswählen (sehr nützlich als Tank-Killer hinter den Linien!).
+- <span style="color:green">Fs-Pz.Abwehr</span> ist eine sehr effektive Einheit und sollte immer ausgewählt werden (sehr nützlich als 
+   Tank-Killer hinter den Linien!).
+- <span style="color:green">SPW AB 41</span>, <span style="color:green">SPW 222</span> (!), <span style="color:green">SPW 231</span> 
+  oder <span style="color:green">SPW 233</span> sind immer auszuwählen, sehr gut gegen feindliche Geschütze, Infantrie, Versorgung 
+  und teilweise gegen Panzer.
+- <span style="color:green">Fs-Scharfschütze</span> sind sehr effektiv/stark und sollten immer im Deck sein.
+- Wenn <span style="color:green">Panzer III</span> auswählbar unter 'Recon' dann unbedingt auswählen, sehr gut Einheit.
+- <span style="color:green">SDKFZ 250/9</span> hat sehr wenig Munition, nicht empfehlenswert.
 
 &nbsp;
 
-## Infanterietypen - Eigenschaften  
+## Best of: *Armored Cars*  
 
-### Deutsche Einheiten
+```{list-table}
+:header-rows: 1
 
-- `Grenadiere` sind deutlich schwächer als `Panzergrenadiere` - **sind ok auf Entfernung, schlecht im Nahkampf!**
-- `Panzergrenadiere` sind solide Einheit mit 2x MG, sehr gut auf Entfernung, **schlecht im Nahkampf**, gehören nicht in den Wald!
-- Stärkste `Panzergrenadiere` sind die mit 2 x MG-42 (andere Typen 'MG-26' oder 'MG-34')
-- `Sturmpionier` sind gut im Nahkampf (Flammenwerfer), schlecht im Fernkampf, für den Einsatz im Wald/Ortschaften gedacht.
-- `Fs.Jäger` sind mit die beste (dt.) Infantrieeinheit auf Entfernung und mittlere Distanz (nicht in dichten Wald/Ortschaften!).
-- `Ersatztruppen` sind generell sehr schwach ('Disheartened'), wenn dann in der Masse nutzen.
-- `Sicherungs-x` sind etwas bessere 'Grenadiere' mit AT-Fähigkeiten, preiswert deshalb nicht schlecht.
-- `Stosstrupp` sind preiwert, daher ok, sehr gut sind die `Stosstrupp (Beretta)`, sollten immer ausgewählt werden.
-- `Begleit-x` sind sehr gut auf mittlere Entfernung, schwach auf lange Entfernung. Sehr gut in Ortschaften oder offenem Wald (gelb: leichte Deckung)!
-  
-- `Führer` jeder Art erhöhen den Vet-Status jeder Einheit um ihn herum um 1!
-- `Kommandanten` jeder Art erhöhen den Vet-Status jeder Einheit um ihn herum um 2!
-- `Führer` im Bereich eines `Kommandanten` erhöhen Vet-Status jeder Einheit um ihn herum um 2!
+* - Axis
+  - Allies
+* - |**1. SPW 233 (can kill small tanks)**  
+    |2. SPW 231  
+    |3. SDKFZ 250/9  
+    |4. SPW 222  
+  - |**1. BA-10M**  
+    |2. M8  
+    |3. Staghound Mk. I  
+    |4. SU-57 (AT-Gun only)  
+```
+
+**'BA-10M'**: Bestes armored car in SD2 - sehr günstig
