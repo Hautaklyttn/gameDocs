@@ -31,7 +31,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - - <span style="color:green">Sehr stark durch die Bank</span>  
     &nbsp;
     - <span style="color:red">Im Grunde keine Schwäche</span>  
-  -
+  - - **Stug IV**: Bester Medium Tank im Spiel
 * - [4. Fallschirmjäger](https://steeldivision.fandom.com/wiki/4._Fallschirmj%C3%A4ger)
   - ![](pics/4_fj.png)
   - - <span style="color:green">Sehr starke Infanterie</span>  
@@ -41,11 +41,8 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Teure Einheiten</span>  
   - - **LG40**: Ist keine LG42, nicht benutzen
-    &nbsp;
     - **Bf 110 G-4b/R3 (M1/M5)**: Sehr guter AT-Jäger
-    &nbsp;
     - **Z.1007ter serie XIII ALCIONE**: Schwerer Bomber mit Widerstand 'Sehr Gut'
-    &nbsp;
     - Taktik: Viel mit Flugzeugen schon ab A arbeiten  
 ```
 
@@ -69,11 +66,8 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Schwächere Anti-Air</span>  
     - <span style="color:red">Mittelmässige Flugzeuge</span>  
   - - **LG40**: Ist keine LG42, nicht benutzen
-    &nbsp;
     - **He 111 H-21**: Brauchbar gegen Panzer
-    &nbsp;
     - Taktik: Infantrie Spam
-    &nbsp;
     - Taktik: Light/Medium Tank Spam
 * - [Gruppe Harteneck](https://steeldivision.fandom.com/wiki/Gruppe_Harteneck)
   - ![](pics/grupHart.png)
@@ -480,9 +474,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Wenig CQC</span>  
   - - **Typhoon Mk Ib**: Beste AT Rocket Flugzeug im Spiel  
-    &nbsp;
     - **17-PDR 76.2mm**: sehr gutes AT Geschütz (2 Karten)  
-    &nbsp;
     - **Zeniste**: Sehr gute CQC (4 Thompson + Flamer)  
 * - [2nd Infantry](https://steeldivision.fandom.com/wiki/2nd_Infantry)
   - ![](pics/2nd_inf.png)
@@ -501,26 +493,21 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Extrem Phase-Locked Anti-Tank</span>  
     - <span style="color:red">Mittelmässige Artillerie</span>  
   - - Sehr viele **Hellcat I** Cards bei Flugzeugen  
-    &nbsp;
     - Sehr viele **Shermans**  
-    &nbsp;
     - **Commando No4**: Mit die beste CQC im Spiel  
-    &nbsp;
     - **Commando No6**: Sehr gutes Rifle Squad mit Sniper  
 * - [1st Airborne TaskForce](https://steeldivision.fandom.com/wiki/1st_Airborne_Task_Force)
   - ![](pics/1st_airTF.png)
   - - <span style="color:green">Viel sehr gute Infanterie + Recon</span>  
     - <span style="color:green">Sehr gute Luftwaffe</span>  
+    - <span style="color:green">Sehr gute Anti-Tank</span>  
     &nbsp;
     - <span style="color:red">Deck hat keine Tiefe, d.h. wird wohl nicht 'Balanced' gespielt werden</span>  
     - <span style="color:red">Schlechte Anti-Air, keine AA in Phase A</span>  
     - <span style="color:red">Mittelmäßige Artillerie</span>  
   - - **Forceman**: sehr starke CQC/Mid-Range Infanterie  
-    &nbsp;
     - **Beaufighter Mk X**: starkes AT Flugzeug  
-    &nbsp;
     - Taktik: Häuserkampf/Nahkampf suchen  
-    &nbsp;
     - Taktik: Kampf im offenen Gelände vermeiden  
 ```
 
@@ -539,7 +526,8 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - ![](pics/84ya_GS.png)
   - - <span style="color:green">Sehr starke Armor</span>  
     - <span style="color:green">Stark in allen Tabs</span>  
-  - - Beste sowjetische Division
+  - - Beste sowjetische Division  
+    - **ISU-152**: Beste sowjetische Einheit im Spiel  
 * - [97-ya Gvard. Strelkovy](https://steeldivision.fandom.com/wiki/97-ya_Gvard._Strelkovy)  
   - ![](pics/97ya_GS.png)
   - - <span style="color:green">Starke Panzer</span>  
