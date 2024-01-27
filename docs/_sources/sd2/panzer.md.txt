@@ -124,13 +124,14 @@ Entscheidend ist das Wissen: <span style="color:red">**Was kann ich womit töten
     3. Tiger E (bessere SideArmor und HE-Damage  
     als Panther; bester HT LongRange Killer \[\*\])   
   - **1. T34/85 obr.1944 (== KV 85)**  
-    (Preis-Leistungs-Sieger)
+    (Preis-Leistungs-Sieger)  
     2. Firefly Vc  
     3. Crocodile (sehr starke FP, günstig,  
     +Flammenwerfer)  
 ```
 \[\*\] "Tiger E" hat weniger 'Penetration' im Vergleich zum "Panther". Allerdings ist sein 'Penetration Drop-Off' auf die 
-Entfernung geringer als beim "Panther"! D.h. **auf Entfernung ist der "Tiger E" stärker als der "Panther".**
+Entfernung geringer als beim "Panther"!  
+D.h. **auf Entfernung ist der "Tiger E" stärker als der "Panther".**
 
 &nbsp;
 
@@ -143,12 +144,12 @@ Entfernung geringer als beim "Panther"! D.h. **auf Entfernung ist der "Tiger E" 
 * - Axis
   - Allies
 * - **1. Königstiger (H)**  
-    (beste Kanone, immens teuer) 
+    (beste Kanone, immens teuer)  
     2. Elefant  
-    (sehr langsam, beste Kanone, teuer)
+    (sehr langsam, beste Kanone, teuer)  
     3. Jagdpanther  
     (niedrige FP, beste Kanone)
   - **1. IS 2 obr. 1944**  
-    (kill in one shot) 
+    (kill in one shot)  
     2. ISU-152 (nur 125mm FP)  
 ```
