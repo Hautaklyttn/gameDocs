@@ -73,7 +73,7 @@ Entscheidend ist das Wissen: <span style="color:red">**Was kann ich womit töten
 ## Best of: *Light Tanks*  
 
 ```{list-table}
-:widths: 90 90
+:widths: 110 110
 :header-rows: 1
 
 * - Axis
@@ -138,7 +138,7 @@ D.h. **auf Entfernung ist der "Tiger E" stärker als der "Panther".**
 ## Best of: *Super Heavy Tanks*  
 
 ```{list-table}
-:widths: 70 70
+:widths: 110 110
 :header-rows: 1
 
 * - Axis
