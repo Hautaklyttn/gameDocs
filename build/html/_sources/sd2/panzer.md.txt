@@ -73,7 +73,7 @@ Entscheidend ist das Wissen: <span style="color:red">**Was kann ich womit töten
 ## Best of: *Light Tanks*  
 
 ```{list-table}
-:widths: 70 70
+:widths: 90 90
 :header-rows: 1
 
 * - Axis
@@ -94,7 +94,7 @@ Entscheidend ist das Wissen: <span style="color:red">**Was kann ich womit töten
 ## Best of: *Medium Tanks*  
 
 ```{list-table}
-:widths: auto
+:widths: 50 50
 :header-rows: 1
 
 * - Axis
