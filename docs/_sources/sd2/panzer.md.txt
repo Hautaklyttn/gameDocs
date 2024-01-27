@@ -35,7 +35,7 @@ Entscheidend ist das Wissen: <span style="color:red">**Was kann ich womit töten
 
   &nbsp;
 
-  ## Positionierung
+## Positionierung
 
 - In der Defensive an Straßen positionieren und dann eine Kurve im Auge haben  
   &rarr; Erster Schuss ist sicher meiner!
@@ -82,7 +82,7 @@ Entscheidend ist das Wissen: <span style="color:red">**Was kann ich womit töten
     (bester Light Tank im Spiel \[\*\])  
     2. 41M Turan II  
     3. Panzer II Luchs   
-  - **Valentine IX (sehr langsam)**  
+  - **1. Valentine IX (sehr langsam)**  
     2. M5A1  
     3. BT-7 (schnellster Panzer im Spiel)  
     4. T-26E  
@@ -90,3 +90,65 @@ Entscheidend ist das Wissen: <span style="color:red">**Was kann ich womit töten
 \[\*\] Penetration:150mm; +APCR Shells: kann jeden Medium Tank penetrieren!
 
 &nbsp;
+
+## Best of: *Medium Tanks*  
+
+```{list-table}
+:widths: 70 70
+:header-rows: 1
+
+* - Axis
+  - Allies
+* - **1. Stug IV**  
+    2. Stug III G  
+    3. Panzer IV   
+  - **1. T34/76 obr.1942 (== T-34E, 90mm FP)**  
+    (günstig, sehr gut in Ortschaften)  
+    2. M4A1(76)  
+    3. Sherman V  
+```
+
+&nbsp;
+
+## Best of: *Heavy Tanks*  
+
+```{list-table}
+:widths: 70 70
+:header-rows: 1
+
+* - Axis
+  - Allies
+* - **1. Panther A/G**  
+    (Schneller, höhere Pen als Tiger E, aber teurer)  
+    2. Panther D  
+    3. Tiger E (bessere SideArmor und HE-Damage  
+    als Panther; bester HT LongRange Killer \[\*\])   
+  - **1. T34/85 obr.1944 (== KV 85)**  
+    (Preis-Leistungs-Sieger)
+    2. Firefly Vc  
+    3. Crocodile (sehr starke FP, günstig,  
+    +Flammenwerfer)  
+```
+\[\*\] "Tiger E" hat weniger 'Penetration' im Vergleich zum "Panther". Allerdings ist sein 'Penetration Drop-Off' auf die 
+Entfernung geringer als beim "Panther"! D.h. **auf Entfernung ist der "Tiger E" stärker als der "Panther".**
+
+&nbsp;
+
+## Best of: *Super Heavy Tanks*  
+
+```{list-table}
+:widths: 70 70
+:header-rows: 1
+
+* - Axis
+  - Allies
+* - **1. Königstiger (H)**  
+    (beste Kanone, immens teuer) 
+    2. Elefant  
+    (sehr langsam, beste Kanone, teuer)
+    3. Jagdpanther  
+    (niedrige FP, beste Kanone)
+  - **1. IS 2 obr. 1944**  
+    (kill in one shot) 
+    2. ISU-152 (nur 125mm FP)  
+```
