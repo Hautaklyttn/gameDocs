@@ -29,7 +29,7 @@
 
 &nbsp;
 
-### Deutsche Einheiten
+### Axis Einheiten
 
 - <span style="color:green">Grenadiere</span> sind deutlich schwächer als <span style="color:green">Panzergrenadiere</span> - **sind ok auf Entfernung, schlecht im Nahkampf!**
 - <span style="color:green">Panzergrenadiere</span> sind solide Einheit mit 2x MG, sehr gut auf Entfernung, **schlecht im Nahkampf**, gehören nicht in den Wald!
@@ -45,4 +45,96 @@
 
 - <span style="color:green">Führer</span> jeder Art erhöhen den Vet-Status jeder Einheit um ihn herum um 1!
 - <span style="color:green">Kommandanten</span> jeder Art erhöhen den Vet-Status jeder Einheit um ihn herum um 2!
-- <span style="color:green">Führer</span> im Bereich eines <span style="color:green">Kommandanten</span> erhöhen Vet-Status jeder Einheit um ihn herum um 2!
+- <span style="color:green">Führer</span> im Bereich eines <span style="color:green">Kommandanten</span> erhöhen Vet-Status jeder Einheit um ihn herum um 2!  
+
+&nbsp;
+
+## Best of: *Infantry Types*  
+
+### Axis Einheiten
+
+#### Assault Squad / CQC (0 - 100m)
+
+```{list-table}
+:widths: 50 50 50
+:header-rows: 1
+
+* - Herausragend
+  - Gut
+  - Schlecht
+* - **Pionieri Asalt**   
+    Fs-Pionier  
+    Brandenburger  
+    Begleit-Pionier  
+    Geb. Pionier  
+    Pionieri
+  - ...
+  - ...
+```
+
+&nbsp;
+
+#### Rifle Squad (100 - 500m)
+
+```{list-table}
+:widths: 50 50 50
+:header-rows: 1
+
+* - Herausragend
+  - Gut
+  - Schlecht
+* - **Fs-Jäger**   
+    Huszar Golyoszorosok  
+    Schützen  
+    Pz.Grenadier  
+    Begleit-Grenadier  
+  - ...
+  - ...
+```
+
+&nbsp;
+
+### Allies Einheiten
+
+#### Assault Squad - CQC
+
+#### Assault Squad / CQC (0 - 100m)
+
+```{list-table}
+:header-rows: 1
+
+* - Herausragend
+  - Gut
+  - Schlecht
+* - **Legion.Sap.-Pionniers**   
+    Avto.Shtrafniki (off)  
+    Shturmoviki (Roks)  
+    Morsk. Avto.  
+    Saperi (Roks)  
+    Legionnaires  
+    Demolition Group  
+    Ox & Bucks  
+    Arditi
+  - ...
+  - ...
+```
+
+&nbsp;
+
+#### Rifle Squad (100 - 500m)
+
+```{list-table}
+:header-rows: 1
+
+* - Herausragend
+  - Gut
+  - Schlecht
+* - **Shtrafniki (20 men!)**   
+    Fucilieri (Bren)  
+    Nisei Rifles  
+    Bimp  
+    Maori  
+    Rifles (Late)
+  - ...
+  - ...
+```
