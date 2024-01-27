@@ -51,12 +51,13 @@
 
 ## Best of: *Infantry Types*  
 
-### Axis Einheiten
+&nbsp;
 
-#### Assault Squad / CQC (0 - 100m)
+### Assault Squad / CQC (0 - 100m)
+
+#### Axis
 
 ```{list-table}
-:widths: 50 50 50
 :header-rows: 1
 
 * - Herausragend
@@ -72,33 +73,7 @@
   - ...
 ```
 
-&nbsp;
-
-#### Rifle Squad (100 - 500m)
-
-```{list-table}
-:widths: 50 50 50
-:header-rows: 1
-
-* - Herausragend
-  - Gut
-  - Schlecht
-* - **Fs-Jäger**   
-    Huszar Golyoszorosok  
-    Schützen  
-    Pz.Grenadier  
-    Begleit-Grenadier  
-  - ...
-  - ...
-```
-
-&nbsp;
-
-### Allies Einheiten
-
-#### Assault Squad - CQC
-
-#### Assault Squad / CQC (0 - 100m)
+#### Allies
 
 ```{list-table}
 :header-rows: 1
@@ -121,7 +96,26 @@
 
 &nbsp;
 
-#### Rifle Squad (100 - 500m)
+### Rifle Squad (100 - 500m)
+
+#### Axis
+
+```{list-table}
+:header-rows: 1
+
+* - Herausragend
+  - Gut
+  - Schlecht
+* - **Fs-Jäger**   
+    Huszar Golyoszorosok  
+    Schützen  
+    Pz.Grenadier  
+    Begleit-Grenadier  
+  - ...
+  - ...
+```
+
+#### Allies
 
 ```{list-table}
 :header-rows: 1
