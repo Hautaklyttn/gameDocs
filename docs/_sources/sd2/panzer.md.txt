@@ -14,16 +14,15 @@ Entscheidend ist das Wissen: <span style="color:red">**Was kann ich womit töten
 &nbsp;
 
 **Sonstiges**  
-    - Maximal mögliche Range sind 2000m
-    - Deutsche Panzer haben einen Range-Vorteil (Mittelwert 1750m gegenüber 1500m bei Allies)
-
-    - Panzer haben sehr geringe Sicht und sollten immer durch Aufklärer begleitet werden
-    - Wenn beschossen und Rückzug, immer 'G' drücken (Rückwärtsgang) und zurück, nicht umdrehen!
-    - Panzer können durch HE (High Explosive) Waffen sterben, nicht nur durch AP (Armor Piercing)!
-    - Penetration wird geringer über Entfernung!
-    - Panzer sind in erster Linie **Support-Waffe gegen gegnerische Panzer**, sollten nicht gegen Infantrie eingesetzt werden.
-    - Schwere Panzer sind in erster Linie nicht für die Attacke gedacht!  
-    &rarr; <span style="color:red">Einsatzgebiet ist Halten von Open Ground mit großer Sichtweite!</span>  
+  - Maximal mögliche Range sind 2000m  
+  - Deutsche Panzer haben einen Range-Vorteil (Mittelwert 1750m gegenüber 1500m bei Allies)  
+  - Panzer haben sehr geringe Sicht und sollten immer durch Aufklärer begleitet werden  
+  - Wenn beschossen und Rückzug, immer 'G' drücken (Rückwärtsgang) und zurück, nicht umdrehen!  
+  - Panzer können durch HE (High Explosive) Waffen sterben, nicht nur durch AP (Armor Piercing)!  
+  - Penetration wird geringer über Entfernung!  
+  - Panzer sind in erster Linie **Support-Waffe gegen gegnerische Panzer**, sollten nicht gegen Infantrie eingesetzt werden.  
+  - Schwere Panzer sind in erster Linie nicht für die Attacke gedacht!  
+  &rarr; <span style="color:red">Einsatzgebiet ist Halten von Open Ground mit großer Sichtweite!</span>  
 
 &nbsp;
 
