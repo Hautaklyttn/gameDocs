@@ -101,16 +101,26 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - Mit der beste Panzer-Tab im Spiel!  
 * - [26. Panzer](https://steeldivision.fandom.com/wiki/26._Panzer)
   - ![](pics/26_pzer.png)
-  - - <span style="color:red">Schwächere Anti-Air</span>  
+  - - <span style="color:green">Starke Recon (Panzer III + IV)</span>  
+    - <span style="color:green">Gute Panzer + AT</span>  
+    - <span style="color:green">Gute Panzer</span>  
+    &nbsp;
+    - <span style="color:red">Schwächere Anti-Air + Artillerie</span>  
     - <span style="color:red">Keine AT-Flugzeuge</span>  
-  -
+  - - **Flammpz.III M**: Sehr gute Nahkampfwaffe  
+    - **Bf 109 G-6/R4**: Doppel 30mm Jäger - sehr stark
 * - [5 Cavalerie Motorizata](https://steeldivision.fandom.com/wiki/5_Cavalerie_Motorizata)
   - ![](pics/5_cav.png)
-  - - <span style="color:green">Sehr starke Infanterie</span>  
+  - - <span style="color:green">Perfekte Infanterie/Recon + viel!</span>  
+    - <span style="color:green">Starker Anti-Tank-Tab (Resita)</span>  
+    - <span style="color:green">Starker Air-Tab (3 Karten Anti-Tank!)</span>  
     &nbsp;
-    - <span style="color:red">Wenig Panzer</span>  
+    - <span style="color:red">Wenig Panzer und Artillerie</span>  
     - <span style="color:red">Mangel an 2k (AP und HE)</span>  
-  -
+  - - **Calarasi**: 10-Mann Recon mit Scharfschütze + Panzerfaust!
+    - **Rosiori**: Starkes Rifle Squad (Hammer Availability-Kurve!) das auch Nahkampf kann
+    - **Pionieri Calari**: Starke Pioniere (Hammer Availability-Kurve!)
+    - **Pionieri Asalt**: Sehr starke 10-Mann Flammenwerfer CQC
 * - [715. Infanterie](https://steeldivision.fandom.com/wiki/715._Infanterie)
   - ![](pics/715_inf.png)
   - - <span style="color:green">Sehr gute Recon</span>  
@@ -122,7 +132,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Im Grunde nur Panzer IV</span>  
     - <span style="color:red">Schwache Flugzeuge</span>  
   - - S-Tier Potential!
-    - **SDKFZ 135/1 149mm**: Extrem gute Artillerie!
+    - **SDKFZ 135/1 150mm**: Sehr gute Artillerie! Bessere Hummel (2fache Mun, Reichweite!)
     - **Mörser 531(f) 220mm**: Guter Mörser
     - **Decima + Decima Ardetti**: Sehr gute Infanterie
     - **Pz.Grenadier '41**: Verbesserte Panzergrenadiere
@@ -251,8 +261,16 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   -
 * - [1. Skijäger](https://steeldivision.fandom.com/wiki/1._Skij%C3%A4ger)
   - ![](pics/1_sj.png)
-  -
-  -
+  - - <span style="color:green">Guter Support- + AT-Tab</span>  
+    - <span style="color:green">Solide Artillerie + Air</span>  
+    &nbsp;
+    - <span style="color:red">Wenig Infanterie, schnell aufgebraucht</span>  
+    - <span style="color:red">Schwacher Panzer-Tab</span>  
+  - - Aggressiv zu spielendes Deck, wenig Tiefe. Insgesamt wenig Karten.
+    - **Sturm-Skijäger**: 9 MP44 + AT-Grenade
+    - **Sturmpanzer KV-2(r)**: One-Shoot Killer! Beste Einheit im Deck
+    - **Panzerjäger RSO**: PAK-40 auf Ketten für 35 Pkt!  
+    - **Bf 109 G-6/R4**: Doppel 30mm Jäger - sehr stark
 * - [25. Hadosztály](https://steeldivision.fandom.com/wiki/25._Hadoszt%C3%A1ly)
   - ![](pics/25_hados.png)
   -
