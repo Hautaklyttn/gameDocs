@@ -3,17 +3,20 @@
 ## Allgemeine Infos
 
 ```{list-table}
-:widths: 110 110
 :header-rows: 1
 
 * - Typ
   - Kaliber
+  - Beispiele
 * - **Light Artillerie**   
   - ~75mm  
+  -
 * - **Medium Artillerie**   
-  - 100-105mm (z.B. <span style="color:green">sK 18 105mm</span>)  
+  - 100-105mm    
+  - <span style="color:green">sK 18 105mm</span>
 * - **Heavy Artillerie**   
-  - >150mm (z.B. <span style="color:green">s.FH 18 150mm</span>)  
+  - \>150mm   
+  - <span style="color:green">s.FH 18 150mm</span>
 ```
 
 - *Mörser* und *Artillerie* wenn möglich immer mit SupplyTruck (z.B. <span style="color:green">Maultier MUN</span>)!  

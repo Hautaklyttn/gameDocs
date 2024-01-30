@@ -3,17 +3,20 @@
 ## Allgemeine Infos  
 
 ```{list-table}
-:widths: 110 110
 :header-rows: 1
 
 * - Typ
   - Kaliber
+  - Beispiele
 * - **Light AA-Gun**   
-  - ~20mm (z.B. <span style="color:green">FLAK 38 20mm</span>)  
+  - ~20mm    
+  - <span style="color:green">FLAK 38 20mm</span>
 * - **Medium AA-Gun**   
-  - 37-40mm (z.B. <span style="color:green">FLAK 43 37mm</span>)  
+  - 37-40mm    
+  - <span style="color:green">FLAK 43 37mm</span>
 * - **Heavy AA-Gun**   
-  - 70-105mm (z.B. <span style="color:green">FLAK 41 88mm</span>)  
+  - 70-105mm  
+  - <span style="color:green">FLAK 41 88mm</span>  
 ```
 
 - Im Gegensatz zu Panzern und anderen Bodengeschützen sind die Eigenschaften *Suppress* und *Blast* von entscheidender Bedeutung.  
