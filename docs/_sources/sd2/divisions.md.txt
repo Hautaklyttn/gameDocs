@@ -103,7 +103,6 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - ![](pics/26_pzer.png)
   - - <span style="color:green">Starke Recon (Panzer III + IV)</span>  
     - <span style="color:green">Gute Panzer + AT</span>  
-    - <span style="color:green">Gute Panzer</span>  
     &nbsp;
     - <span style="color:red">Schwächere Anti-Air + Artillerie</span>  
     - <span style="color:red">Keine AT-Flugzeuge</span>  
