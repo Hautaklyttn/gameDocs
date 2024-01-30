@@ -35,9 +35,10 @@
 &nbsp;
 - <span style="color:green">Fw 190 A-6</span>: sehr guter Jäger, bester Axis-Jäger.  
 - <span style="color:green">Fw 190 F-3</span>: guter Bomber gegen Infantrie, aber schlechte Resilience.  
+- <span style="color:green">Fw 190 F-8</span>: Solides AT-Flugzeug, guter Fighter, zu empfehlen!  
 - <span style="color:green">Fw 190 D-9</span>: nicht zu empfehlen, fliegt zu schnell und kann daduch Bomber 
   nicht genug penetrieren bevor es sie überholt. Zu teuer.  
-- <span style="color:green">Fw 190 F-8</span>: Solides AT-Flugzeug, guter Fighter, zu empfehlen!    
+
 &nbsp;
 - <span style="color:green">He 111 H-20</span>: Guter Bomber, preiswert, ordentlicher Schaden!  
 
@@ -62,7 +63,7 @@
 * - **1. Fw 190 A-8**  
     2. G.55 serie I Centauro Drago  
     3. Re.2005 serie 0 Sagittario  
-    4. Bf 109 G-6/R4  (Doppel 30mm Jäger)
+    4. Bf 109 G-6/R4  (Doppel 30mm Jäger)  
     5. Bf 109 G-6/R6  
   - **1. Tempest Mk. V (Bester Fighter im Spiel)**  
     2. P-47D-25-RE (Extrem hoher Damage)  

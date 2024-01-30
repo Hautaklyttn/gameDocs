@@ -1,10 +1,20 @@
 # Übersicht Anti-Air
 
-## Allgemeine Infos
+## Allgemeine Infos  
 
-- **Light AA-Gun**: ~20mm (z.B. <span style="color:green">FLAK 38 20mm</span>)  
-- **Medium AA-Gun**: 37-40mm (z.B. <span style="color:green">FLAK 43 37mm</span>)  
-- **Heavy AA-Gun**: 70-105mm (z.B. <span style="color:green">FLAK 41 88mm</span>)  
+```{list-table}
+:widths: 110 110
+:header-rows: 1
+
+* - Typ
+  - Kaliber
+* - **Light AA-Gun**   
+  - ~20mm (z.B. <span style="color:green">FLAK 38 20mm</span>)  
+* - **Medium AA-Gun**   
+  - 37-40mm (z.B. <span style="color:green">FLAK 43 37mm</span>)  
+* - **Heavy AA-Gun**   
+  - 70-105mm (z.B. <span style="color:green">FLAK 41 88mm</span>)  
+```
 
 - Im Gegensatz zu Panzern und anderen Bodengeschützen sind die Eigenschaften *Suppress* und *Blast* von entscheidender Bedeutung.  
 - Leichte Anti-Air (z.B. <span style="color:green">FLAK 38 20mm</span>) immer mindestens im Doppelpack (nie einzeln, da völlig ineffektiv).  

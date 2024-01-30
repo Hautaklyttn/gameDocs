@@ -15,14 +15,14 @@
 
 - *Anti-Tank* ist in erster Linie dafür gedacht 'AP' (Armor Penetration) zu supporten, d.h. in erster Linie Panzer.
 
-- <span style="color:green">PAK40</span> oder <span style="color:green">PAK43/41</span> oder <span style="color:green">MG42</span> sollten 
+- <span style="color:green">PAK40</span>, <span style="color:green">PAK43/41</span> oder <span style="color:green">MG42</span> sollten 
   immer in Bewegung sein. Stationär sind sie leichte Beute für Artillerie/Bomber.  
 
 &nbsp;
 
 ## Positionierung
 
-- <span style="color:green">Pz.Schreck</span>/<span style="color:green">Pz.Vernichtungs.</span> sollten in (dichtem) Wald und in Gebäuden sitzen. 
+- <span style="color:green">Pz.Schreck</span> oder <span style="color:green">Pz.Vernichtungs.</span> sollten in (dichtem) Wald und in Gebäuden sitzen. 
   Sie haben keinen Einfluss auf die Frontlinie, d.h. man kann sie gut nach vorne schicken!  
 
 - <span style="color:green">PAK40</span>, <span style="color:green">PAK43/41</span> oder <span style="color:green">MG42</span> gehören nie 

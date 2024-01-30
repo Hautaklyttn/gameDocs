@@ -2,11 +2,21 @@
 
 ## Allgemeine Infos
 
-- **Light Artillerie**: ~75mm
-- **Medium Artillerie**: 100-105mm (z.B. <span style="color:green">sK 18 105mm</span>)
-- **Heavy Artillerie**: >150mm (z.B. <span style="color:green">s.FH 18 150mm</span>)
+```{list-table}
+:widths: 110 110
+:header-rows: 1
 
-- ***"Mörser" und "Artillerie" immer mit SupplyTruck (z.B. <span style="color:green">Maultier MUN</span>)!**  
+* - Typ
+  - Kaliber
+* - **Light Artillerie**   
+  - ~75mm  
+* - **Medium Artillerie**   
+  - 100-105mm (z.B. <span style="color:green">sK 18 105mm</span>)  
+* - **Heavy Artillerie**   
+  - >150mm (z.B. <span style="color:green">s.FH 18 150mm</span>)  
+```
+
+- *Mörser* und *Artillerie* wenn möglich immer mit SupplyTruck (z.B. <span style="color:green">Maultier MUN</span>)!  
 
 - Steht Artillerie im Bereich eines "Radios", ist die Genauigkeit und die Nachladegeschwindigkeit wesentlich höher!  
 
@@ -27,14 +37,14 @@
 
 - <span style="color:green">Batterie Führ.</span> immer mit reinnehmen, billige 'Leader'-Einheit!
 
-- <span style="color:green">s.FH 18 150mm</span> ist eine sehr solide Artillerie, immer reinnehmen (immer mit "Maultier MUN").
+- <span style="color:green">s.FH 18 150mm</span> ist eine sehr solide Artillerie, immer reinnehmen.
 
 - <span style="color:green">Hummel 150mm</span> zu empfehlen, solide Artillerie! Allerdings wenig Munition dabei.
 
 - <span style="color:green">Wespe 105mm</span> nicht zu empfehlen, wenig Munition, wenig Kills.
 
 - Vergleich <span style="color:green">sK 18 105mm</span> zu <span style="color:green">le.FH 18M 105mm</span>:  
-  Erstere hat deutlich mehr Genauigkeit und schießt schneller! AZweite hat wenig Treffergenauigkeit, eher nicht zu empfehlen.
+  Erstere hat deutlich mehr Genauigkeit und schießt schneller! Zweitere hat wenig Treffergenauigkeit, eher nicht zu empfehlen.
 
 &nbsp;
 
@@ -47,8 +57,8 @@ Kaliber <150mm sind generell nicht besonders effektiv. Man zerstört damit nicht
 - <span style="color:green">Maultier Vielfachwerfer 82mm</span> nicht besonders effektiv, maximal zur Suppression von Infantrie.
    Braucht viel Nachschub, kann aber jeden Punkt auf der Karte erreichen (Ausprobieren!).  
 
-- <span style="color:green">Nebelwerfer 150mm</span> ist ok, aber nicht berauschend (immer mit "Maultier MUN").  
-- <span style="color:green">Nebelwerfer 42 300mm</span> ist hervorragend, sehr effektiv (immer mit "Maultier MUN").  
+- <span style="color:green">Nebelwerfer 150mm</span> ist ok, aber nicht berauschend.  
+- <span style="color:green">Nebelwerfer 42 300mm</span> ist hervorragend, sehr effektiv.  
 - <span style="color:green">Wurfrahmen 40 280mm</span> ist wie eine 'OffMap on Wheels' aber kurze Reichweite! Trotzdem Emfehlung.  
 
 &nbsp;
@@ -70,6 +80,7 @@ Kaliber <150mm sind generell nicht besonders effektiv. Man zerstört damit nicht
     3. M4A3(W) Calliope 114mm \[\*\]  
     4. BM-8-48 Katyusha 82mm \[\*\]  
 ```
-\[\*\] Nur zur Suppression geeignet, Kills unwahrscheinlich
-\[\*\*\] Tank Killers
-\[\*\*\*\] Best to use <3500m
+
+\[\*\] Nur zur Suppression geeignet, Kills unwahrscheinlich  
+\[\*\*\] Tank Killers  
+\[\*\*\*\] Best to use <3500m  
