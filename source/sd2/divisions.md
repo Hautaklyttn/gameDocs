@@ -451,8 +451,14 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - **Brandenburger**: Elite-Infanterie
 * - [Korück 559](https://steeldivision.fandom.com/wiki/Kor%C3%BCck_559)
   - ![](pics/korueck.png)
-  - - <span style="color:red">Wenig Panzer</span>  
-  -  
+  - - <span style="color:green">Passable Recon und Air</span>  
+    &nbsp;
+    - <span style="color:red">Übertrieben teure Tabs</span>  
+    - <span style="color:red">So gut wie keine CQC</span>  
+    - <span style="color:red">Schräge Panzer</span>  
+    - <span style="color:red">Schlechte Anti-Air und Artillerie</span>  
+  - - **PAK 36 37mm**: Sehr schnelle Feuerrate (15-20 Schuss/min)  
+    - **Ju 87 G-1**: Sehr guter Panzerjäger
 * - [52. Sicherungs-Division z.b.V.](https://steeldivision.fandom.com/wiki/52._Sicherungs-Division_z.b.V.)
   - ![](pics/52Sicher.png)
   - - <span style="color:green">Gute Infanterie</span>  

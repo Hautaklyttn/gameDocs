@@ -28,6 +28,7 @@
 
 - <span style="color:green">Ju87 D-3</span>: sehr effektiver Panzerkiller (Cluster-Bomben)!  
 - <span style="color:green">Ju87 D-5</span>: eher nicht zu empfehlen, werden schnell abgeschossen, bad resilience.  
+- <span style="color:green">Ju87 G-1</span>: phänomenaler Panzerjäger.  
 &nbsp;
 - <span style="color:green">Ju88 A-4</span>: sehr effektiver Bomber.  
 - <span style="color:green">Ju88 E-1</span>: nicht zu empfehlen, 50kg Bomben eher ineffektiv.  
