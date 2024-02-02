@@ -202,8 +202,18 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   -
 * - [Verteidigungsbereich Toulon](https://steeldivision.fandom.com/wiki/Verteidigungsbereich_Toulon)
   - ![](pics/vertToulon.png)
-  -
-  -  
+  - - <span style="color:green">Sehr starke Infantrie</span>  
+    - <span style="color:green">Guter Anti-Tank und Artillerie-Tab</span>  
+    - <span style="color:green">Bester Anti-Air-Tab im Spiel</span>  
+    - <span style="color:green">LAFFY Transport: Bester Transporter</span>  
+    &nbsp;
+    - <span style="color:red">Keine gepanzerten Recon-Fahrzeuge</span>  
+    - <span style="color:red">Schwacher Panzer-Tab</span>  
+  - - **Maro**: 12-Mann Beretta Squad (sehr starke CQC)  
+    - **Brandenburger**: Sehr starke CQC + Doppel-MG42  
+    - **KM Boot Besatzung**: Super Rifle-Squad (3xMG34)
+    - **Flak 38 105mm**: Mächtigste Anti-Air im Spiel (OneShoot-Kill gegen Panzer)
+    - **Flakzwilling 37mm**: Tödlichste Anti-Air im Spiel
 * - [Panzergrenadier "Großdeutschland"](https://steeldivision.fandom.com/wiki/Panzergrenadier_%22Gro%C3%9Fdeutschland%22)
   - ![](pics/pg_grossD.png)
   - - <span style="color:green">Sehr gute Infanterie</span>  
@@ -316,8 +326,15 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - Taktik: Anti-Infantrie: **Grille**  
 * - [1. Fallschirmjäger](https://steeldivision.fandom.com/wiki/1._Fallschirmj%C3%A4ger)
   - ![](pics/1_fj.png)
-  - - <span style="color:red">Wenig Panzer</span>    
-  -  
+  - - <span style="color:green">Solider Support und Anti-Tank</span>  
+    - <span style="color:green">Gute Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Generell wenig Optionen</span>  
+    - <span style="color:red">Wenig Panzer - nur Tiger</span>  
+    - <span style="color:red">Schwache Artillerie</span>  
+  - - **Fs-Stosstrupp**: Perfekte CQC (2xBeretta+3xFG42+Molotov)
+    - **Fs-Jäger (FG-42)**: Perfektes Rifle Squad (2xFG42+2xMG42+Panzerfaust) (2 Karten)
+    - **Fs-Jäger (ZF)**: Sniper Rifle Squad (2xMG42+Sniper) (1 Karte)
 * - [Sperrverband Kessel](https://steeldivision.fandom.com/wiki/Sperrverband_Kessel)
   - ![](pics/svKessel.png)
   - - <span style="color:red">Schlechte Anti-Tank</span>  
