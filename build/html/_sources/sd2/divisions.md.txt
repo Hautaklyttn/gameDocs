@@ -303,13 +303,14 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:green">Starke Infanterie + Support</span>  
     - <span style="color:green">Sehr starkes Anti-Tank</span>  
     &nbsp;
-    - <span style="color:red">Teure und vgl. weniger Infantrie (wenig CQC)</span>  
+    - <span style="color:red">Zu wenig CQC</span>  
     - <span style="color:red">Wenig Panzer (nur Stug III)</span>  
-    - <span style="color:red">Mittelmässige Artillerie</span>  
-  - - **Fs-Jäger**: Bestes Rifle Squad im Spiel
-    &nbsp;
+  - - **Fs-Jäger (FG-42)**: Perfektes Rifle Squad (2xFG42+2xMG42+Panzerfaust) (2 Karten)  
+    - **Fs-Jäger (ZF)**: Sniper Rifle Squad (2xMG42+Sniper) (4 Karten)  
+    - **Fs-Sturmjäger**: Höchste DPS-Einheit im Spiel (100-300m) (2xFG42+2xMG42+6xMP44)
+    - **LPAK 41 Gerlich 42mm**: Sehr gute PAK mit Stealth: Exceptional (sehr schwer zu orten)
     - **Püppchen**: Short-Range AT-Monster
-    &nbsp;
+    - **Hs 129 B-3**: Sehr gutes AT-Flugzeug (nicht zu schnell)
     - Taktik: Durchbrüche mit kleinen Infanteriegruppen (3-4 Gruppen + 1 Führer)
 * - [12. SS-Panzer "Hitlerjugend"](https://steeldivision.fandom.com/wiki/12._SS-Panzer_(SD2))
   - ![](pics/12_ss.png)
@@ -334,7 +335,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Schwache Artillerie</span>  
   - - **Fs-Stosstrupp**: Perfekte CQC (2xBeretta+3xFG42+Molotov)
     - **Fs-Jäger (FG-42)**: Perfektes Rifle Squad (2xFG42+2xMG42+Panzerfaust) (2 Karten)
-    - **Fs-Jäger (ZF)**: Sniper Rifle Squad (2xMG42+Sniper) (1 Karte)
+    - **Fs-Jäger (ZF)**: Sniper Rifle Squad (2xMG42+Sniper) (1 Karte)  
 * - [Sperrverband Kessel](https://steeldivision.fandom.com/wiki/Sperrverband_Kessel)
   - ![](pics/svKessel.png)
   - - <span style="color:red">Schlechte Anti-Tank</span>  
@@ -641,8 +642,8 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Schwache Anti-Air</span>   
   - - **AB Paras**: Solide 10-Mann Sniper-Einheit (4 Karten)  
     - **RM Centaur IV**: Sehr gute HE-Artillerie auf Ketten  
-    - **Tempest Mk. V**: Schnellster Bomber im Spiel, sehr gut!  
-    - **Typhonn Mk. 1B**: Sehr gutes AT-Flugzeug (8 Raketen!)
+    - **Tempest Mk. V**: Schnellster Bomber im Spiel (645km/h!), sehr gut!  
+    - **Typhoon Mk. IB**: Sehr gutes AT-Flugzeug (8 Raketen!)
 ```
 
 &nbsp;
