@@ -731,10 +731,13 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 * - [3rd Armored "Spearhead"](https://steeldivision.fandom.com/wiki/3rd_Armored_(SD2))  
   - ![](pics/3rdArmor.png)
   - - <span style="color:green">Viele Panzer (Sherman+Stuart)</span>  
-    - <span style="color:green">Gute Artillerie</span>  
+    - <span style="color:green">Gute Artillerie und Anti-Tank</span>  
     &nbsp;
-    - <span style="color:red">Wenig Infanterie</span>  
-  -
+    - <span style="color:red">Wenig Tiefe, ungeeignet für Balanced</span>  
+    - <span style="color:red">Wenig und mittelmässige Infanterie</span>  
+    - <span style="color:red">Schwache Anti-Air</span>  
+  - - **M4A1(76)**: Solider Panzer mit 130 Pen
+    - **M4A3E3 Jumbo**: 190mm FA aber nur 90mm Pen
 * - [8th Indian Infantry](https://steeldivision.fandom.com/wiki/8th_Indian_Infantry)  
   - ![](pics/8thIndian.png)
   -  
