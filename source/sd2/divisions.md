@@ -634,8 +634,15 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   -
 * - [6th Airborne](https://steeldivision.fandom.com/wiki/6th_Airborne_(SD2))  
   - ![](pics/6thAir.png)
-  - - <span style="color:green">Sehr starke Sniper-Einheiten</span>  
-  -
+  - - <span style="color:green">Sehr starke Sniper-Einheiten und Flugzeuge</span>  
+    - <span style="color:green">Gute Infanterie und Anti-Tank</span>  
+    &nbsp;
+    - <span style="color:red">Schwacher Tank- und Support-Tab</span>  
+    - <span style="color:red">Schwache Anti-Air</span>   
+  - - **AB Paras**: Solide 10-Mann Sniper-Einheit (4 Karten)  
+    - **RM Centaur IV**: Sehr gute HE-Artillerie auf Ketten  
+    - **Tempest Mk. V**: Schnellster Bomber im Spiel, sehr gut!  
+    - **Typhonn Mk. 1B**: Sehr gutes AT-Flugzeug (8 Raketen!)
 ```
 
 &nbsp;
