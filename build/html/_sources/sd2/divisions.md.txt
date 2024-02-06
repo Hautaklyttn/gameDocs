@@ -517,11 +517,14 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **Zeniste**: Sehr gute CQC (4 Thompson + Flamer)  
 * - [2nd Infantry](https://steeldivision.fandom.com/wiki/2nd_Infantry)
   - ![](pics/2nd_inf.png)
-  - - <span style="color:green">Extrem gute Artillerie</span>  
-    - <span style="color:green">Sehr gute Flugzeuge</span>  
-    - <span style="color:green">Semi-Automatic Rifles</span>  
+  - - <span style="color:green">Sehr gute Artillerie und Flugzeuge</span>  
     - <span style="color:green">Gute 2k</span>  
-  -
+    &nbsp;
+    - <span style="color:red">Mittelmässige CQC</span>  
+    - <span style="color:red">Schwacher Panzer-Tab (nur *M4A1*)</span>  
+  - - **M4A1**: Schlechteste Version des Sherman - sehr stark gegen 'weiche' Ziele
+    - **M3 HOW 105mm**: Sehr starkes 2K HE Geschütz
+    - **P-47D-23-RA**: Sehr starkes Rocket Anti-Tank Flugzeug
 * - [1st Special Brigade](https://steeldivision.fandom.com/wiki/1st_Special_Service_Brigade)
   - ![](pics/1st_specBrig.png)
   - - <span style="color:green">Sehr gute Infanterie</span>  

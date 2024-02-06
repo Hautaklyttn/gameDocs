@@ -49,6 +49,14 @@
 
 &nbsp;
 
+## Einheitenmerkmale (*"Traits"*)  
+
+
+
+
+
+&nbsp;
+
 ## Best of: *Infantry Types*  
 
 &nbsp;
