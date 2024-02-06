@@ -262,7 +262,13 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 * - [Panssaridivisioona](https://steeldivision.fandom.com/wiki/Panssaridivisioona)
   - ![](pics/panssari.png)
   - - <span style="color:green">Gute finnische Infanterie</span>
-  -
+    - <span style="color:green">Viele Panzer (nur Medium)</span>
+    &nbsp;
+    - <span style="color:red">Deck fehlt Tiefe, eher nicht Balanced zu spielen</span>  
+    - <span style="color:red">Schwache Artillerie und wenig Anti-Tank</span>  
+  - - **Jääkäri**: Sehr gutes Squad in mittlerer Distanz (0-500m) mit Molotov+Fanzerfaust  
+    - **Syöksypioneeri**: Eine der besten Flamersquads im spiel (2xFlamer + 3xSuomi KP)
+    - **Tarkka-Ampuja**: Doppel-Sniper Recon!
 * - [1 Blindata "România Mare"](https://steeldivision.fandom.com/wiki/1_Blindata_%22Rom%C3%A2nia_Mare%22)
   - ![](pics/1stBlind.png)
   - - <span style="color:green">Gute Infanterie</span>
@@ -816,7 +822,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Sehr wenig Artillerie</span>  
   - - Sehr gute CQC: **Ochotnicy** (15 man squad) 
     - Taktik: Infanterie Spam  
-* - [358-ya Strelkova Div](https://steeldivision.fandom.com/wiki/3-ya_Gvard._Tankovy_Korpus)  
+* - [3-ya Gvard. Tankovy Korpus](https://steeldivision.fandom.com/wiki/3-ya_Gvard._Tankovy_Korpus)  
   - ![](pics/3ya_GTK.png)
   - - <span style="color:green">3 Karten IS-2 1944, 2 Karten ISU-152</span>  
     &nbsp;
