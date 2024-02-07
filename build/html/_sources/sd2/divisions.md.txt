@@ -273,7 +273,12 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - ![](pics/1stBlind.png)
   - - <span style="color:green">Gute Infanterie</span>
     - <span style="color:green">Viele gepanzerte Fahrzeuge</span>
-  -
+    &nbsp;
+    - <span style="color:red">Mittelmässige Anti-Air und Artillerie</span>  
+    - <span style="color:red">Im Grunde nur Bomber, nur eine Karte AT-Flugzeug</span>
+  - **Lt. Vanatori Moto**: Doppel-Sniper Leader!
+    **Pionieri Asalt**: Eine der besten CQC im Spiel
+    **Vanatori De Care**: Sehr gute Anti-Tank-Infanterie (Panzerschreck+Granate)
 * - [1. Skijäger](https://steeldivision.fandom.com/wiki/1._Skij%C3%A4ger)
   - ![](pics/1_sj.png)
   - - <span style="color:green">Guter Support- + AT-Tab</span>  
@@ -350,13 +355,24 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   -  
 * - [5. Gebirgsjäger](https://steeldivision.fandom.com/wiki/5._Gebirgsj%C3%A4ger)
   - ![](pics/5_gj.png)
-  - - <span style="color:red">Schlechte Anti-Air</span>  
+  - - <span style="color:green">Infanterie (*Gebirgsjäger*) mit sehr guter Availability</span>  
+    - <span style="color:green">Gute Recon (viele Sniper) und Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Zu wenig Panzer</span>  
+    - <span style="color:red">Schlechte Anti-Air</span>  
     - <span style="color:red">Keine Long-range Waffen</span>  
-  -  
+  - **Geb. Führer**: Sehr guter Leader (3xBeretta, Sniper + Panzerschreck)
 * - [21. Panzer](https://steeldivision.fandom.com/wiki/21._Panzer_(SD2))
   - ![](pics/21_pzer.png)
-  - 
-  - 
+  - - <span style="color:green">Königstiger (2 Karten)</span>  
+    - <span style="color:green">Guter Support (Grille + Sturmpanzer IV)</span>  
+    - <span style="color:green">Gute Artillerie, große Auswahl</span>  
+    &nbsp;
+    - <span style="color:red">Mittelmässige Infanterie</span>  
+    - <span style="color:red">Im Grunde nur Panzer IV</span>
+    - <span style="color:red">Mittelmässige Anti-Tank (keine PAK-40)</span>  
+  - - **Sd.Kfz. 135/1 150mm**: Sehr gute Artillerie! Bessere Hummel (2fache Mun, Reichweite!)  
+    - **FW 190 A-8**: Sehr guter Jäger
 * - [116. Panzer](https://steeldivision.fandom.com/wiki/116._Panzer_(SD2))
   - ![](pics/116_pzer.png)
   - - <span style="color:green">Sehr gute Recon und Support</span>  
