@@ -191,11 +191,12 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 * - [122. Infanterie](https://steeldivision.fandom.com/wiki/122._Infanterie)
   - ![](pics/122_inf.png)
   - - <span style="color:green">Gute Finnische Infanterie</span>  
-    - <span style="color:green">Guter 2k-Mix</span>  
+    - <span style="color:green">Guter 2k-Mix (HE und AT)</span>  
     &nbsp;
-    - <span style="color:red">Mittelmäßige Infanterie</span>  
+    - <span style="color:red">Viel mittelmäßige Infanterie</span>  
     - <span style="color:red">Schlechte Anti-Air</span>   
-  -
+  - - **Tarkka-Ampuja**: Doppel-Sniper Recon!  
+    - **Soomepoisid**: Gutes, günstiges Rifle-Squad
 * - [11. SS-Fr.-Panzergrenadier "Nordland"](https://steeldivision.fandom.com/wiki/11._SS-Fr.-Panzergrenadier_%22Nordland%22)
   - ![](pics/11_ss.png)
   - - <span style="color:green">Gute aber wenig Panzer</span>  
@@ -223,12 +224,14 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **Flakzwilling 37mm**: Tödlichste Anti-Air im Spiel
 * - [Panzergrenadier "Großdeutschland"](https://steeldivision.fandom.com/wiki/Panzergrenadier_%22Gro%C3%9Fdeutschland%22)
   - ![](pics/pg_grossD.png)
-  - - <span style="color:green">Sehr gute Infanterie</span>  
-    - <span style="color:green">sehr guter Support (Grille,StuH + SDKFZ251/9D)</span>  
+  - - <span style="color:green">Viele gute Panzer</span>  
+    - <span style="color:green">Sehr guter Support (Grille,StuH + SDKFZ251/9D)</span>  
     &nbsp;
     - <span style="color:red">Wenig gute CQC</span>  
-    - <span style="color:red">Zu wenig Medium Panzer (nur 2 Karten)</span>   
-  -
+    - <span style="color:red">Zu wenig Medium Panzer (nur 2 Karten)</span>
+    - <span style="color:red">Zu wenig Flugzeuge</span>
+  - - **GD Sturmgruppe**: 8-Mann (8x MP44 + Panzerfaust)
+    - **PaK 41 Gerlich 75mm**: Gute AT-Gun (durch 'Stealth: Very good' sehr schwer auszumachen)
 * - [Kampfgruppe von Tettau](https://steeldivision.fandom.com/wiki/Kampfgruppe_von_Tettau)
   - ![](pics/kgTettau.png)
   - - <span style="color:green">Sehr viel Infantrie</span>  
