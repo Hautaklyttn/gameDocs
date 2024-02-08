@@ -198,8 +198,15 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   -
 * - [11. SS-Fr.-Panzergrenadier "Nordland"](https://steeldivision.fandom.com/wiki/11._SS-Fr.-Panzergrenadier_%22Nordland%22)
   - ![](pics/11_ss.png)
-  -
-  -
+  - - <span style="color:green">Gute aber wenig Panzer</span>  
+    - <span style="color:green">Gute Anti-Tank</span>  
+    &nbsp;
+    - <span style="color:red">Zu wenig CQC</span>  
+    - <span style="color:red">Keine gepanzerten Recon-Fahrzeuge</span>  
+    - <span style="color:red">Mittelmässige Artillerie</span>  
+    - <span style="color:red">Keine AT-Flugzeuge</span>  
+  - - **FK 288(r)**: Günstiges Beutegeschütz (ZIS-3) (2 Karten)
+    - **Ar 234 B-2 Heavy Bomber**: Guter, schneller Bomber (Jet-Engine!)
 * - [Verteidigungsbereich Toulon](https://steeldivision.fandom.com/wiki/Verteidigungsbereich_Toulon)
   - ![](pics/vertToulon.png)
   - - <span style="color:green">Sehr starke Infantrie</span>  
@@ -276,9 +283,9 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Mittelmässige Anti-Air und Artillerie</span>  
     - <span style="color:red">Im Grunde nur Bomber, nur eine Karte AT-Flugzeug</span>
-  - **Lt. Vanatori Moto**: Doppel-Sniper Leader!
-    **Pionieri Asalt**: Eine der besten CQC im Spiel
-    **Vanatori De Care**: Sehr gute Anti-Tank-Infanterie (Panzerschreck+Granate)
+  - - **Lt. Vanatori Moto**: Doppel-Sniper Leader!
+    - **Pionieri Asalt**: Eine der besten CQC im Spiel
+    - **Vanatori De Care**: Sehr gute Anti-Tank-Infanterie (Panzerschreck+Granate)
 * - [1. Skijäger](https://steeldivision.fandom.com/wiki/1._Skij%C3%A4ger)
   - ![](pics/1_sj.png)
   - - <span style="color:green">Guter Support- + AT-Tab</span>  
@@ -293,8 +300,13 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **Bf 109 G-6/R4**: Doppel 30mm Jäger - sehr stark
 * - [25. Hadosztály](https://steeldivision.fandom.com/wiki/25._Hadoszt%C3%A1ly)
   - ![](pics/25_hados.png)
-  -
-  -  
+  - - <span style="color:green">Günstige und viel Infanterie</span>  
+    - <span style="color:green">Gute Artillerie</span> 
+    &nbsp;
+    - <span style="color:red">Zu wenig CQC</span>
+    - <span style="color:red">Wenig Panzer und Support, kein 2K HE</span>
+  - - **Lövész**: Gutes und günstiges 12-Mann Rifle Squad (1xMG+1xPanzerfaust) (7 Karten!)
+    - **Fw 190 F-8**: Solider Fighter
 ```
 
 &nbsp;
@@ -364,8 +376,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - **Geb. Führer**: Sehr guter Leader (3xBeretta, Sniper + Panzerschreck)
 * - [21. Panzer](https://steeldivision.fandom.com/wiki/21._Panzer_(SD2))
   - ![](pics/21_pzer.png)
-  - - <span style="color:green">Königstiger (2 Karten)</span>  
-    - <span style="color:green">Guter Support (Grille + Sturmpanzer IV)</span>  
+  - - <span style="color:green">Guter Support (Grille + Sturmpanzer IV)</span>  
     - <span style="color:green">Gute Artillerie, große Auswahl</span>  
     &nbsp;
     - <span style="color:red">Mittelmässige Infanterie</span>  
@@ -373,6 +384,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Mittelmässige Anti-Tank (keine PAK-40)</span>  
   - - **Sd.Kfz. 135/1 150mm**: Sehr gute Artillerie! Bessere Hummel (2fache Mun, Reichweite!)  
     - **FW 190 A-8**: Sehr guter Jäger
+    - **Königstiger**: 2 Karten im Deck
 * - [116. Panzer](https://steeldivision.fandom.com/wiki/116._Panzer_(SD2))
   - ![](pics/116_pzer.png)
   - - <span style="color:green">Sehr gute Recon und Support</span>  
