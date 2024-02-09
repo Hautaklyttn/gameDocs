@@ -364,10 +364,15 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **Fs-Jäger (ZF)**: Sniper Rifle Squad (2xMG42+Sniper) (1 Karte)  
 * - [Sperrverband Kessel](https://steeldivision.fandom.com/wiki/Sperrverband_Kessel)
   - ![](pics/svKessel.png)
-  - - <span style="color:red">Schlechte Anti-Tank</span>  
-    - <span style="color:red">Probleme gegen Panzerdivisionen oder auf offenen Karten</span>  
-    - <span style="color:red">Wenig Artillerie</span>    
-  -  
+  - - <span style="color:green">Gute Infanterie (gute Mischung aus ungar. und dt. Einheiten)</span>  
+    - <span style="color:green">Solide Panzer (Stug III + IV, Panzer IV)</span> 
+    &nbsp;
+    - <span style="color:red">Zu wenig Anti-Tank-Einheiten</span>  
+    - <span style="color:red">Keine AT-Flugzeuge</span>  
+    - <span style="color:red">Schlechte Artillerie</span>    
+  - - **Hegyivadász**: Gute, günstige 13-Mann CQC (1xMG + 1xMolotov)
+    - **Brandenburger**: 12-Mann Elite-CQC (6xG43+2xMG42+1xGranate)
+    - **Brandenb. MG 42**: Sehr gute MG-Einheit (+1 Mann, bessere Stealth und Optics als Standard MG42)
 * - [5. Gebirgsjäger](https://steeldivision.fandom.com/wiki/5._Gebirgsj%C3%A4ger)
   - ![](pics/5_gj.png)
   - - <span style="color:green">Infanterie (*Gebirgsjäger*) mit sehr guter Availability</span>  
@@ -411,10 +416,15 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 * - [28. Jäger](https://steeldivision.fandom.com/wiki/28._J%C3%A4ger)
   - ![](pics/28_jaeger.png)
   - - <span style="color:green">Günstige und gute Infanterie</span>
-    - <span style="color:green">Gute Anti-Air</span>
-    - <span style="color:green">Moderne Fw Flugzeuge</span>
-    - <span style="color:green">Gute Artillerie</span>
-  -  
+    - <span style="color:green">Gute Support und Artillerie</span>
+    - <span style="color:green">Sehr gute Flugzeuge</span>
+    &nbsp;
+    - <span style="color:red">Mittelmässige Anti-Tank</span> 
+    - <span style="color:red">Schlechte Anti-Air</span> 
+  - - **Jäger**: Gute günstiges Rifle Squad (exz. Availability, 1xMG42+Panzerfaust)
+    - **Jäger Pionier**: Gut im CQC und auf Entfernung (8xG43, MG42 + Granate)
+    - **Sturmjäger**: Sehr gute Mid-Range Inf. (7xMP44, 2xG43, MG42 + AT-Granate)
+    - **Jäger Flammenwerfer**: Sehr gute Flammenw. (2xFlammenw.+Granate)
 * - [Festung Dünkirchen](https://steeldivision.fandom.com/wiki/Festung_D%C3%BCnkirchen)
   - ![](pics/festD.png)
   - 
