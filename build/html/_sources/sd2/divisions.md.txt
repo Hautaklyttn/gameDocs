@@ -427,12 +427,26 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **Jäger Flammenwerfer**: Sehr gute Flammenw. (2xFlammenw.+Granate)
 * - [Festung Dünkirchen](https://steeldivision.fandom.com/wiki/Festung_D%C3%BCnkirchen)
   - ![](pics/festD.png)
-  - 
-  -  
+  - - <span style="color:green">Gute Infanterie, Support und Anti-Tank</span>
+    - <span style="color:green">Sehr gute Anti-Air</span>
+    &nbsp;
+    - <span style="color:red">Wenig CQC</span> 
+    - <span style="color:red">Wenig Panzer</span> 
+    - <span style="color:red">Schwache Flugzeuge</span> 
+  - - **Jagdkampf**: Sehr gute CQC (==Brandenburger) (6xG43+2xMG42+Panzerschreck)  
+    - **Festungs-Grenadier**: 15-Mann Rifle Squad mit sehr guter Availability
+    - **Erdkampflafette 43**: Phänomenales 1500m Autocannon-Geschütz (20mm)
+    - **Jagdpanther**: Hammer! (230 Pen und 140 FA) (nur einmal verfügbar)
+    - **Flak 38 105mm**: Mächtigste Anti-Air im Spiel (OneShoot-Kill gegen Panzer)
 * - [5. Panzer](https://steeldivision.fandom.com/wiki/5._Panzer)
   - ![](pics/5_pzer.png)
-  - - <span style="color:red">Schlechte CQC</span>  
-  - 
+  - - <span style="color:green">Guter Tank-Tab (viele Panther und Tiger)</span>
+    - <span style="color:green">Gute Anti-Air</span>
+    &nbsp;
+    - <span style="color:red">Mittelmässige Infanterie, schlechte CQC</span>  
+    - <span style="color:red">Mittelmässige Artillerie</span>  
+  - - **S.Panzerbüchse 41**: Gutes kleines Geschütz (1000m, 100mm Pen, 15 r/m) (Kosten: 25!)
+    - 11 Karten Panther und 4 Karten Tiger
 * - [Panzer-Lehr](https://steeldivision.fandom.com/wiki/Panzer-Lehr_(SD2))
   - ![](pics/pLehr.png)
   - - <span style="color:green">Fantastischer Recon Tab</span>  
