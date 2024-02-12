@@ -462,22 +462,32 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **FW 190 A-8**: Einer der besten Fighter im Spiel
 * - [20. Panzergrenadier](https://steeldivision.fandom.com/wiki/20._Panzergrenadier)
   - ![](pics/20_pg.png)
-  - - <span style="color:red">Wenig Infanterie, wenig CQC</span>  
-    - <span style="color:red">Teure Einheiten</span>  
-  - 
+  - - <span style="color:green">Guter Support und Anti-Tank</span>  
+    - <span style="color:green">Vielfältige Anti-Air, aber teuer</span>  
+    &nbsp;
+    - <span style="color:red">Schwache Recon</span>  
+    - <span style="color:red">Mittelmässige Infanterie, wenig CQC</span>
+  - - **Elefant**:  3 Karten (nur 180 Punkte)
+    - **Stug IV**: 5 Karten (max. 30 möglich)
 * - [16. Panzer](https://steeldivision.fandom.com/wiki/16._Panzer)
   - ![](pics/16_pzer.png)
-  - - <span style="color:red">Zu teure Einheiten</span>  
-  - 
+  - - <span style="color:green">Gute Recon, viele SPW</span>  
+    - <span style="color:green">Guter Tank-Tab und Artillerie</span>  
+    - <span style="color:green">Gute Flugzeuge (viel FW F-8)</span>  
+    &nbsp;
+    - <span style="color:red">Wenig Infanterie</span>  
+    - <span style="color:red">Mittelmässige Anti-Air</span>  
+  - - **Königstiger**:  3 Karten (max. 7 möglich)
+    - **FW 190 F-8 AT Rocket**: Sehr gutes AT-Flugzeug
 * - [14. Infanterie](https://steeldivision.fandom.com/wiki/14._Infanterie)
   - ![](pics/14_inf.png)
-  - - <span style="color:green">Gute Panzer (Stug III + Tiger E)</span>  
-    - <span style="color:green">Sehr guter Support (IG18, IG33)</span>  
-    - <span style="color:green">Gute Flugzeuge</span>  
+  - - <span style="color:green">Gute Panzer (Stug III + Tiger E) und Support</span>  
+    - <span style="color:green">Gute Infanterie</span>  
     &nbsp;
-    - <span style="color:red">Mittelmässige Infanterie</span>  
-    - <span style="color:red">Mittelmässige Anti-Air</span>  
-  - 
+    - <span style="color:red">Mittelmässige Recon</span>  
+    - <span style="color:red">Schlechte Anti-Air</span>  
+  - - **Begleit-Grenadier**: Gutes Rifle-Squad (8xMP44+3xG43+MG42)
+    - **Begleit-Pionier**: Super CQC (9xMP44+3xG43+MG42+Granate)
 * - [12. Tartalék](https://steeldivision.fandom.com/wiki/12._Tartal%C3%A9k)
   - ![](pics/12Tart.png)
   -  
