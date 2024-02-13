@@ -490,32 +490,56 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **Begleit-Pionier**: Super CQC (9xMP44+3xG43+MG42+Granate)
 * - [12. Tartalék](https://steeldivision.fandom.com/wiki/12._Tartal%C3%A9k)
   - ![](pics/12Tart.png)
-  -  
-  -
+  - - <span style="color:green">Viel Infanterie</span>  
+    - <span style="color:green">Gute Anti-Air</span>  
+    &nbsp;
+    - <span style="color:red">Wenig Panzer</span> 
+    - <span style="color:red">Mittelmässiger Support</span> 
+  - - **Golyószórósok**: 12-Mann Rifle Squad mit 3xMG30
+    - **31M 149mm**: Gute Artillerie (8r/m)
+    - **Me 210 CA-1 Proto**: Gutes AT-Flugzeug (40mm!)
 * - [4a Alpina "Monterosa"](https://steeldivision.fandom.com/wiki/4a_Alpina_%22Monterosa%22)
   - ![](pics/20_pg.png)
-  - - <span style="color:green">Sehr gute CQC</span>  
+  - - <span style="color:green">Gute CQC</span>  
+    - <span style="color:green">Sehr gute Flugzeuge</span>  
     &nbsp;
-    - <span style="color:red">Wenig Panzer</span>  
-    - <span style="color:red">Wenig Anti-Tank, AT-Flugzeuge nötig</span>  
-  -  
+    - <span style="color:red">Schwache (nur leichte) Panzer </span>  
+    - <span style="color:red">Wenig Anti-Tank und Support</span>  
+    - <span style="color:red">Mittelmässige Anti-Air und Artillerie</span>  
+  - - **Pionieri**: Sehr gute CQC (4xBeretta+Flammenwerfer+Granate)
+    - **Ju87 G-1**: Guter AT-Flieger
 * - [4 Munte](https://steeldivision.fandom.com/wiki/4_Munte)
   - ![](pics/4_munte.png)
-  - - <span style="color:red">Keine Armor in A</span>  
-    - <span style="color:red">Schlechte Anit-Tank</span>  
-    - <span style="color:red">Mittelmässiger Panzer Tab</span>  
-    - <span style="color:red">Mittelmässige Infanterie</span>  
-  -  
+  - - <span style="color:green">Phänomenale Recon (Sniper ohne Ende)</span>  
+    - <span style="color:green">Gute Infanterie (sehr gute Availability)</span>  
+    - <span style="color:green">Gute Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Keine Armor in A</span>  
+    - <span style="color:red">Mittelmässige Artillerie</span>  
+    - <span style="color:red">Mittelmässige Panzer (nur Panzer IV)</span>   
+  - - **Lt. VM**: Sehr guter Leader (Sniper+Panzerschreck)
+    - **Vanatori Cercetare**: Beste Sniper im Spiel (Recon)
+    - **Vanatori de Care**: Bestes Anti-Tank-Team im Spiel (Availability!)
 * - [352. Infanterie](https://steeldivision.fandom.com/wiki/352._Infanterie_(SD2))
   - ![](pics/352_inf.png)
-  - - <span style="color:green">Sehr gut gegen schwere Armor</span>  
+  - - <span style="color:green">Phänomenaler Anti-Tank-Tab</span>  
+    - <span style="color:green">Gute Flugzeuge</span>  
     &nbsp;
-    - <span style="color:red">Schwache Infanterie</span>  
-  - **Jagdpanther**: Sehr guter schwerer Panzer
+    - <span style="color:red">Schwache Infanterie, wenig CQC</span>  
+    - <span style="color:red">Schwacher Panzer-Tab</span>  
+  - - **Jagdpanther**: Sehr guter schwerer Panzer
+    - **HS 129 B-3 Tank Buster**: Sehr gutes AT-Flugzeug
 * - [Ryhmä Raappana](https://steeldivision.fandom.com/wiki/Ryhm%C3%A4_Raappana)
   - ![](pics/ryhmaeR.png)
-  -  
-  -    
+  - - <span style="color:green">Gute Recon (viele Sniper)</span>  
+    - <span style="color:green">Gute günstige Infanterie</span>  
+    - <span style="color:green">Gute Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Keine Panzer</span>  
+    - <span style="color:red">Schwacher Support und 2K-HE</span>  
+  - - **Tarkka-Ampuja**: Doppel-Sniper Recon!  
+    - **Jääkäri**: Gutes, günstiges Rifle Squad (3xSuomi+Molotov+Panzerfaust)
+    - **Syöksypioneeri**: Sehr gute CQC (3xSuomi+2xFlammenwerfer)
 ```
 
 &nbsp;
