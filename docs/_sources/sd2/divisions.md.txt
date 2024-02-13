@@ -199,15 +199,16 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **Soomepoisid**: Gutes, günstiges Rifle-Squad
 * - [11. SS-Fr.-Panzergrenadier "Nordland"](https://steeldivision.fandom.com/wiki/11._SS-Fr.-Panzergrenadier_%22Nordland%22)
   - ![](pics/11_ss.png)
-  - - <span style="color:green">Gute aber wenig Panzer</span>  
-    - <span style="color:green">Gute Anti-Tank</span>  
+  - - <span style="color:green">Sehr gute Recon</span>  
+    - <span style="color:green">Gute aber wenig Panzer</span>  
+    - <span style="color:green">Gute Support und Anti-Tank</span>  
     &nbsp;
-    - <span style="color:red">Zu wenig CQC</span>  
-    - <span style="color:red">Keine gepanzerten Recon-Fahrzeuge</span>  
+    - <span style="color:red">Wenig Tiefe, teure Slots, schwer Balanced zu spielen</span>  
     - <span style="color:red">Mittelmässige Artillerie</span>  
     - <span style="color:red">Keine AT-Flugzeuge</span>  
-  - - **FK 288(r)**: Günstiges Beutegeschütz (ZIS-3) (2 Karten)
-    - **Ar 234 B-2 Heavy Bomber**: Guter, schneller Bomber (Jet-Engine!)
+  - - **SPW 234/2 PUMA**: Sehr gutes Recon-Fzg (schnell und starkes Geschütz)
+    - **FK 288(r)**: Günstiges Beutegeschütz (ZIS-3) (2 Karten)
+    - **Ar 234 B-2 Heavy Bomber**: Phänomenaler, schneller Bomber (Jet-Engine!)
 * - [Verteidigungsbereich Toulon](https://steeldivision.fandom.com/wiki/Verteidigungsbereich_Toulon)
   - ![](pics/vertToulon.png)
   - - <span style="color:green">Sehr starke Infantrie</span>  
@@ -684,30 +685,44 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Schwächerer Anti-Tank Tab</span>  
     - <span style="color:red">Probleme gegen schwere Panzer</span>  
     - <span style="color:red">Keine schwere Artillerie</span>  
-  - - 2 Karten **Shturmoviki (Roks)**: sehr gute CQC  
-    - 1 Karte **Shtrafniki**: beste Rifle Squad  
+  - - **Shturmoviki (Roks)**: sehr gute CQC (2 Karten)
+    - **Shtrafniki**: beste Rifle Squad (1 Karte)
 * - [1e DFL](https://steeldivision.fandom.com/wiki/1e_DFL)  
   - ![](pics/1st_DFL.png)
   - - <span style="color:green">Starke Infanterie</span>  
-    - <span style="color:green">Starke Artillerie</span>  
+    - <span style="color:green">Gute Artillerie</span>  
     - <span style="color:green">Sehr gute Flugzeuge</span>  
     &nbsp;
-    - <span style="color:red">Insgesamt schwer zu spielen</span>  
+    - <span style="color:red">Wenig Tiefe, schwer auf Balanced</span>  
     - <span style="color:red">Schwache Panzer und AT</span>   
-  - - Schwer zu spielen, aber wenn man es kann, dann sehr stark.  
+  - - **Bimp Tranape**: Sehr gutes Rifle Squad (2xThompson+2xBren+Bazooka)
+    - **Legionnaires**: Sehr starke CQC (13-Mann, fanatisch)
+    - **Legion. Sap.-Pionniers**: Super CQC (3xThompson+2xFlammenwerfer)
+    - **P47D-22-RE**: Sehr guter, sehr schneller Bomber
 * - [Div. 8 Cav. Purtată](https://steeldivision.fandom.com/wiki/Div._8_Cav._Purtat%C4%83)  
   - ![](pics/div8cav.png)
   - - <span style="color:green">Starke Anti-Tank (Resita!)</span>  
     - <span style="color:green">Starke Infanterie</span>  
-    - <span style="color:green">Gute Artillerie</span>  
+    - <span style="color:green">Gute Anti-Air</span>  
     &nbsp;
     - <span style="color:red">Mangel an CQC-Einheiten</span>  
-    - <span style="color:red">Mangel an Armor</span>   
-  -
+    - <span style="color:red">Mangel an Panzern</span>   
+  - - **Calarasi**: 10-Mann Recon mit Scharfschütze + Panzerfaust! (4 Karten!)
+    - **Roșiori Asalt**: Sehr gute CQC (12-Mann, 4xBeretta+Molotov)
 * - [Task Force 45](https://steeldivision.fandom.com/wiki/Task_Force_45)  
   - ![](pics/TF45.png)
-  - - <span style="color:green">Sehr gute Infanterie</span>   
-  -
+  - - <span style="color:green">Sehr gute Infanterie und Recon</span>  
+    - <span style="color:green">Sehr starke Anti-Air</span>   
+    - <span style="color:green">Gute Flugzeuge</span>   
+    &nbsp;
+    - <span style="color:red">Nicht viele Antworten gegen schwere Armor</span>  
+    - <span style="color:red">Nur Shermans verfügbar</span>  
+    - <span style="color:red">Mittelmässige Support und Anti-Tank</span>  
+  - - **Cavalry Scouts**: Gute Recon (6-Mann mit Bazooka)
+    - **Conv. Gunners**: Gutes 15-Mann Rifle Squad mit sehr guter Availability (12/24/36) (3 Karten)
+    - **Nisei Rifles**: Eine der besten Rifle Squads im Spiel (Thompson+2xM19+Bazooka, fanatisch)
+    - **M1 8-inch 203mm**: Sehr starke Artillerie (Ammo immer extra)
+    - **P47D-22-RE**: Sehr guter, sehr schneller Bomber
 * - [Rezerv 43-y Armii](https://steeldivision.fandom.com/wiki/Rezerv_43-y_Armii)  
   - ![](pics/Rez43Arm.png)
   - - <span style="color:green">Gute Infanterie</span>  
