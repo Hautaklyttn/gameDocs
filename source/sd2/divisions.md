@@ -737,15 +737,25 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 * - [Corpul VI Teritorial](https://steeldivision.fandom.com/wiki/Corpul_VI_Teritorial)  
   - ![](pics/corpVI.png)
   - - <span style="color:green">Sehr gute Infanterie</span>  
-    - <span style="color:green">Gute Artillerie</span>  
+    - <span style="color:green">Gute Artillerie und Flugzeuge</span>  
     &nbsp;
     - <span style="color:red">Sehr schwache A-Phase (keine Armor)</span>  
-  -
+    - <span style="color:red">Schwacher Support und Anti-Air</span>  
+  - - **Calarasi**: 10-Mann Recon mit Scharfschütze + Panzerfaust! (4 Karten!)
+    - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)
+    - **Il-2M AT Rocket 132mm**: Sehr gutes AT-Flugzeug
 * - [Podv. Gruppa Fedyunkina](https://steeldivision.fandom.com/wiki/Podv._Gruppa_Fedyunkina)  
   - ![](pics/pGFedyun.png)
-  - - <span style="color:green">Sehr gute Infanterie</span>  
-    - <span style="color:green">Sehr gute Anti-Tank</span>  
-  -
+  - - <span style="color:green">Sehr günstige, gute Infanterie</span>  
+    - <span style="color:green">Sehr gute Support und Anti-Tank</span>  
+    - <span style="color:green">Sehr gute Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Mittelmässige Artillerie</span>
+  - - **Saperi (PPSh)**: Sehr günstige CQC (Kosten: 10) 4-Mann (4xPPSH+Panzerfaust)
+    - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)
+    - **Strelki (DT)**: Sehr gutes Rifle Squad (3xPPSH+2xDT(MG)+Molotov)
+    - **ISU-152**: Beste sowjetische Einheit im Spiel - sehr guter Tank Destroyer (2 Karten)
+    - **BS-3 100mm**: Riesen Anti-Tank Geschütz (100mm!)
 * - [6th Airborne](https://steeldivision.fandom.com/wiki/6th_Airborne_(SD2))  
   - ![](pics/6thAir.png)
   - - <span style="color:green">Sehr starke Sniper-Einheiten und Flugzeuge</span>  
