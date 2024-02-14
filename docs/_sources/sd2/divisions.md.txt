@@ -776,13 +776,22 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:green">Sehr viel günstige Infanterie</span>  
     - <span style="color:green">Viel T-34/76 1943 und T-34/85 1944</span>  
     &nbsp;
-    - <span style="color:red">Schwächere Artillerie</span>      
-  -
+    - <span style="color:red">Mittelmässige Anti-Tank</span>  
+    - <span style="color:red">Schwächere Artillerie</span>  
+  - - **Tankodesantniki**: Gute CQC (8xPPSh+Molotov)
+    - **Saperi**: Gute CQC (bessere Rifles als dt. Pioniere)
+    - **SU-152**: 2000m HE (Äquivalent zur 'Grille')
+    - **Il-2M**: Solides AT-Flugzeug
 * - [2nd New Zealand](https://steeldivision.fandom.com/wiki/2nd_New-Zealand)  
   - ![](pics/2ndNZ.png)
-  - - <span style="color:green">Sehr starke Sniper-Einheiten</span>  
-  -
-* - [44-ya Gvard. Strelkovy](https://steeldivision.fandom.com/wiki/10-y_Gv._Tank._Korpus)  
+  - - <span style="color:green">Gute Sniper-Recon</span>  
+    - <span style="color:green">Starke Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Mittelmässige Panzer (nur Sherman III)</span>
+    - <span style="color:red">Schwache Artillerie</span>
+  - - **Maori**: Gutes Rifle Squad und CQC (2xThompson+2MG34, fanatisch)
+    - **Spitfire Mk. Vc/trop Mitralexis**: Guter Fighter 
+* - [10-y Gv. Tank. Korpus](https://steeldivision.fandom.com/wiki/10-y_Gv._Tank._Korpus)  
   - ![](pics/10y_tankKorp.png)
   - - <span style="color:green">Viele Beutepanzer (Tiger+Panther)</span>  
     - <span style="color:green">Viel T-34/76 und T-34/85</span>  
@@ -796,12 +805,16 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 * - [1 Piechoty "Tadeusza Kościuszki"](https://steeldivision.fandom.com/wiki/1_Piechoty_%22Tadeusza_Ko%C5%9Bciuszki%22)  
   - ![](pics/1_pieTadKos.png)
   - - <span style="color:green">Sehr viel günstige Infanterie</span>  
-    - <span style="color:green">Viel T-34/76 1943 und T-34E (Pol) (vor allem ab C)</span>  
+    - <span style="color:green">Viel T-34/76 und T-34E (Pol) (vor allem ab C)</span>  
+    - <span style="color:green">Gute Flugzeuge</span>  
     &nbsp;
     - <span style="color:red">Probleme gegen schwere Panzer</span>  
-    - <span style="color:red">Schwächere Anti-Air</span>  
-  - - Taktik: T34 Spam  
-    - Taktik: Infanterie Spam  
+    - <span style="color:red">Schwächere Support und Artillerie</span>  
+  - - Taktik: T34 Spam / Infanterie Spam
+    - **Oddzial Karny**: Gutes 20-Mann Rifle-Squad (3xPPSP+3xDP-28(MG)+PTRD)
+    - **Desant Czolgowy**: Gute CQC (8xPPSh+Molotov)
+    - **Saperzy (Roks)**: Sehr gute CQC (4xPPSH+2xDP28(MG)+Flammenwerfer)
+    - **Il-2M**: Sehr gute Bomber/AT-Flugzeuge (versch. Typen)
 * - [Corpo Italiano di Liberazione](https://steeldivision.fandom.com/wiki/Corpo_Italiano_di_Liberazione)  
   - ![](pics/corpItalLiber.png)
   - - <span style="color:green">Sehr viel Infanterie</span>  
