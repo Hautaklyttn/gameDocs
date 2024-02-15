@@ -827,26 +827,35 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **Il-2M**: Sehr gute Bomber/AT-Flugzeuge (versch. Typen)
 * - [Corpo Italiano di Liberazione](https://steeldivision.fandom.com/wiki/Corpo_Italiano_di_Liberazione)  
   - ![](pics/corpItalLiber.png)
-  - - <span style="color:green">Sehr viel Infanterie</span>  
-    - <span style="color:green">Sehr gute Recon</span>  
+  - - <span style="color:green">Sehr gute und viel Infanterie</span>  
     - <span style="color:green">Sehr gute Flugzeuge</span>  
     &nbsp;
-    - <span style="color:red">Infanterie nicht günstig</span>  
-    - <span style="color:red">Sehr schwache Anti-Air</span>  
-    - <span style="color:red">Mittelmäßige Anti-Tank</span>  
-  - - Taktik: Infanterie Spam  
+    - <span style="color:red">Mittelmässige Panzer (Sherman III)</span>  
+    - <span style="color:red">Sehr schwache Anti-Air und Artillerie</span>  
+  - - **Maro**: Sehr gute CQC (9xBeretta+Panzerfaust)
+    - **Arditi**: Gute CQC (3xBeretta+2xBren+TNT)
+    - **Maro (Bren)**: Sehr gutes Rifle Squad (4xBren+Panzerfaust)
+    - **Beaufighter Mk X**: Sehr gutes AT-Flugzeug (8 Raketen!)
+    - Taktik: Infanterie Spam  
 * - [Podv. Gruppa Vyborg](https://steeldivision.fandom.com/wiki/Podv._Gruppa_Vyborg)  
   - ![](pics/podvGrVyborg.png)
   - - <span style="color:green">2 Karten IS-2 (bzw. IS-2 Komroti)</span>  
+    - <span style="color:green">Gute Anti-Tank</span>  
     &nbsp;
     - <span style="color:red">Wenig brauchbare Panzer, hauptsächlich leichte und mittlere</span>  
-    - <span style="color:red">Mittelmäßige Infanterie</span>  
-  -
+    - <span style="color:red">Mittelmäßiger Support</span>  
+  - - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)  
+    - **Shturmoviki**: Sehr Gute CQC (7xPPSH+DT(MG)+TNT)
+    - **BM-31-12 Andryusha**: Gute Rocket Artillerie
 * - [2e Blindee](https://steeldivision.fandom.com/wiki/2e_Blindee_(SD2))  
   - ![](pics/2ndBlind.png)
-  - - <span style="color:red">Keine schweren Panzer</span>  
+  - - <span style="color:green">Guter Recon und Support</span>  
+    &nbsp;
+    - <span style="color:red">Keine schweren Panzer</span>  
     - <span style="color:red">Probleme gegen schwere Panzer</span>  
-  - Taktik: Light/Medium Tank Spam  
+  - - **Sapeurs**: Gute CQC (2xThompson+Bazooka+TNT)
+    - **Char M4A3(76)**: Guter Panzer (185mm Pen + 100mm FA)
+    - Taktik: Light/Medium Tank Spam  
 * - [Groupement Dody](https://steeldivision.fandom.com/wiki/Groupement_Dody)  
   - ![](pics/groupDody.png)
   - - <span style="color:green">Sehr gute Infanterie</span>  
