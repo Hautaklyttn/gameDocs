@@ -893,12 +893,25 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **M4A3E3 Jumbo**: 190mm FA aber nur 90mm Pen
 * - [8th Indian Infantry](https://steeldivision.fandom.com/wiki/8th_Indian_Infantry)  
   - ![](pics/8thIndian.png)
-  -  
-  -
+  - - <span style="color:green">Gute Anti-Air und Artillerie</span>  
+    - <span style="color:green">Gute Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Mittelmässige Panzer (nur Sherman V)</span>  
+    - <span style="color:red">Schwacher Support</span>  
+  - - **Gurkhas Rifles**: Super 12-Mann Rifle Squad (3xThompson+2xBren+Granate) (2 Karten)
+    - **BL 4.5-Inch 114mm**: Sehr gute, günstige Artillerie 
+    - **Hurricane Mk IV**: Gutes AT-Flugzeug
 * - [7-y Mechanizi. Korpus](https://steeldivision.fandom.com/wiki/7-y_Mechanizi._Korpus)  
   - ![](pics/7yMechKorp.png)
-  -  
-  -    
+  - - <span style="color:green">Sehr gute 2K-HE (SU-122 und SU-152)</span>  
+    - <span style="color:green">Solide Flugzeuge</span>  
+    &nbsp;
+    - <span style="color:red">Mittelmässige Panzer (nur (aber viele) T34/76)</span>  
+    - <span style="color:red">Mittelmässige Artillerie</span>  
+  - - **Tankodesantniki**: Gute CQC (8xPPSh+Molotov)
+    - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)
+    - **ISU-152**: Beste sowjetische Einheit im Spiel - sehr guter Tank Destroyer
+    - **Pe-2-83**: Gute Bomber
 ```
 
 &nbsp;
