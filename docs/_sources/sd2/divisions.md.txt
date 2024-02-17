@@ -29,7 +29,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - - <span style="color:green">Sehr stark durch die Bank</span>  
     &nbsp;
     - <span style="color:red">Im Grunde keine Schwäche</span>  
-  - - **Stug IV**: Bester Medium Tank im Spiel
+  - - <span style="color:DodgerBlue">**Stug IV**: Bester Medium Tank im Spiel</span>
 * - [4. Fallschirmjäger](https://steeldivision.fandom.com/wiki/4._Fallschirmj%C3%A4ger)
   - ![](pics/4_fj.png)
   - - <span style="color:green">Sehr starke Infanterie</span>  
@@ -96,7 +96,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Mittelmässiger Support: Mangel an 2k HE</span>  
   - - **41M Turán II**: Hoher HE-Damage, schießt schnell  
-    - **36/40M Nimród**: Eine der beste AA im Spiel  
+    - <span style="color:DodgerBlue">**36/40M Nimród**: Eine der beste AA im Spiel</span>   
     - **31M 149mm**: Eine der beste Artillerien im Spiel  
     - Mit der beste Panzer-Tab im Spiel!  
 * - [26. Panzer](https://steeldivision.fandom.com/wiki/26._Panzer)
@@ -131,9 +131,9 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Im Grunde nur Panzer IV</span>  
     - <span style="color:red">Schwache Flugzeuge</span>  
   - - S-Tier Potential!
-    - **SDKFZ 135/1 150mm**: Sehr gute Artillerie! Bessere Hummel (2fache Mun, Reichweite!)
+    - <span style="color:DodgerBlue">**SDKFZ 135/1 150mm**: Sehr gute Artillerie! Bessere Hummel (2fache Mun, Reichweite!)</span>
     - **Mörser 531(f) 220mm**: Guter Mörser
-    - **Decima + Decima Ardetti**: Sehr gute Infanterie
+    - <span style="color:DodgerBlue">**Decima + Decima Ardetti**: Sehr gute Infanterie</span>
     - **Pz.Grenadier '41**: Verbesserte Panzergrenadiere
 ```
 
@@ -159,7 +159,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Etwas zu wenig CQC</span>  
   - - **FW 190 D-9**: Sehr guter Jäger
     &nbsp;
-    - **FW 190 F-8 AT Rocket**: Sehr guter AT-Flieger
+    - <span style="color:DodgerBlue">**FW 190 F-8 AT Rocket**: Sehr guter AT-Flieger</span>
     &nbsp;
     - Taktik: Anti-Infantrie: **Grille**
 * - [Fallschirm-Panzer "Hermann Göring"](https://steeldivision.fandom.com/wiki/Fallschirm-Panzer_%22Hermann_G%C3%B6ring%22)
@@ -187,7 +187,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Wenig 2k</span>  
   - - **41M Turán II**: Hoher HE-Damage, schießt schnell  
-    - **36/40M Nimród**: Eine der beste AA im Spiel  
+    - <span style="color:DodgerBlue">**36/40M Nimród**: Eine der beste AA im Spiel</span>  
 * - [122. Infanterie](https://steeldivision.fandom.com/wiki/122._Infanterie)
   - ![](pics/122_inf.png)
   - - <span style="color:green">Gute Finnische Infanterie</span>  
@@ -195,7 +195,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Viel mittelmäßige Infanterie</span>  
     - <span style="color:red">Schlechte Anti-Air</span>   
-  - - **Tarkka-Ampuja**: Doppel-Sniper Recon!  
+  - - <span style="color:DodgerBlue">**Tarkka-Ampuja**: Doppel-Sniper Recon!</span>  
     - **Soomepoisid**: Gutes, günstiges Rifle-Squad
 * - [11. SS-Fr.-Panzergrenadier "Nordland"](https://steeldivision.fandom.com/wiki/11._SS-Fr.-Panzergrenadier_%22Nordland%22)
   - ![](pics/11_ss.png)
@@ -208,7 +208,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Keine AT-Flugzeuge</span>  
   - - **SPW 234/2 PUMA**: Sehr gutes Recon-Fzg (schnell und starkes Geschütz)
     - **FK 288(r)**: Günstiges Beutegeschütz (ZIS-3) (2 Karten)
-    - **Ar 234 B-2 Heavy Bomber**: Phänomenaler, schneller Bomber (Jet-Engine!)
+    - <span style="color:DodgerBlue">**Ar 234 B-2 Heavy Bomber**: Phänomenaler, schneller Bomber (Jet-Engine!)</span>
 * - [Verteidigungsbereich Toulon](https://steeldivision.fandom.com/wiki/Verteidigungsbereich_Toulon)
   - ![](pics/vertToulon.png)
   - - <span style="color:green">Sehr starke Infantrie</span>  
@@ -218,11 +218,11 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Keine gepanzerten Recon-Fahrzeuge</span>  
     - <span style="color:red">Schwacher Panzer-Tab</span>  
-  - - **Maro**: 12-Mann Beretta Squad (sehr starke CQC)  
+  - - <span style="color:DodgerBlue">**Maro**: 12-Mann Beretta Squad (sehr starke CQC)</span>  
     - **Brandenburger**: Sehr starke CQC + Doppel-MG42  
     - **KM Boot Besatzung**: Super Rifle-Squad (3xMG34)
-    - **Flak 38 105mm**: Mächtigste Anti-Air im Spiel (OneShoot-Kill gegen Panzer)
-    - **Flakzwilling 37mm**: Tödlichste Anti-Air im Spiel
+    - <span style="color:DodgerBlue">**Flak 38 105mm**: Mächtigste Anti-Air im Spiel (OneShoot-Kill gegen Panzer)</span>
+    - <span style="color:DodgerBlue">**Flakzwilling 37mm**: Tödlichste Anti-Air im Spiel</span>
 * - [Panzergrenadier "Großdeutschland"](https://steeldivision.fandom.com/wiki/Panzergrenadier_%22Gro%C3%9Fdeutschland%22)
   - ![](pics/pg_grossD.png)
   - - <span style="color:green">Viele gute Panzer</span>  
@@ -258,7 +258,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Flugzeug-Tab locked in B</span>  
     - <span style="color:red">Zu wenig 2k</span>  
   - - **41M Turán II**: Hoher HE-Damage, schießt schnell  
-    - **36/40M Nimród**: Eine der beste AA im Spiel  
+    - <span style="color:DodgerBlue">**36/40M Nimród**: Eine der beste AA im Spiel</span>   
     - Taktik: Turan Spam  
 * - [17. Divisioona](https://steeldivision.fandom.com/wiki/17._Divisioona)
   - ![](pics/17divis.png)
@@ -278,8 +278,8 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Deck fehlt Tiefe, eher nicht Balanced zu spielen</span>  
     - <span style="color:red">Schwache Artillerie und wenig Anti-Tank</span>  
   - - **Jääkäri**: Sehr gutes Squad in mittlerer Distanz (0-500m) mit Molotov+Fanzerfaust  
-    - **Syöksypioneeri**: Eine der besten Flamersquads im spiel (2xFlamer + 3xSuomi KP)
-    - **Tarkka-Ampuja**: Doppel-Sniper Recon!
+    - <span style="color:DodgerBlue">**Syöksypioneeri**: Eine der besten Flamersquads im spiel (2xFlamer + 3xSuomi KP)</span>
+    - <span style="color:DodgerBlue">**Tarkka-Ampuja**: Doppel-Sniper Recon!</span>
 * - [1 Blindata "România Mare"](https://steeldivision.fandom.com/wiki/1_Blindata_%22Rom%C3%A2nia_Mare%22)
   - ![](pics/1stBlind.png)
   - - <span style="color:green">Gute Infanterie</span>
@@ -287,7 +287,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Mittelmässige Anti-Air und Artillerie</span>  
     - <span style="color:red">Im Grunde nur Bomber, nur eine Karte AT-Flugzeug</span>
-  - - **Lt. Vanatori Moto**: Doppel-Sniper Leader!
+  - - <span style="color:DodgerBlue">**Lt. Vanatori Moto**: Doppel-Sniper Leader!</span>
     - **Pionieri Asalt**: Eine der besten CQC im Spiel
     - **Vanatori De Care**: Sehr gute Anti-Tank-Infanterie (Panzerschreck+Granate)
 * - [1. Skijäger](https://steeldivision.fandom.com/wiki/1._Skij%C3%A4ger)
@@ -299,7 +299,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Schwacher Panzer-Tab</span>  
   - - Aggressiv zu spielendes Deck, wenig Tiefe. Insgesamt wenig Karten.
     - **Sturm-Skijäger**: 9 MP44 + AT-Grenade
-    - **Sturmpanzer KV-2(r)**: One-Shoot Killer! Beste Einheit im Deck
+    - <span style="color:DodgerBlue">**Sturmpanzer KV-2(r)**: One-Shoot Killer! Beste Einheit im Deck</span>
     - **Panzerjäger RSO**: PAK-40 auf Ketten für 35 Pkt!  
     - **Bf 109 G-6/R4**: Doppel 30mm Jäger - sehr stark
 * - [25. Hadosztály](https://steeldivision.fandom.com/wiki/25._Hadoszt%C3%A1ly)
@@ -332,9 +332,9 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Zu wenig CQC</span>  
     - <span style="color:red">Wenig Panzer (nur Stug III)</span>  
-  - - **Fs-Jäger (FG-42)**: Perfektes Rifle Squad (2xFG42+2xMG42+Panzerfaust) (2 Karten)  
-    - **Fs-Jäger (ZF)**: Sniper Rifle Squad (2xMG42+Sniper) (4 Karten)  
-    - **Fs-Sturmjäger**: Höchste DPS-Einheit im Spiel (100-300m) (2xFG42+2xMG42+6xMP44)
+  - - <span style="color:DodgerBlue">**Fs-Jäger (FG-42)**: Perfektes Rifle Squad (2xFG42+2xMG42+Panzerfaust) (2 Karten)</span>  
+    - <span style="color:DodgerBlue">**Fs-Jäger (ZF)**: Sniper Rifle Squad (2xMG42+Sniper) (4 Karten)</span>  
+    - <span style="color:DodgerBlue">**Fs-Sturmjäger**: Höchste DPS-Einheit im Spiel (100-300m) (2xFG42+2xMG42+6xMP44)</span>
     - **LPAK 41 Gerlich 42mm**: Sehr gute PAK mit Stealth: Exceptional (sehr schwer zu orten)
     - **Püppchen**: Short-Range AT-Monster
     - **Hs 129 B-3**: Sehr gutes AT-Flugzeug (nicht zu schnell)
@@ -349,7 +349,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Mittelmäßige Infantrie</span>  
     - <span style="color:red">Sehr teuer, zu wenig CQC</span>  
-  - - **Fw 190 A-8**: Bester Jäger der Axis
+  - - <span style="color:DodgerBlue">**Fw 190 A-8**: Bester Jäger der Axis</span>
     &nbsp;
     - Taktik: Anti-Infantrie: **Grille**  
 * - [1. Fallschirmjäger](https://steeldivision.fandom.com/wiki/1._Fallschirmj%C3%A4ger)
@@ -360,9 +360,9 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Generell wenig Optionen</span>  
     - <span style="color:red">Wenig Panzer - nur Tiger</span>  
     - <span style="color:red">Schwache Artillerie</span>  
-  - - **Fs-Stosstrupp**: Perfekte CQC (2xBeretta+3xFG42+Molotov)
-    - **Fs-Jäger (FG-42)**: Perfektes Rifle Squad (2xFG42+2xMG42+Panzerfaust) (2 Karten)
-    - **Fs-Jäger (ZF)**: Sniper Rifle Squad (2xMG42+Sniper) (1 Karte)  
+  - - <span style="color:DodgerBlue">**Fs-Stosstrupp**: Perfekte CQC (2xBeretta+3xFG42+Molotov)</span>
+    - <span style="color:DodgerBlue">**Fs-Jäger (FG-42)**: Perfektes Rifle Squad (2xFG42+2xMG42+Panzerfaust) (2 Karten)</span>
+    - <span style="color:DodgerBlue">**Fs-Jäger (ZF)**: Sniper Rifle Squad (2xMG42+Sniper) (1 Karte)</span>  
 * - [Sperrverband Kessel](https://steeldivision.fandom.com/wiki/Sperrverband_Kessel)
   - ![](pics/svKessel.png)
   - - <span style="color:green">Gute Infanterie (gute Mischung aus ungar. und dt. Einheiten)</span>  
@@ -372,8 +372,8 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Keine AT-Flugzeuge</span>  
     - <span style="color:red">Schlechte Artillerie</span>    
   - - **Hegyivadász**: Gute, günstige 13-Mann CQC (1xMG + 1xMolotov)
-    - **Brandenburger**: 12-Mann Elite-CQC (6xG43+2xMG42+1xGranate)
-    - **Brandenb. MG 42**: Sehr gute MG-Einheit (+1 Mann, bessere Stealth und Optics als Standard MG42)
+    - <span style="color:DodgerBlue">**Brandenburger**: 12-Mann Elite-CQC (6xG43+2xMG42+1xGranate)</span>
+    - <span style="color:DodgerBlue">**Brandenb. MG 42**: Sehr gute MG-Einheit (+1 Mann, bessere Stealth und Optics als Standard MG42)</span>
 * - [5. Gebirgsjäger](https://steeldivision.fandom.com/wiki/5._Gebirgsj%C3%A4ger)
   - ![](pics/5_gj.png)
   - - <span style="color:green">Infanterie (*Gebirgsjäger*) mit sehr guter Availability</span>  
@@ -382,7 +382,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Zu wenig Panzer</span>  
     - <span style="color:red">Schlechte Anti-Air</span>  
     - <span style="color:red">Keine Long-range Waffen</span>  
-  - **Geb. Führer**: Sehr guter Leader (3xBeretta, Sniper + Panzerschreck)
+  - <span style="color:DodgerBlue">**Geb. Führer**: Sehr guter Leader (3xBeretta, Sniper + Panzerschreck)</span>
 * - [21. Panzer](https://steeldivision.fandom.com/wiki/21._Panzer_(SD2))
   - ![](pics/21_pzer.png)
   - - <span style="color:green">Guter Support (Grille + Sturmpanzer IV)</span>  
@@ -391,7 +391,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Mittelmässige Infanterie</span>  
     - <span style="color:red">Im Grunde nur Panzer IV</span>
     - <span style="color:red">Mittelmässige Anti-Tank (keine PAK-40)</span>  
-  - - **Sd.Kfz. 135/1 150mm**: Sehr gute Artillerie! Bessere Hummel (2fache Mun, Reichweite!)  
+  - - <span style="color:DodgerBlue">**Sd.Kfz. 135/1 150mm**: Sehr gute Artillerie! Bessere Hummel (2fache Mun, Reichweite!)</span>  
     - **FW 190 A-8**: Sehr guter Jäger
     - **Königstiger**: 2 Karten im Deck
 * - [116. Panzer](https://steeldivision.fandom.com/wiki/116._Panzer_(SD2))
@@ -413,7 +413,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Sehr schlechte Anti-Air</span>  
   - - **Stosstrupp (MP44)**: Gute günstige CQC  
     - **K35(t) 105mm**: Sehr gute Artillerie mit hoher Feuerrate  
-    - **Nebelwerfer 42 300mm**: Beste Rocket Artillerie im Spiel
+    - <span style="color:DodgerBlue">**Nebelwerfer 42 300mm**: Beste Rocket Artillerie im Spiel</span>
 * - [28. Jäger](https://steeldivision.fandom.com/wiki/28._J%C3%A4ger)
   - ![](pics/28_jaeger.png)
   - - <span style="color:green">Günstige und gute Infanterie</span>
@@ -424,7 +424,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Schlechte Anti-Air</span> 
   - - **Jäger**: Gute günstiges Rifle Squad (exz. Availability, 1xMG42+Panzerfaust)
     - **Jäger Pionier**: Gut im CQC und auf Entfernung (8xG43, MG42 + Granate)
-    - **Sturmjäger**: Sehr gute Mid-Range Inf. (7xMP44, 2xG43, MG42 + AT-Granate)
+    - <span style="color:DodgerBlue">**Sturmjäger**: Sehr gute Mid-Range Inf. (7xMP44, 2xG43, MG42 + AT-Granate)</span>
     - **Jäger Flammenwerfer**: Sehr gute Flammenw. (2xFlammenw.+Granate)
 * - [Festung Dünkirchen](https://steeldivision.fandom.com/wiki/Festung_D%C3%BCnkirchen)
   - ![](pics/festD.png)
@@ -437,8 +437,8 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - - **Jagdkampf**: Sehr gute CQC (==Brandenburger) (6xG43+2xMG42+Panzerschreck)  
     - **Festungs-Grenadier**: 15-Mann Rifle Squad mit sehr guter Availability
     - **Erdkampflafette 43**: Phänomenales 1500m Autocannon-Geschütz (20mm)
-    - **Jagdpanther**: Hammer! (230 Pen und 140 FA) (nur einmal verfügbar)
-    - **Flak 38 105mm**: Mächtigste Anti-Air im Spiel (OneShoot-Kill gegen Panzer)
+    - <span style="color:DodgerBlue">**Jagdpanther**: Hammer! (230 Pen und 140 FA) (nur einmal verfügbar)</span>
+    - <span style="color:DodgerBlue">**Flak 38 105mm**: Mächtigste Anti-Air im Spiel (OneShoot-Kill gegen Panzer)</span>
 * - [5. Panzer](https://steeldivision.fandom.com/wiki/5._Panzer)
   - ![](pics/5_pzer.png)
   - - <span style="color:green">Guter Tank-Tab (viele Panther und Tiger)</span>
@@ -460,7 +460,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - - **SPW 234/2 PUMA**: Sehr gutes gepanzertes Fahrzeug  
     - **Pz.Grenadier (PzSchk)**: Phänomenale Panzergrenadiere  
     - **Borgward IV**: Kann Teil von Ortschaft zerstören  
-    - **FW 190 A-8**: Einer der besten Fighter im Spiel
+    - <span style="color:DodgerBlue">**FW 190 A-8**: Einer der besten Fighter im Spiel</span>
 * - [20. Panzergrenadier](https://steeldivision.fandom.com/wiki/20._Panzergrenadier)
   - ![](pics/20_pg.png)
   - - <span style="color:green">Guter Support und Anti-Tank</span>  
@@ -488,7 +488,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Mittelmässige Recon</span>  
     - <span style="color:red">Schlechte Anti-Air</span>  
   - - **Begleit-Grenadier**: Gutes Rifle-Squad (8xMP44+3xG43+MG42)
-    - **Begleit-Pionier**: Super CQC (9xMP44+3xG43+MG42+Granate)
+    - <span style="color:DodgerBlue">**Begleit-Pionier**: Super CQC (9xMP44+3xG43+MG42+Granate)</span>
 * - [12. Tartalék](https://steeldivision.fandom.com/wiki/12._Tartal%C3%A9k)
   - ![](pics/12Tart.png)
   - - <span style="color:green">Viel Infanterie</span>  
@@ -507,7 +507,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Schwache (nur leichte) Panzer </span>  
     - <span style="color:red">Wenig Anti-Tank und Support</span>  
     - <span style="color:red">Mittelmässige Anti-Air und Artillerie</span>  
-  - - **Pionieri**: Sehr gute CQC (4xBeretta+Flammenwerfer+Granate)
+  - - <span style="color:DodgerBlue">**Pionieri**: Sehr gute CQC (4xBeretta+Flammenwerfer+Granate)</span>
     - **Ju87 G-1**: Guter AT-Flieger
 * - [4 Munte](https://steeldivision.fandom.com/wiki/4_Munte)
   - ![](pics/4_munte.png)
@@ -519,7 +519,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Mittelmässige Artillerie</span>  
     - <span style="color:red">Mittelmässige Panzer (nur Panzer IV)</span>   
   - - **Lt. VM**: Sehr guter Leader (Sniper+Panzerschreck)
-    - **Vanatori Cercetare**: Beste Sniper im Spiel (Recon)
+    - <span style="color:DodgerBlue">**Vanatori Cercetare**: Beste Sniper im Spiel (Recon)</span>
     - **Vanatori de Care**: Bestes Anti-Tank-Team im Spiel (Availability!)
 * - [352. Infanterie](https://steeldivision.fandom.com/wiki/352._Infanterie_(SD2))
   - ![](pics/352_inf.png)
@@ -528,7 +528,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Schwache Infanterie, wenig CQC</span>  
     - <span style="color:red">Schwacher Panzer-Tab</span>  
-  - - **Jagdpanther**: Sehr guter schwerer Panzer
+  - - <span style="color:DodgerBlue">**Jagdpanther**: Sehr guter schwerer Panzer</span>
     - **HS 129 B-3 Tank Buster**: Sehr gutes AT-Flugzeug
 * - [Ryhmä Raappana](https://steeldivision.fandom.com/wiki/Ryhm%C3%A4_Raappana)
   - ![](pics/ryhmaeR.png)
@@ -538,9 +538,9 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Keine Panzer</span>  
     - <span style="color:red">Schwacher Support und 2K-HE</span>  
-  - - **Tarkka-Ampuja**: Doppel-Sniper Recon!  
+  - - <span style="color:DodgerBlue">**Tarkka-Ampuja**: Doppel-Sniper Recon!</span>  
     - **Jääkäri**: Gutes, günstiges Rifle Squad (3xSuomi+Molotov+Panzerfaust)
-    - **Syöksypioneeri**: Sehr gute CQC (3xSuomi+2xFlammenwerfer)
+    - <span style="color:DodgerBlue">**Syöksypioneeri**: Sehr gute CQC (3xSuomi+2xFlammenwerfer)</span>
 ```
 
 &nbsp;
@@ -579,7 +579,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Wenig Panzer bis C</span>  
     - <span style="color:red">Schwache Artillerie</span>  
-  - **Jagdpanther**: Sehr guter schwerer Panzer  
+  - <span style="color:DodgerBlue">**Jagdpanther**: Sehr guter schwerer Panzer</span>  
 * - [Panzerverband Strachwitz](https://steeldivision.fandom.com/wiki/Panzerverband_Strachwitz)
   - ![](pics/pvStrach.png)
   -  
@@ -949,8 +949,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - Ab Phase C: **KV-85** und **ISU-152**  
 * - [9 Infanterie](https://steeldivision.fandom.com/wiki/9_Infanterie)  
   - ![](pics/9_inf.png)
-  - - <span style="color:green">Sehr gute Recon</span>  
-    - <span style="color:green">Gute Anti-Tank und Artillerie</span> 
+  - - <span style="color:green">Gute Anti-Tank und Artillerie</span> 
     &nbsp;
     - <span style="color:red">Wenig Tiefe, nicht Balanced zu spielen</span>  
     - <span style="color:red">Nicht genug gute Infanterie, wenig CQC</span>  
@@ -972,7 +971,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **Saperi (PPSh)**: Gute, sehr günstige Inf (4PPSH+Panzerfaust)
     - <span style="color:DodgerBlue">**Gruppa Zachistki**: Phänomenale CQC (5xSuomi+2xAut.Rifle+Flammenwerfer) (2 Karten)</span>  
     - **ISU-122**: Zu teuer, selten gut und zu schwache FA
-    - **IL2-M3**: Sehr gute Bomber
+    - **IL2-M3** und **Tu-2s**: Sehr gute Bomber
 * - [Armia Krajowa](https://steeldivision.fandom.com/wiki/Armia_Krajowa)  
   - ![](pics/armiaKrajowa.png)
   - - <span style="color:green">Sehr viel Infanterie</span>  
