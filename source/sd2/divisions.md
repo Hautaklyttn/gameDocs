@@ -949,17 +949,30 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - Ab Phase C: **KV-85** und **ISU-152**  
 * - [9 Infanterie](https://steeldivision.fandom.com/wiki/9_Infanterie)  
   - ![](pics/9_inf.png)
-  - - <span style="color:red">Extrem schlechte Anti-Air</span>  
-    - <span style="color:red">Nicht genug gute Infanterie</span>  
-  - 
+  - - <span style="color:green">Sehr gute Recon</span>  
+    - <span style="color:green">Gute Anti-Tank und Artillerie</span> 
+    &nbsp;
+    - <span style="color:red">Wenig Tiefe, nicht Balanced zu spielen</span>  
+    - <span style="color:red">Nicht genug gute Infanterie, wenig CQC</span>  
+    - <span style="color:red">Mittelmässige und wenig Panzer</span>  
+    - <span style="color:red">Schlechter Support und Anti-Air</span>      
+  - - **Calarasi**: 10-Mann Recon mit Scharfschütze + Panzerfaust! (4 Karten)
+    - **Echipa Asalt**: Gute 14-Mann CQC (2xZB30(MG)+Granate) (Availability!)
+    - **Vanatori De Care**: Sehr gute Anti-Tank-Infanterie (Panzerschreck+Granate)
+    - **OB M1934 100mm**: Eine der besten Haubitzen im Spiel (1xVet: +2r/m !)
 * - [358-ya Strelkova Div](https://steeldivision.fandom.com/wiki/358-ya_Strelkova_Div)  
   - ![](pics/358ya_SD.png)
-  - - <span style="color:green">2 Karten ISU-122</span>  
-    - <span style="color:green">Gute Infanterie</span> 
+  - - <span style="color:green">Sehr gute Infanterie</span> 
+    - <span style="color:green">Sehr gute Flugzeuge</span> 
     &nbsp;
+    - <span style="color:red">Wenig Tiefe, nicht Balanced zu spielen</span>  
     - <span style="color:red">Nur mittlere und leichte Panzer</span>  
-    - <span style="color:red">Mittelmäßige Artillerie</span>  
-  -  
+    - <span style="color:red">Schlechter Support und Anti-Air</span>  
+  - - **T-70 Razvedka**: Guter, günstiger(!) kleiner Panzer (Pen:100, 60mm FA)
+    - **Saperi (PPSh)**: Gute, sehr günstige Inf (4PPSH+Panzerfaust)
+    - <span style="color:DodgerBlue">**Gruppa Zachistki**: Phänomenale CQC (5xSuomi+2xAut.Rifle+Flammenwerfer) (2 Karten)</span>  
+    - **ISU-122**: Zu teuer, selten gut und zu schwache FA
+    - **IL2-M3**: Sehr gute Bomber
 * - [Armia Krajowa](https://steeldivision.fandom.com/wiki/Armia_Krajowa)  
   - ![](pics/armiaKrajowa.png)
   - - <span style="color:green">Sehr viel Infanterie</span>  
