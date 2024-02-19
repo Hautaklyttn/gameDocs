@@ -932,7 +932,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:green">Gute Luftwaffe</span> 
     &nbsp;
     - <span style="color:red">Mittelmässige Panzer</span>  
-  - - **Kaz. Razvedka**: Gute günstige Revcon (8xPPsh)
+  - - **Kaz. Razvedka**: Gute günstige Recon (8xPPsh)
     - **Saperi (PPSh)**: Sehr günstige CQC (Kosten: 10) 4-Mann (4xPPSH+Panzerfaust)
     - **Kazaki (PPSh)**: Sehr günstige CQC (Kosten: 15) 8-Mann (6xPPSH+Granate)
     - **A-19 122mm**: Gute schwere Haubitze
@@ -950,7 +950,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 * - [29-ya Tank. Korpus](https://steeldivision.fandom.com/wiki/29-ya_Tankovy_Korpus)  
   - ![](pics/29ya_TK.png)
   - - <span style="color:green">Gute, günstige Infanterie</span>  
-    - <span style="color:green">Gute, zahlreiche Panzer (T34/85 1944 (6 Karten), IS-2 (2 Karten))</span>  
+    - <span style="color:green">Gute, zahlreiche Panzer</span>  
     - <span style="color:green">Guter Anti-Tank-Tab</span>  
     &nbsp;
     - <span style="color:red">Mittelmässige Artillerie</span>
@@ -958,6 +958,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - - **Saperi (PPSh)**: Sehr günstige CQC (Kosten: 10) 4-Mann (4xPPSH+Panzerfaust)
     - **Tankodesantniki**: Gute CQC (8xPPSh+Molotov)
     - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)
+    - Panzer: **T34/85 obr. 1943 & 1944** (10 Karten), **IS-2 obr. 1943** (3 Karten)
 * - [126-y L. Gornostrelkovy Korpus](https://steeldivision.fandom.com/wiki/126-y_L._Gornostrelkovy_Korpus)  
   - ![](pics/126y_LGK.png)
   - - <span style="color:green">Viele leichte Panzer, Rush-Gefahr</span>  
@@ -998,10 +999,11 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:green">Sehr gute CQC-Infanterie</span>  
     - <span style="color:green">Sehr viele (auch gute) Flugzeuge</span> 
     &nbsp;
-    - <span style="color:red">Wenig Panzer, vor allem leichte (in B 1 x Panther und 1 x Tiger / in C einige T-34/76 1943)</span>  
+    - <span style="color:red">Wenig Panzer, vor allem leichte</span>  
     - <span style="color:red">Sehr schwache Anti-Air (nur 20mm bis C dann 37mm)</span>  
     - <span style="color:red">Sehr wenig Artillerie</span>  
   - - Sehr gute CQC: **Ochotnicy** (15 man squad) 
+    - Panzer: In B max. 3 Panther und einen Tiger, in C max. 8 T-34/76 1943
     - Taktik: Infanterie Spam  
 * - [3-ya Gvard. Tankovy Korpus](https://steeldivision.fandom.com/wiki/3-ya_Gvard._Tankovy_Korpus)  
   - ![](pics/3ya_GTK.png)
