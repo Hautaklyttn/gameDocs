@@ -927,17 +927,37 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - Anmerkungen
 * - [9-ya Gvard. Kavalerii](https://steeldivision.fandom.com/wiki/9-ya_Gvard._Kavalerii)  
   - ![](pics/9ya_GK.png)
-  - - <span style="color:green">Gute günstige Infanterie</span>  
-    - <span style="color:green">Gute Recon</span> 
-  -
+  - - <span style="color:green">Gute, günstige Infanterie</span>  
+    - <span style="color:green">Gute Recon und Artillerie</span> 
+    - <span style="color:green">Gute Luftwaffe</span> 
+    &nbsp;
+    - <span style="color:red">Mittelmässige Panzer</span>  
+  - - **Kaz. Razvedka**: Gute günstige Revcon (8xPPsh)
+    - **Saperi (PPSh)**: Sehr günstige CQC (Kosten: 10) 4-Mann (4xPPSH+Panzerfaust)
+    - **Kazaki (PPSh)**: Sehr günstige CQC (Kosten: 15) 8-Mann (6xPPSH+Granate)
+    - **A-19 122mm**: Gute schwere Haubitze
 * - [Task Force Butler](https://steeldivision.fandom.com/wiki/Task_Force_Butler)  
   - ![](pics/TF_butler.png)
-  -  
-  -  
+  - - <span style="color:green">Gute Artillerie</span> 
+    - <span style="color:green">Gute Luftwaffe</span> 
+    &nbsp;
+    - <span style="color:red">Zu wenig CQC</span> 
+    - <span style="color:red">Mittelmässige Panzer (nur M4A1)</span> 
+    - <span style="color:red">Schwache Anti-Air</span> 
+  - - **Rifles (Late)**: Gutes 12-Mann Rifle Squad (1xThompson+9xM1+2xM19(MG))
+    - **M4A1**: Schlechteste Version des Sherman - sehr stark gegen 'weiche' Ziele
+    - **P-47D-22-RE Heavy Bomber**: Guter schneller Bomber
 * - [29-ya Tank. Korpus](https://steeldivision.fandom.com/wiki/29-ya_Tankovy_Korpus)  
   - ![](pics/29ya_TK.png)
-  - - <span style="color:red">Mangel an guter Infanterie</span>  
-  - 
+  - - <span style="color:green">Gute, günstige Infanterie</span>  
+    - <span style="color:green">Gute, zahlreiche Panzer (T34/85 1944 (6 Karten), IS-2 (2 Karten))</span>  
+    - <span style="color:green">Guter Anti-Tank-Tab</span>  
+    &nbsp;
+    - <span style="color:red">Mittelmässige Artillerie</span>
+    - <span style="color:red">Mittelmässige Luftwaffe</span>
+  - - **Saperi (PPSh)**: Sehr günstige CQC (Kosten: 10) 4-Mann (4xPPSH+Panzerfaust)
+    - **Tankodesantniki**: Gute CQC (8xPPSh+Molotov)
+    - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)
 * - [126-y L. Gornostrelkovy Korpus](https://steeldivision.fandom.com/wiki/126-y_L._Gornostrelkovy_Korpus)  
   - ![](pics/126y_LGK.png)
   - - <span style="color:green">Viele leichte Panzer, Rush-Gefahr</span>  
