@@ -995,14 +995,15 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **IL2-M3** und **Tu-2s**: Sehr gute Bomber
 * - [Armia Krajowa](https://steeldivision.fandom.com/wiki/Armia_Krajowa)  
   - ![](pics/armiaKrajowa.png)
-  - - <span style="color:green">Sehr viel Infanterie</span>  
-    - <span style="color:green">Sehr gute CQC-Infanterie</span>  
+  - - <span style="color:green">Sehr viel Infanterie (gute CQC)</span>  
     - <span style="color:green">Sehr viele (auch gute) Flugzeuge</span> 
     &nbsp;
     - <span style="color:red">Wenig Panzer, vor allem leichte</span>  
     - <span style="color:red">Sehr schwache Anti-Air (nur 20mm bis C dann 37mm)</span>  
     - <span style="color:red">Sehr wenig Artillerie</span>  
-  - - Sehr gute CQC: **Ochotnicy** (15 man squad) 
+  - - **Ochotnicy**: Gute 15-Mann CQC  (1xBrowning(MG)+Molotov) 
+    - **Saperzy (AK)**: Gute Doppel-Flammenwerfer CQC
+    - **Grupy Szturmowe (MG-42)**: Gutes Rifle Squad (4xMP44+1xMG42+Panzerfaust)
     - Panzer: In B max. 3 Panther und einen Tiger, in C max. 8 T-34/76 1943
     - Taktik: Infanterie Spam  
 * - [3-ya Gvard. Tankovy Korpus](https://steeldivision.fandom.com/wiki/3-ya_Gvard._Tankovy_Korpus)  
