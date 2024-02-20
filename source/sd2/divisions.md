@@ -1035,19 +1035,27 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **IL-2M** und **Pe-2-83**: Sehr guter Bomber, immer nehmen. Schwer zu töten
 * - [Podv. Gruppa Tyurina](https://steeldivision.fandom.com/wiki/Podv._Gruppa_Tyurina)  
   - ![](pics/podvGT.png)
-  - - <span style="color:green">Sehr viel T-34/76 1943 </span>  
-    - <span style="color:green">Sehr viel Infanterie</span>  
+  - - <span style="color:green">Ausschließlich T-34/76 1942/1943 (7 Karten)</span>  
+    - <span style="color:green">Gute, günstige und viel Infanterie</span>  
     &nbsp;
     - <span style="color:red">Keine schweren Panzer</span>  
     - <span style="color:red">Probleme gegen schwere Panzer</span>  
-  -  
+    - <span style="color:red">Mittelmässiger Support und Artillerie</span>  
+  - - **Shturmoviki (ROKS)**: Herausragende CQC (6xPPSh+2xFlammenwerfer)
+    - **Saperi (PPSh)**: Sehr günstige CQC (Kosten: 10) 4-Mann (4xPPSH+Panzerfaust)
+    - **Tankodesantniki**: Gute CQC (8xPPSh+Molotov)
+    - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)
+    - **51-P-353 76,2mm**: Gutes HE-Geschütz (1500m)
 * - [6th SA Armoured](https://steeldivision.fandom.com/wiki/6th_SA_Armoured)  
   - ![](pics/6thSA_armor.png)
   - - <span style="color:green">Gute Panzer und Anti-Tank</span>  
     - <span style="color:green">Guter Artillerie-Panzer (M10 Grouse)</span>  
     &nbsp;
-    - <span style="color:red">Sehr schwache Infanterie (wenig CQC)</span>  
-  - - **M10 Grouse**: Starker Artillerie-Panzer
+    - <span style="color:red">Schwache Infanterie (wenig CQC)</span>  
+    - <span style="color:red">Mittelmässiger Support</span>  
+  - - **Sherman IIa** und **Firefly Vc**: Gute Panzer gegen alle mittlere Axis 
+    - **M10 Grouse**: Starker Artillerie-Panzer
+    - **QF 3,7-inch 94mm**: Starke AA, auch gegen Bodenziele
 * - [Bronirana Brigada](https://steeldivision.fandom.com/wiki/Bronirana_Brigada)  
   - ![](pics/broniBrig.png)
   - - <span style="color:green">Viele kleine günstige Panzer</span> 
