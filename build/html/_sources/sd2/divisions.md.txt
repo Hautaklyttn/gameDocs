@@ -1008,18 +1008,31 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - Taktik: Infanterie Spam  
 * - [3-ya Gvard. Tankovy Korpus](https://steeldivision.fandom.com/wiki/3-ya_Gvard._Tankovy_Korpus)  
   - ![](pics/3ya_GTK.png)
-  - - <span style="color:green">3 Karten IS-2 1944, 2 Karten ISU-152</span>  
+  - - <span style="color:green">3 Karten IS-2 1944, 1 Karte ISU-152</span>  
     &nbsp;
+    - <span style="color:red">Keine mittleren Panzer (T-34)</span>  
     - <span style="color:red">Hat Probleme auf Nahkampf-Karten</span>  
-  -  
+    - <span style="color:red">Mittelmässige Artillerie</span>  
+  - - **Razvedka**: Gute Recon (Bazooka Squad mit Exceptional Stealth)  
+    - **Saperi (PPSh)**: Sehr günstige CQC (Kosten: 10) 4-Mann (4xPPSH+Panzerfaust)
+    - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)
+    - **Tankodesantniki**: Gute CQC (8xPPSh+Molotov)
+    - **Ob-25 76,2mm**: Perfektes HE-Geschütz (1500m)
+    - **IL-2M** und **Pe-2-83**: Sehr guter Bomber, immer nehmen. Schwer zu töten
 * - [2-ya Gvard. Tankovy Korpus](https://steeldivision.fandom.com/wiki/2-ya_Gvard._Tankovy_Korpus)  
   - ![](pics/2ya_GTK.png)
   - - <span style="color:green">Sehr viel günstige Infanterie</span>  
     - <span style="color:green">Viel T-34/76 1943 und T-34/85 1944 (vor allem ab C)</span>  
-    - <span style="color:green">Gute Artillerie</span>  
+    - <span style="color:green">Guter Support, Artillerie und Luftwaffe</span>  
     &nbsp;
+    - <span style="color:red">Schlechtes Slot-Layout (z.B. wenig Infanterie-Slots)</span>  
     - <span style="color:red">Hat Probleme auf Nahkampf-Karten</span>  
-  -  
+  - - **Razvedka**: Gute Recon (Bazooka Squad mit Exceptional Stealth)  
+    - **Saperi (PPSh)**: Sehr günstige CQC (Kosten: 10) 4-Mann (4xPPSH+Panzerfaust)
+    - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)
+    - **Ob-25 76,2mm**: Perfektes HE-Geschütz (1500m)
+    - **ISU-152**: Beste sowjetische Einheit im Spiel - sehr guter Tank Destroyer (2 Karten)
+    - **IL-2M** und **Pe-2-83**: Sehr guter Bomber, immer nehmen. Schwer zu töten
 * - [Podv. Gruppa Tyurina](https://steeldivision.fandom.com/wiki/Podv._Gruppa_Tyurina)  
   - ![](pics/podvGT.png)
   - - <span style="color:green">Sehr viel T-34/76 1943 </span>  
