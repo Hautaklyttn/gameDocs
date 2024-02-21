@@ -1031,7 +1031,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **Saperi (PPSh)**: Sehr günstige CQC (Kosten: 10) 4-Mann (4xPPSH+Panzerfaust)
     - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)
     - **Ob-25 76,2mm**: Perfektes HE-Geschütz (1500m)
-    - **ISU-152**: Beste sowjetische Einheit im Spiel - sehr guter Tank Destroyer (2 Karten)
+    - <span style="color:DodgerBlue">**ISU-152**: Beste sowjetische Einheit im Spiel - sehr guter Tank Destroyer (2 Karten)</span>
     - **IL-2M** und **Pe-2-83**: Sehr guter Bomber, immer nehmen. Schwer zu töten
 * - [Podv. Gruppa Tyurina](https://steeldivision.fandom.com/wiki/Podv._Gruppa_Tyurina)  
   - ![](pics/podvGT.png)
@@ -1041,7 +1041,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Keine schweren Panzer</span>  
     - <span style="color:red">Probleme gegen schwere Panzer</span>  
     - <span style="color:red">Mittelmässiger Support und Artillerie</span>  
-  - - **Shturmoviki (ROKS)**: Herausragende CQC (6xPPSh+2xFlammenwerfer)
+  - - <span style="color:DodgerBlue">**Shturmoviki (ROKS)**: Herausragende CQC (6xPPSh+2xFlammenwerfer)</span>
     - **Saperi (PPSh)**: Sehr günstige CQC (Kosten: 10) 4-Mann (4xPPSH+Panzerfaust)
     - **Tankodesantniki**: Gute CQC (8xPPSh+Molotov)
     - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)
@@ -1081,18 +1081,29 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **OB-25 76.2mm**: Bestes HE-Geschütz
 * - [15th Infantry](https://steeldivision.fandom.com/wiki/15th_Infantry_(SD2))  
   - ![](pics/15th_inf.png)
-  - - <span style="color:red">Schwache Infanterie (schlechte Rifles)</span>  
+  - - <span style="color:green">Gute gepanzerte Recon-Fahrzeuge</span>  
+    - <span style="color:green">Guter Support-Tab</span>  
+    - <span style="color:green">Sehr gute Luftwaffe</span>  
+    &nbsp;
+    - <span style="color:red">Schwache Infanterie (schlechte Rifles)</span>  
+    - <span style="color:red">Alle Panzer sehr langsam (nur Churchills)</span>  
     - <span style="color:red">Sehr langsame Division</span>  
-  -
+  - - **AEC Mk.3**: Gutes gepanzertes Fahrzeug (70 Penetration)
+    - **Churchill IV**: Guter Tank-Killer (175 Pen, 12 r/m(!), nur 90 FA)
+    - **Churchill V**: Gute 2K-HE
+    - **Crusader AA Mk.1**: Sehr gute AA, Bofors auf Rädern. Auch gegen Infanterie
+    - <span style="color:DodgerBlue">**Typhoon Mk.1B**: Bester Fighter/Fighter-Bomber im Spiel</span>
 * - [3rd Canadian Infantry](https://steeldivision.fandom.com/wiki/3rd_Canadian_Infantry_(SD2))  
   - ![](pics/3rd_cana.png)
-  - - <span style="color:green">Sehr gute Anti-Tank</span>  
-    - <span style="color:green">Sehr gute Anti-Air</span>  
+  - - <span style="color:green">Guter Anti-Tank-Tab</span>  
+    - <span style="color:green">Gute Anti-Air und Luftwaffe</span>  
     &nbsp;
-    - <span style="color:red">Schwache Infanterie</span>  
-    - <span style="color:red">Mittelmässige Panzer</span>  
+    - <span style="color:red">Mittelmässige Infanterie</span>  
     - <span style="color:red">Mittelmässige Artillerie</span>  
-  - - **17-PDR 76.2mm**: sehr gutes AT Geschütz (2 Karten) 
+  - - **Kangaroo Rifles**: Sehr gutes 15-Mann Rifle Squad (4xSten+3Bren(MG)+Piat+Kangaroo Panzer) (2 Karten)
+    - **17-PDR 76.2mm**: Sehr gutes AT Geschütz (3 Karten)
+    - **Firefly Vc**: Guter Tank-Killer (170mm Pen, 100mm FA) 
+    - **Mosquito FB. VI**: Gute AT/Bomber-Flugzeuge
 * - [3-ya Gvard. Mechanizi. Korpus](https://steeldivision.fandom.com/wiki/3-ya_Gvard._Mechanizi._Korpus)  
   - ![](pics/3ya_GMK.png)
   -  
