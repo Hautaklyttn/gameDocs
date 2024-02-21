@@ -992,7 +992,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **Saperi (PPSh)**: Gute, sehr günstige Inf (4PPSH+Panzerfaust)
     - <span style="color:DodgerBlue">**Gruppa Zachistki**: Phänomenale CQC (5xSuomi+2xAut.Rifle+Flammenwerfer) (2 Karten)</span>  
     - **ISU-122**: Zu teuer, selten gut und zu schwache FA
-    - **IL2-M3** und **Tu-2s**: Sehr gute Bomber
+    - **IL-2M3** und **Tu-2s**: Sehr gute Bomber
 * - [Armia Krajowa](https://steeldivision.fandom.com/wiki/Armia_Krajowa)  
   - ![](pics/armiaKrajowa.png)
   - - <span style="color:green">Sehr viel Infanterie (gute CQC)</span>  
@@ -1059,22 +1059,25 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 * - [Bronirana Brigada](https://steeldivision.fandom.com/wiki/Bronirana_Brigada)  
   - ![](pics/broniBrig.png)
   - - <span style="color:green">Viele kleine günstige Panzer</span> 
+    - <span style="color:green">Guter Anti-Tank-Tab</span> 
     &nbsp;
+    - <span style="color:red">Zu wenig Slots - schwer auf Balanced</span>  
     - <span style="color:red">Schwache Infanterie (wenig CQC)</span>  
-    - <span style="color:red">Schwacher Support</span>  
+    - <span style="color:red">Sehr schwacher Support</span>  
     - <span style="color:red">Probleme gegen schwere Panzer</span>  
-    - <span style="color:red">Mittelmäßige Artillerie</span>  
-  -  
+  - - **Konjicki Izvidaci**: Sehr gute 12-Mann Recon (4xBeretta+2xBreda(MG)+Molotov)
+    - **Il-2M**: Sehr gute Bomber/AT-Flugzeuge (versch. Typen)
 * - [Podv. Gruppa Bezuglogo](https://steeldivision.fandom.com/wiki/Podv._Gruppa_Bezuglogo)  
   - ![](pics/podvGB.png)
-  - - <span style="color:green">Gute Recon</span>  
-    - <span style="color:green">Viel Infanterie</span>  
+  - - <span style="color:green">Guter Panzer-Mix</span>  
+    - <span style="color:green">Gute, günstige Infanterie</span>  
+    - <span style="color:green">Gute Luftwaffe</span>  
     &nbsp;
-    - <span style="color:red">Schwächere Panzer</span>  
     - <span style="color:red">Mittelmässige Anti-Tank</span>  
     - <span style="color:red">Schwache 2K</span>  
-  - - 2 Karten **Shtrafniki**  
-    - 1 Karte Beutetiger (**T-6 Tigr**)  
+  - - **Razvedka**: Gute Recon (Bazooka Squad mit Exceptional Stealth)  
+    - **Shtrafniki**: 20-Mann - beste Rifle Squad (2 Karten)
+    - **T-6 Tigr**: Beutetiger (1 Karte)
     - **OB-25 76.2mm**: Bestes HE-Geschütz
 * - [15th Infantry](https://steeldivision.fandom.com/wiki/15th_Infantry_(SD2))  
   - ![](pics/15th_inf.png)
