@@ -671,7 +671,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - - <span style="color:green">Starke Panzer</span>  
     - <span style="color:green">Sehr viel und sehr gute Off-Map Artillerie</span>  
     - <span style="color:green">Gute Infanterie</span>  
-  - - Die Division verfügt mit der **GPA KAO (132 mm)** über die stärkste Off-Map-Artillerie im Spiel  
+  - - **GPA KAO (132 mm)**: Stärkste Off-Map-Artillerie im Spiel  
     - **IS-2 obr.1944**: 2 Karten; maximal 6 Stück möglich  
     - Viele **T-34/76 1942** (1 Karte; 16 in B oder 22 in C) und **T-34/85 Komroti** (1 Karte; max. 3 in C)  
     - Taktik: Mit Panzern den Gegner in den Ebenen dominieren und dann mit der überaus effizienten (da günstigen) Infanterie stürmen  
@@ -1106,18 +1106,40 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **Mosquito FB. VI**: Gute AT/Bomber-Flugzeuge
 * - [3-ya Gvard. Mechanizi. Korpus](https://steeldivision.fandom.com/wiki/3-ya_Gvard._Mechanizi._Korpus)  
   - ![](pics/3ya_GMK.png)
-  -  
-  - 
-* - [184-ya Strelkovy](https://steeldivision.fandom.com/wiki/3-ya_Gvard._Mechanizi._Korpus)  
-  - ![](pics/184ya_strel.png)
-  - - <span style="color:red">Viele ISU-122 (nicht besonders gut)</span>  
-  - 
-* - [Morskaya Gruppa Bakhtina](https://steeldivision.fandom.com/wiki/3-ya_Gvard._Mechanizi._Korpus)  
-  - ![](pics/moskayaGB.png)
-  - - <span style="color:green">Sehr gute Infanterie</span>  
+  - - <span style="color:green">Gute, günstige Infanterie</span>  
+    - <span style="color:green">Akzeptabler Anti-Tank-Tab</span>  
     &nbsp;
-    - <span style="color:red">Wenig Panzer</span>  
-  -   
+    - <span style="color:red">Nur leichte und mittlere Panzer</span> 
+    - <span style="color:red">Schwacher Support</span>  
+    - <span style="color:red">Mittelmässige Artillerie</span>  
+  - - **Razvedka**: Gute Recon (Bazooka Squad mit Exceptional Stealth)  
+    - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)
+    - **OMSBON**: Guter Kommandant mit Sniper
+* - [184-ya Strelkovy](https://steeldivision.fandom.com/wiki/184-ya_Strelkovy)  
+  - ![](pics/184ya_strel.png)
+  - - <span style="color:green">Gute, günstige Infanterie</span>  
+    - <span style="color:green">Gute Artillerie und Luftwaffe</span>  
+    &nbsp;
+    - <span style="color:red">Schwache Panzer (nur leicht)</span>
+    - <span style="color:red">Mittelmässiger Support</span>  
+    - <span style="color:red">Mittelmässige Anti-Tank (viele ISU-122)</span>  
+  - - **Snayperi Shanina**: Sniper Ace (10 r/m, 80% Accuracy)
+    - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate) (4 Karten)
+    - **IL-2M3**: Guter Bomber/AT-Rocket/Napalm-Bomber (Resilience: Sehr gut)
+* - [Morskaya Gruppa Bakhtina](https://steeldivision.fandom.com/wiki/Morskaya_Gruppa_Bakhtina)  
+  - ![](pics/moskayaGB.png)
+  - - <span style="color:green">Sehr gute Recon und Infanterie</span>  
+    - <span style="color:green">Gute Luftwaffe</span>  
+    &nbsp;
+    - <span style="color:red">Sehr wenig Panzer</span>  
+    - <span style="color:red">Schwacher Support</span>  
+    - <span style="color:red">Schwache Artillerie</span>  
+  - - <span style="color:DodgerBlue">**Osnaz VMF**: Eines des besten Sniper-Squads (4xPPS41+Sniper+MG42)</span>
+    - **Chernyie Bushlaty**: Gutes Rifle Squad (3xPPSh+8xSemiAuto+DP28(MG)+PTRQ)
+    - **Morskaya Saperi**: Gute 12-Mann CQC (4xPPSh+2xMP40+TNT)
+    - <span style="color:DodgerBlue">**Morskaya Avto.**: Sehr starke CQC (12xThompson+AT-Grenade)</span>
+    - <span style="color:DodgerBlue">**Shtrafniki**: Sehr starkes 20-Mann Rifle Squad (3xPPSh+3xDP28(MG)+PTRD) (2 Karten)</span>
+    - <span style="color:DodgerBlue">**GPA KAO (132 mm)**: Stärkste Off-Map-Artillerie im Spiel</span>
 ```  
 
 &nbsp;
