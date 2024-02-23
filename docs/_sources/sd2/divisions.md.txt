@@ -156,26 +156,25 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - Anmerkungen
 * - [5. SS-Panzer "Wiking"](https://steeldivision.fandom.com/wiki/5._SS-Panzer_%22Wiking%22)
   - ![](pics/5_ss.png)
-  - - <span style="color:green">Starke Infanterie</span>  
-    - <span style="color:green">Starke Panzer</span>  
+  - - <span style="color:green">Starke Panzer</span>  
     - <span style="color:green">Modernste Jäger</span>  
     - <span style="color:green">Gute mobile Artillerie</span>  
     &nbsp;
     - <span style="color:red">Wenig Anti-Air</span>  
     - <span style="color:red">Etwas zu wenig CQC</span>  
   - - **FW 190 D-9**: Sehr guter Jäger
-    &nbsp;
     - <span style="color:DodgerBlue">**FW 190 F-8 AT Rocket**: Sehr guter AT-Flieger</span>
-    &nbsp;
-    - Taktik: Anti-Infantrie: **Grille**
+    - **FW 190 D-9**: Schnellster Axis-Jäger; Medium Resilience
+    - **Panther A + D**: insg. 9 Karten
 * - [Fallschirm-Panzer "Hermann Göring"](https://steeldivision.fandom.com/wiki/Fallschirm-Panzer_%22Hermann_G%C3%B6ring%22)
   - ![](pics/fp_hg.png)
   - - <span style="color:green">Starke Einheiten in allen Tabs</span>  
     &nbsp;
     - <span style="color:red">Teure Einheiten</span>  
-    - <span style="color:red">Schlechte Flugzeuge</span>  
     - <span style="color:red">Zu wenig CQC</span>  
-  - - Einzige Division mit **Sturmtiger**     
+  - - **HG Begleit-Grenadiere**: Sehr gutes Rifle Squad (8xMP44+3xG43+MG42) (2 Karten)
+    - **HG Pionier (MP-44)**: Sehr gute CQC (7xMP44+MG42+Granate) (1 Karte)
+    - Einzige Division mit **Sturmtiger** (18 Damage!)     
 * - [78. Sturm](https://steeldivision.fandom.com/wiki/78._Sturm)
   - ![](pics/78sturm.png)
   - - <span style="color:green">Sehr starke Infanterie</span>  
@@ -184,7 +183,10 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Wenig Panzer (nur Stug III)</span>  
     - <span style="color:red">Teure Infanterie</span>   
-  - - **S.IG 33**: Sehr gute Anti-Infantrie  
+  - - **Begleit-Grenadier**: Sehr gutes Rifle Squad (8xMP44+3xG43+MG42) (1 Karte)
+    - <span style="color:DodgerBlue">**Begleit-Pionier**: Sehr gute 13-Mann CQC (9xMP44+3xG43+MG42+Granate) (1 Karte)</span>
+    - **Sturmschützen**: Sehr gute 13-Mann CQC (13xMP44+Panzerfaust) (3 Karten)
+    - **S.IG 33**: Sehr gute Anti-Infantrie  
 * - [1. Lovas](https://steeldivision.fandom.com/wiki/1._Lovas)
   - ![](pics/1_lovas.png)
   - - <span style="color:green">Starke Infanterie</span>  
@@ -192,8 +194,10 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:green">Gute Flugzeuge</span>  
     &nbsp;
     - <span style="color:red">Wenig 2k</span>  
-  - - **41M Turán II**: Hoher HE-Damage, schießt schnell  
+  - - <span style="color:DodgerBlue">**Huszar Golyoszorosok**: Eine der besten Rifle Squad; 16-Mann (12xFeg31M+3xSolothurn(MG)) (3 Karten)</span>
+    - **41M Turán II**: Hoher HE-Damage, schießt schnell  
     - <span style="color:DodgerBlue">**36/40M Nimród**: Eine der beste AA im Spiel</span>  
+    - <span style="color:DodgerBlue">**31M 149mm**: Eine der beste Artillerien im Spiel</span>
 * - [122. Infanterie](https://steeldivision.fandom.com/wiki/122._Infanterie)
   - ![](pics/122_inf.png)
   - - <span style="color:green">Gute Finnische Infanterie</span>  
@@ -202,7 +206,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Viel mittelmäßige Infanterie</span>  
     - <span style="color:red">Schlechte Anti-Air</span>   
   - - <span style="color:DodgerBlue">**Tarkka-Ampuja**: Doppel-Sniper Recon!</span>  
-    - **Soomepoisid**: Gutes, günstiges Rifle-Squad
+    - **Soomepoisid**: Gutes Rifle-Squad (3xSuomi+5xSemiAuto+Lahti(MG)+Molotov)
 * - [11. SS-Fr.-Panzergrenadier "Nordland"](https://steeldivision.fandom.com/wiki/11._SS-Fr.-Panzergrenadier_%22Nordland%22)
   - ![](pics/11_ss.png)
   - - <span style="color:green">Sehr gute Recon</span>  
@@ -503,7 +507,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Wenig Panzer</span> 
     - <span style="color:red">Mittelmässiger Support</span> 
   - - **Golyószórósok**: 12-Mann Rifle Squad mit 3xMG30
-    - **31M 149mm**: Gute Artillerie (8r/m)
+    - <span style="color:DodgerBlue">**31M 149mm**: Eine der beste Artillerien im Spiel</span>
     - **Me 210 CA-1 Proto**: Gutes AT-Flugzeug (40mm!)
 * - [4a Alpina "Monterosa"](https://steeldivision.fandom.com/wiki/4a_Alpina_%22Monterosa%22)
   - ![](pics/20_pg.png)
@@ -624,7 +628,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:green">Günstige Infanterie</span>  
     &nbsp;
     - <span style="color:red">Wenig CQC</span>  
-  - - **Typhoon Mk Ib**: Beste AT Rocket Flugzeug im Spiel  
+  - - <span style="color:DodgerBlue">**Typhoon Mk Ib**: Beste AT Rocket Flugzeug im Spiel</span> 
     - **17-PDR 76.2mm**: sehr gutes AT Geschütz (2 Karten)  
     - **Zeniste**: Sehr gute CQC (4 Thompson + Flamer)  
 * - [2nd Infantry](https://steeldivision.fandom.com/wiki/2nd_Infantry)
@@ -648,7 +652,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Mittelmässige Artillerie</span>  
   - - Sehr viele **Hellcat I** Cards bei Flugzeugen  
     - Sehr viele **Shermans**  
-    - **Commando No4**: Mit die beste CQC im Spiel  
+    - <span style="color:DodgerBlue">**Commando No4**: Mit die beste CQC im Spiel</span>  
     - **Commando No6**: Sehr gutes Rifle Squad mit Sniper  
 * - [1st Airborne TaskForce](https://steeldivision.fandom.com/wiki/1st_Airborne_Task_Force)
   - ![](pics/1st_airTF.png)
@@ -681,13 +685,13 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - - <span style="color:green">Sehr starke Armor</span>  
     - <span style="color:green">Stark in allen Tabs</span>  
   - - Beste sowjetische Division  
-    - **ISU-152**: Beste sowjetische Einheit im Spiel  
+    - <span style="color:DodgerBlue">**ISU-152**: Beste sowjetische Einheit im Spiel</span>  
 * - [97-ya Gvard. Strelkovy](https://steeldivision.fandom.com/wiki/97-ya_Gvard._Strelkovy)  
   - ![](pics/97ya_GS.png)
   - - <span style="color:green">Starke Panzer</span>  
     - <span style="color:green">Sehr viel und sehr gute Off-Map Artillerie</span>  
     - <span style="color:green">Gute Infanterie</span>  
-  - - **GPA KAO (132 mm)**: Stärkste Off-Map-Artillerie im Spiel  
+  - - <span style="color:DodgerBlue"></span>**GPA KAO (132 mm)**: Stärkste Off-Map-Artillerie im Spiel</span>  
     - **IS-2 obr.1944**: 2 Karten; maximal 6 Stück möglich  
     - Viele **T-34/76 1942** (1 Karte; 16 in B oder 22 in C) und **T-34/85 Komroti** (1 Karte; max. 3 in C)  
     - Taktik: Mit Panzern den Gegner in den Ebenen dominieren und dann mit der überaus effizienten (da günstigen) Infanterie stürmen  
@@ -701,8 +705,8 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Schwächerer Anti-Tank Tab</span>  
     - <span style="color:red">Probleme gegen schwere Panzer</span>  
     - <span style="color:red">Keine schwere Artillerie</span>  
-  - - **Shturmoviki (Roks)**: sehr gute CQC (2 Karten)
-    - **Shtrafniki**: beste Rifle Squad (1 Karte)
+  - - **Shturmoviki (Roks)**: sehr gute CQC (6xPPSh+2xFlammenwerfer) (2 Karten)
+    - **Shtrafniki**: beste Rifle Squad; 20-Mann (3xPPSh+3xDP28(MG)+PTRD) (1 Karte)
 * - [1e DFL](https://steeldivision.fandom.com/wiki/1e_DFL)  
   - ![](pics/1st_DFL.png)
   - - <span style="color:green">Starke Infanterie</span>  
@@ -713,7 +717,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Schwache Panzer und AT</span>   
   - - **Bimp Tranape**: Sehr gutes Rifle Squad (2xThompson+2xBren+Bazooka)
     - **Legionnaires**: Sehr starke CQC (13-Mann, fanatisch)
-    - **Legion. Sap.-Pionniers**: Super CQC (3xThompson+2xFlammenwerfer)
+    - <span style="color:DodgerBlue">**Legion. Sap.-Pionniers**: Super CQC (3xThompson+2xFlammenwerfer)</span>
     - **P47D-22-RE**: Sehr guter, sehr schneller Bomber
 * - [Div. 8 Cav. Purtată](https://steeldivision.fandom.com/wiki/Div._8_Cav._Purtat%C4%83)  
   - ![](pics/div8cav.png)
@@ -736,7 +740,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Mittelmässige Support und Anti-Tank</span>  
   - - **Cavalry Scouts**: Gute Recon (6-Mann mit Bazooka)
     - **Conv. Gunners**: Gutes 15-Mann Rifle Squad mit sehr guter Availability (12/24/36) (3 Karten)
-    - **Nisei Rifles**: Eine der besten Rifle Squads im Spiel (Thompson+2xM19+Bazooka, fanatisch)
+    - <span style="color:DodgerBlue">**Nisei Rifles**: Eine der besten Rifle Squads im Spiel (Thompson+2xM19+Bazooka, fanatisch)</span>
     - **M1 8-inch 203mm**: Sehr starke Artillerie (Ammo immer extra)
     - **P47D-22-RE**: Sehr guter, sehr schneller Bomber
 * - [Rezerv 43-y Armii](https://steeldivision.fandom.com/wiki/Rezerv_43-y_Armii)  
@@ -770,8 +774,8 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - - **Saperi (PPSh)**: Sehr günstige CQC (Kosten: 10) 4-Mann (4xPPSH+Panzerfaust)
     - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)
     - **Strelki (DT)**: Sehr gutes Rifle Squad (3xPPSH+2xDT(MG)+Molotov)
-    - **ISU-152**: Beste sowjetische Einheit im Spiel - sehr guter Tank Destroyer (2 Karten)
-    - **BS-3 100mm**: Riesen Anti-Tank Geschütz (100mm!)
+    - <span style="color:DodgerBlue">**ISU-152**: Beste sowjetische Einheit im Spiel - sehr guter Tank Destroyer (2 Karten)</span>
+    - <span style="color:DodgerBlue">**BS-3 100mm**: Riesen Anti-Tank Geschütz (100mm!)</span>
 * - [6th Airborne](https://steeldivision.fandom.com/wiki/6th_Airborne_(SD2))  
   - ![](pics/6thAir.png)
   - - <span style="color:green">Sehr starke Sniper-Einheiten und Flugzeuge</span>  
@@ -782,7 +786,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - - **AB Paras**: Solide 10-Mann Sniper-Einheit (4 Karten)  
     - **RM Centaur IV**: Sehr gute HE-Artillerie auf Ketten  
     - **Tempest Mk. V**: Schnellster Bomber im Spiel (645km/h!), sehr gut!  
-    - **Typhoon Mk. IB**: Sehr gutes AT-Flugzeug (8 Raketen!)
+    - <span style="color:DodgerBlue">**Typhoon Mk. IB**: Bestes AT-Flugzeug im Spiel (8 Raketen!)</span>
 ```
 
 &nbsp;
@@ -827,7 +831,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Sehr schwache Anti-Air</span>  
   - - Bis zu 9 **T-6 Tigr** möglich  
     - 2 **T-5 Panther** in A möglich  
-    - **OB-25 76.2mm**: Bestes HE-Geschütz  
+    - <span style="color:DodgerBlue">**OB-25 76.2mm**: Bestes HE-Geschütz</span>  
 * - [1 Piechoty "Tadeusza Kościuszki"](https://steeldivision.fandom.com/wiki/1_Piechoty_%22Tadeusza_Ko%C5%9Bciuszki%22)  
   - ![](pics/1_pieTadKos.png)
   - - <span style="color:green">Sehr viel günstige Infanterie</span>  
@@ -837,7 +841,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Probleme gegen schwere Panzer</span>  
     - <span style="color:red">Schwächere Support und Artillerie</span>  
   - - Taktik: T34 Spam / Infanterie Spam
-    - **Oddzial Karny**: Gutes 20-Mann Rifle-Squad (3xPPSP+3xDP-28(MG)+PTRD)
+    - **Oddzial Karny**: Gutes 20-Mann Rifle-Squad (3xPPSh+3xDP-28(MG)+PTRD)
     - **Desant Czolgowy**: Gute CQC (8xPPSh+Molotov)
     - **Saperzy (Roks)**: Sehr gute CQC (4xPPSH+2xDP28(MG)+Flammenwerfer)
     - **Il-2M**: Sehr gute Bomber/AT-Flugzeuge (versch. Typen)
@@ -848,7 +852,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Mittelmässige Panzer (Sherman III)</span>  
     - <span style="color:red">Sehr schwache Anti-Air und Artillerie</span>  
-  - - **Maro**: Sehr gute CQC (9xBeretta+Panzerfaust)
+  - - <span style="color:DodgerBlue">**Maro**: Sehr gute CQC (9xBeretta+Panzerfaust)</span>
     - **Arditi**: Gute CQC (3xBeretta+2xBren+TNT)
     - **Maro (Bren)**: Sehr gutes Rifle Squad (4xBren+Panzerfaust)
     - **Beaufighter Mk X**: Sehr gutes AT-Flugzeug (8 Raketen!)
@@ -880,9 +884,9 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Schwächere Anti-Tank</span>  
     - <span style="color:red">Mittelmäßige Panzer</span>  
-  - - **Goumiers Eclaireurs**: Sniper Recon + 10 Mann  
-    - **Goumiers (PM)**: 22 Mann + Bazooka + 5 Thompson  
-    - **AB Rifles**: Bazooka, 1xMG + 2xThompson (12 Mann)  
+  - - **Goumiers Eclaireurs**: Gute 10-Mann Sniper Recon
+    - <span style="color:DodgerBlue">**Goumiers (PM)**: Sehr gute 22-Mann CQC (Bazooka+5xThompson)</span>  
+    - **AB Rifles**: Sehr gutes 12-Mann Rifle Squad (Bazooka+1xMG+2xThompson)  
     - **P-47D-22-RE**: Schneller, schwerer Bomber, MedRes  
 * - [1. Pancerna](https://steeldivision.fandom.com/wiki/1._Pancerna_(SD2))  
   - ![](pics/1Panc.png)
@@ -914,7 +918,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Mittelmässige Panzer (nur Sherman V)</span>  
     - <span style="color:red">Schwacher Support</span>  
-  - - **Gurkhas Rifles**: Super 12-Mann Rifle Squad (3xThompson+2xBren+Granate) (2 Karten)
+  - - <span style="color:DodgerBlue">**Gurkhas Rifles**: Super 12-Mann Rifle Squad (3xThompson+2xBren+Granate) (2 Karten)</span>
     - **BL 4.5-Inch 114mm**: Sehr gute, günstige Artillerie 
     - **Hurricane Mk IV**: Gutes AT-Flugzeug
 * - [7-y Mechanizi. Korpus](https://steeldivision.fandom.com/wiki/7-y_Mechanizi._Korpus)  
@@ -926,7 +930,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Mittelmässige Artillerie</span>  
   - - **Tankodesantniki**: Gute CQC (8xPPSh+Molotov)
     - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)
-    - **ISU-152**: Beste sowjetische Einheit im Spiel - sehr guter Tank Destroyer
+    - <span style="color:DodgerBlue">**ISU-152**: Beste sowjetische Einheit im Spiel - sehr guter Tank Destroyer</span>
     - **Pe-2-83**: Gute Bomber
 ```
 
@@ -995,7 +999,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - - **Calarasi**: 10-Mann Recon mit Scharfschütze + Panzerfaust! (4 Karten)
     - **Echipa Asalt**: Gute 14-Mann CQC (2xZB30(MG)+Granate) (Availability!)
     - **Vanatori De Care**: Sehr gute Anti-Tank-Infanterie (Panzerschreck+Granate)
-    - **OB M1934 100mm**: Eine der besten Haubitzen im Spiel (1xVet: +2r/m !)
+    - <span style="color:DodgerBlue">**OB M1934 100mm**: Eine der besten Haubitzen im Spiel (1xVet: +2r/m !)</span>
 * - [358-ya Strelkova Div](https://steeldivision.fandom.com/wiki/358-ya_Strelkova_Div)  
   - ![](pics/358ya_SD.png)
   - - <span style="color:green">Sehr gute Infanterie</span> 
@@ -1033,7 +1037,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **Saperi (PPSh)**: Sehr günstige CQC (Kosten: 10) 4-Mann (4xPPSH+Panzerfaust)
     - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)
     - **Tankodesantniki**: Gute CQC (8xPPSh+Molotov)
-    - **Ob-25 76,2mm**: Perfektes HE-Geschütz (1500m)
+    - <span style="color:DodgerBlue">**Ob-25 76,2mm**: Perfektes HE-Geschütz (1500m)</span>
     - **IL-2M** und **Pe-2-83**: Sehr guter Bomber, immer nehmen. Schwer zu töten
 * - [2-ya Gvard. Tankovy Korpus](https://steeldivision.fandom.com/wiki/2-ya_Gvard._Tankovy_Korpus)  
   - ![](pics/2ya_GTK.png)
@@ -1046,7 +1050,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - - **Razvedka**: Gute Recon (Bazooka Squad mit Exceptional Stealth)  
     - **Saperi (PPSh)**: Sehr günstige CQC (Kosten: 10) 4-Mann (4xPPSH+Panzerfaust)
     - **Avtomatchiki**: Gute 10-Mann CQC (10xPPSH+Granate)
-    - **Ob-25 76,2mm**: Perfektes HE-Geschütz (1500m)
+    - <span style="color:DodgerBlue">**Ob-25 76,2mm**: Perfektes HE-Geschütz (1500m)</span>
     - <span style="color:DodgerBlue">**ISU-152**: Beste sowjetische Einheit im Spiel - sehr guter Tank Destroyer (2 Karten)</span>
     - **IL-2M** und **Pe-2-83**: Sehr guter Bomber, immer nehmen. Schwer zu töten
 * - [Podv. Gruppa Tyurina](https://steeldivision.fandom.com/wiki/Podv._Gruppa_Tyurina)  
@@ -1094,7 +1098,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - - **Razvedka**: Gute Recon (Bazooka Squad mit Exceptional Stealth)  
     - **Shtrafniki**: 20-Mann - beste Rifle Squad (2 Karten)
     - **T-6 Tigr**: Beutetiger (1 Karte)
-    - **OB-25 76.2mm**: Bestes HE-Geschütz
+    - <span style="color:DodgerBlue">**OB-25 76.2mm**: Bestes HE-Geschütz</span>
 * - [15th Infantry](https://steeldivision.fandom.com/wiki/15th_Infantry_(SD2))  
   - ![](pics/15th_inf.png)
   - - <span style="color:green">Gute gepanzerte Recon-Fahrzeuge</span>  
@@ -1116,7 +1120,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Mittelmässige Infanterie</span>  
     - <span style="color:red">Mittelmässige Artillerie</span>  
-  - - **Kangaroo Rifles**: Sehr gutes 15-Mann Rifle Squad (4xSten+3Bren(MG)+Piat+Kangaroo Panzer) (2 Karten)
+  - - <span style="color:DodgerBlue">**Kangaroo Rifles**: Sehr gutes 15-Mann Rifle Squad (4xSten+3Bren(MG)+Piat+Kangaroo Panzer) (2 Karten)</span>
     - **17-PDR 76.2mm**: Sehr gutes AT Geschütz (3 Karten)
     - **Firefly Vc**: Guter Tank-Killer (170mm Pen, 100mm FA) 
     - **Mosquito FB. VI**: Gute AT/Bomber-Flugzeuge
