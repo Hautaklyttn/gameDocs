@@ -30,6 +30,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Im Grunde keine Schwäche</span>  
   - - <span style="color:DodgerBlue">**Stug IV**: Bester Medium Tank im Spiel</span>
+    - **SS Legionari**: Sehr starke CQC (4xBeretta+4xG43+Panzerfaust+Molotov; Fanatisch) (2 Karten)
 * - [4. Fallschirmjäger](https://steeldivision.fandom.com/wiki/4._Fallschirmj%C3%A4ger)
   - ![](pics/4_fj.png)
   - - <span style="color:green">Sehr starke Infanterie</span>  
@@ -38,9 +39,12 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:green">Sehr gute Recon und Flugzeuge</span>  
     &nbsp;
     - <span style="color:red">Teure Einheiten</span>  
-  - - **LG40**: Ist keine LG42, nicht benutzen
+  - - **Para. Esploratori (RSI)**: Sehr gute 6-Mann Recon (6xBeretta+Panzerfaust)
+    - **Para. d'Assalto (RSI)**: Sehr gute CQC (9xBeretta+1xAT-Granate)
+    - <span style="color:DodgerBlue">**Paracadutisti**: Sehr gute CQC (3xBeretta+2xBreda(MG)+Panzerfaust)</span>
+    - <span style="color:DodgerBlue">**Fs-Jäger (ZF)**: Sniper Rifle Squad (2xMG42+Sniper) (2 Karten)</span>
     - **Bf 110 G-4b/R3 (M1/M5)**: Sehr guter AT-Jäger
-    - **Z.1007ter serie XIII ALCIONE**: Schwerer Bomber mit Widerstand 'Sehr Gut'
+    - **Z.1007ter serie XIII ALCIONE**: Guter schwerer Bomber (Widerstand 'Sehr Gut')
     - Taktik: Viel mit Flugzeugen schon ab A arbeiten  
 ```
 
@@ -63,7 +67,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Schwächere Anti-Air</span>  
     - <span style="color:red">Mittelmässige Flugzeuge</span>  
-  - - **LG40**: Ist keine LG42, nicht benutzen
+  - - <span style="color:DodgerBlue">**SS-Sturmgrenadier**: Sehr starkes Squad >100m (8xMP44+2xMG42)</span>
     - **He 111 H-21**: Brauchbar gegen Panzer
     - Taktik: Infantrie Spam
     - Taktik: Light/Medium Tank Spam
@@ -74,9 +78,9 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Schwache Anti-Air</span>  
     - <span style="color:red">Probleme gegen schwere Panzer</span>  
-  - - **Reit.-Jäger**:  Problem, da sie nie in den Nahkampf kommen, da sie mit der 98K auf >100m schießen
-    &nbsp;
-    - **Jäger Pionier**: Eine der besten Pionier-Squads im Spiel (Semi-Auto Rifle + Granate)  
+  - - **Reit.-Jäger (MP-44)**: Sehr gute CQC (2xMP40+7xMP44+Molotov)
+    - <span style="color:DodgerBlue">**Huszar Golyoszorosok**: Eine der besten Rifle Squad; 16-Mann (12xFeg31M+3xSolothurn(MG))</span>
+    - <span style="color:DodgerBlue">**Jäger Pionier**: Eine der besten CQC im Spiel (8xG43+MG42+Granate)</span>
 * - [20. Panzer](https://steeldivision.fandom.com/wiki/20._Panzer)
   - ![](pics/20_pzer.png)
   - - <span style="color:green">Guter Support (Grille+MG42+PzIV)</span>  
@@ -86,7 +90,8 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Mangel an CQC-Einheiten</span>  
     - <span style="color:red">Im Grunde nur Panzer IV</span>  
     - <span style="color:red">Schwache Flugzeuge</span>  
-  - - **Pz.Grenadier (DP)**:  2xMG34 (für 20Pkt!)  
+  - - **Pz.Grenadier (DP)**: Gutes, günstiges Rifle Squad 2xMG34 (für 20Pkt!)  
+    - **Pionier (SVT)**: Gute CQC (2xPPSh+7xSemiAuto+DP29(MG)+Granate)
 * - [2. Páncélos](https://steeldivision.fandom.com/wiki/2._P%C3%A1nc%C3%A9los)
   - ![](pics/2ndPanc.png)
   - - <span style="color:green">Sehr starke Panzer</span>  
@@ -97,7 +102,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Mittelmässiger Support: Mangel an 2k HE</span>  
   - - **41M Turán II**: Hoher HE-Damage, schießt schnell  
     - <span style="color:DodgerBlue">**36/40M Nimród**: Eine der beste AA im Spiel</span>   
-    - **31M 149mm**: Eine der beste Artillerien im Spiel  
+    - <span style="color:DodgerBlue">**31M 149mm**: Eine der beste Artillerien im Spiel</span>
     - Mit der beste Panzer-Tab im Spiel!  
 * - [26. Panzer](https://steeldivision.fandom.com/wiki/26._Panzer)
   - ![](pics/26_pzer.png)
@@ -116,10 +121,10 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Wenig Panzer und Artillerie</span>  
     - <span style="color:red">Mangel an 2k (AP und HE)</span>  
-  - - **Calarasi**: 10-Mann Recon mit Scharfschütze + Panzerfaust!
-    - **Rosiori**: Starkes Rifle Squad (Hammer Availability-Kurve!) das auch Nahkampf kann
-    - **Pionieri Calari**: Starke Pioniere (Hammer Availability-Kurve!)
-    - **Pionieri Asalt**: Sehr starke 10-Mann Flammenwerfer CQC
+  - - **Calarasi**: Perfekte 10-Mann Recon (Sniper+Panzerfaust) (4 Karten)
+    - **Rosiori**: Starkes Rifle Squad/CQC (Beretta+2xZB30+AT-Granate) (Hammer Availability-Kurve!)
+    - **Pionieri Calari**: Starke Pioniere (2xBeretta+2xZB30+Granate) (Hammer Availability-Kurve!)
+    - **Pionieri Asalt**: Sehr starke 10-Mann CQC (8xOrita+2xFlammenwerfer+Granate)
 * - [715. Infanterie](https://steeldivision.fandom.com/wiki/715._Infanterie)
   - ![](pics/715_inf.png)
   - - <span style="color:green">Sehr gute Recon</span>  
@@ -133,8 +138,9 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - - S-Tier Potential!
     - <span style="color:DodgerBlue">**SDKFZ 135/1 150mm**: Sehr gute Artillerie! Bessere Hummel (2fache Mun, Reichweite!)</span>
     - **Mörser 531(f) 220mm**: Guter Mörser
-    - <span style="color:DodgerBlue">**Decima + Decima Ardetti**: Sehr gute Infanterie</span>
-    - **Pz.Grenadier '41**: Verbesserte Panzergrenadiere
+    - <span style="color:DodgerBlue">**Decima (7xBeretta+MG42+Granate) + Decima Ardetti (6xBeretta+2xBreda+Panzerfaust)**: Sehr gute CQC </span>
+    - **Lw-Jäger z.b.V.**: Sehr gutes Rifle Squad (10xSemiAuto+MG34+AT-Granate)
+    - **Pz.Grenadier '41**: Bessere 12-Mann Panzergrenadiere (2xMG34+Panzerfaust)
 ```
 
 &nbsp;
@@ -1196,6 +1202,11 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - **IL-2M3 AP Cluster**: Guter Bomber
 * - [3-ya VDV](https://steeldivision.fandom.com/wiki/3-ya_VDV)  
   - ![](pics/3ya_VDV.png)
-  -  
-  -   
+  - - <span style="color:green">Gute und günstige Infanterie</span>  
+    - <span style="color:green">Gute Anti-Tank</span>  
+    &nbsp;
+    - <span style="color:red">Nur Medium Panzer (T34/76 1942+1943)</span>
+  - - **Shturmoviki (Roks)**: Sehr gute CQC (6xPPSh+2xFlammenwerfer) (2 Karten)
+    - **Desantniki**: Gute und günstige CQC (8xPPSh+AT-Granate)
+    - **IL-2M3**: Guter Bomber/AT-Rocket/Napalm-Bomber (Resilience: Sehr gut)
 ```  
