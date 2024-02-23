@@ -91,7 +91,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Im Grunde nur Panzer IV</span>  
     - <span style="color:red">Schwache Flugzeuge</span>  
   - - **Pz.Grenadier (DP)**: Gutes, günstiges Rifle Squad 2xMG34 (für 20Pkt!)  
-    - **Pionier (SVT)**: Gute CQC (2xPPSh+7xSemiAuto+DP29(MG)+Granate)
+    - **Pionier (SVT)**: Gute CQC (7xSemiAuto+DP29(MG)+Granate)
 * - [2. Páncélos](https://steeldivision.fandom.com/wiki/2._P%C3%A1nc%C3%A9los)
   - ![](pics/2ndPanc.png)
   - - <span style="color:green">Sehr starke Panzer</span>  
