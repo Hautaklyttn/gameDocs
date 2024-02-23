@@ -507,7 +507,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Schwache (nur leichte) Panzer </span>  
     - <span style="color:red">Wenig Anti-Tank und Support</span>  
     - <span style="color:red">Mittelmässige Anti-Air und Artillerie</span>  
-  - - <span style="color:DodgerBlue">**Pionieri**: Sehr gute CQC (4xBeretta+Flammenwerfer+Granate)</span>
+  - - <span style="color:DodgerBlue">**Pionieri**: Eine der beste CQC (4xBeretta+Flammenwerfer+Granate)</span>
     - **Ju87 G-1**: Guter AT-Flieger
 * - [4 Munte](https://steeldivision.fandom.com/wiki/4_Munte)
   - ![](pics/4_munte.png)
@@ -562,7 +562,8 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Wenig und nur schlechte Panzer</span>  
     - <span style="color:red">Schlechte Anti-Air</span>  
     - <span style="color:red">Mittelmäßige Artillerie</span>  
-  - **Brandenburger**: Elite-Infanterie
+  - - <span style="color:DodgerBlue">**Brandenburger**: Elite 12-Mann Rifle Squad (6xG43+2xMG42+Granate)</span>
+    - **Brandenburger Pioniere**: Gute CQC (6xMP40+2xFlammenwerfer)
 * - [Korück 559](https://steeldivision.fandom.com/wiki/Kor%C3%BCck_559)
   - ![](pics/korueck.png)
   - - <span style="color:green">Passable Recon und Air</span>  
@@ -576,14 +577,23 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 * - [52. Sicherungs-Division z.b.V.](https://steeldivision.fandom.com/wiki/52._Sicherungs-Division_z.b.V.)
   - ![](pics/52Sicher.png)
   - - <span style="color:green">Gute Infanterie</span>  
+    - <span style="color:green">Gute Anti-Tank und Air</span>  
     &nbsp;
+    - <span style="color:red">Schwer zu spielen (Phase locking)</span>  
     - <span style="color:red">Wenig Panzer bis C</span>  
-    - <span style="color:red">Schwache Artillerie</span>  
-  - <span style="color:DodgerBlue">**Jagdpanther**: Sehr guter schwerer Panzer</span>  
+    - <span style="color:red">Mittelmässiger Support und Artillerie</span>  
+  - - <span style="color:DodgerBlue">**Jagdpanther**: Sehr guter schwerer Panzer</span>  
+    - <span style="color:DodgerBlue">**Fs-Jäger (FG-42)**: Perfektes Rifle Squad (2xFG42+2xMG42+Panzerfaust) (1 Karte)</span>
 * - [Panzerverband Strachwitz](https://steeldivision.fandom.com/wiki/Panzerverband_Strachwitz)
   - ![](pics/pvStrach.png)
-  -  
-  -  
+  - - <span style="color:green">Gute Panzermischung</span>  
+    - <span style="color:green">Gute Luftwaffe</span>  
+    &nbsp;
+    - <span style="color:red">Viel zu wenig und mittelmässige Infanterie</span> 
+    - <span style="color:red">Schwacher Anti-Tank-Tab</span> 
+  - - **Sd.Kfz. 251/9D**: Gute Support-Einheit (Pen. 100mm)
+    - **Panther** (7 Karten) und **Tiger** (1 Karte)
+    - **FW 190 A8**: Guter Jäger, Medium Resilience
 ```
 
 &nbsp;
@@ -927,15 +937,15 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - Anmerkungen
 * - [9-ya Gvard. Kavalerii](https://steeldivision.fandom.com/wiki/9-ya_Gvard._Kavalerii)  
   - ![](pics/9ya_GK.png)
-  - - <span style="color:green">Gute, günstige Infanterie</span>  
-    - <span style="color:green">Gute Recon und Artillerie</span> 
+  - - <span style="color:green">Gute Recon und Anti-Tank</span> 
     - <span style="color:green">Gute Luftwaffe</span> 
     &nbsp;
+    - <span style="color:green">Mittelmässige Infanterie</span>  
     - <span style="color:red">Mittelmässige Panzer</span>  
   - - **Kaz. Razvedka**: Gute günstige Recon (8xPPsh)
     - **Saperi (PPSh)**: Sehr günstige CQC (Kosten: 10) 4-Mann (4xPPSH+Panzerfaust)
     - **Kazaki (PPSh)**: Sehr günstige CQC (Kosten: 15) 8-Mann (6xPPSH+Granate)
-    - **A-19 122mm**: Gute schwere Haubitze
+    - <span style="color:DodgerBlue">**94-M Zis-12**: Eine der besten Anti-Air im Spiel</span>
 * - [Task Force Butler](https://steeldivision.fandom.com/wiki/Task_Force_Butler)  
   - ![](pics/TF_butler.png)
   - - <span style="color:green">Gute Artillerie</span> 
@@ -1155,18 +1165,35 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - Anmerkungen
 * - [19-y Tankovy Korpus](https://steeldivision.fandom.com/wiki/19-y_Tankovy_Korpus)  
   - ![](pics/19ya_TK.png)
-  - - <span style="color:red">Sehr wenig Infanterie</span>  
+  - - <span style="color:green">Guter Tank Tab (nur schwere Panzer)</span>  
+    - <span style="color:green">Gute Artillerie</span>  
+    &nbsp;
+    - <span style="color:red">Schrecklicher Infanterie-Tab</span>  
     - <span style="color:red">Insgesamt schwer zu spielen</span>  
-  - 
+    - <span style="color:red">Schlechter Anti-Tank-Tab</span>  
+  - - **Razvedka**: Gute Recon (Bazooka Squad mit Exceptional Stealth) (3 Karten)
+    - **IS-2 obr.1943** (1 Karte) und **SU-152** (1 Karte)
+    - **Yak-3 Zakharov**: Guter Fighter
 * - [NOV](https://steeldivision.fandom.com/wiki/NOV)  
   - ![](pics/nov.png)
-  - - <span style="color:red">Wenig Panzer</span>  
-    - <span style="color:red">Schlechte Anti-Tank</span>  
-  - Jugoslawische Partisanenarmee
+  - - <span style="color:green">Gute Luftwaffe</span>  
+    &nbsp;
+    - <span style="color:red">So gut wie keine Panzer</span>  
+    - <span style="color:red">Schlechter Support und Anti-Tank</span>  
+    - <span style="color:red">Schlechte Anti-Air und Artillerie</span>  
+  - - Jugoslawische Partisanenarmee
+    - **Konjicki Izvidaci**: Sehr gute 12-Mann Recon (4xBeretta+2xBreda(MG)+Molotov) (3 Karten)
+    - **Bombasi**: Gute CQC (8xSemiAuto+TNT)
+    - **Kommandir**: Guter 12-Mann Leader (4xSten+PIAT)
 * - [7. Eesti Laskurdiviis](https://steeldivision.fandom.com/wiki/7._Eesti_Laskurdiviis)  
   - ![](pics/7_estiL.png)
-  -  
-  - 
+  - - <span style="color:green">Brauchbare Luftwaffe</span>  
+    &nbsp;
+    - <span style="color:red">Mittelmässige Infanterie und Support</span>  
+    - <span style="color:red">Nur Medium Panzer, große Probleme gegen schwere Panzer</span>  
+    - <span style="color:red">Keine brauchbare Anti-Tank</span>  
+  - - **Mustad Mantlid**: 15-Mann Rifle Squad für nur 20 Punkte
+    - **IL-2M3 AP Cluster**: Guter Bomber
 * - [3-ya VDV](https://steeldivision.fandom.com/wiki/3-ya_VDV)  
   - ![](pics/3ya_VDV.png)
   -  
