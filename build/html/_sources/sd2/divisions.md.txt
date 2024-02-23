@@ -162,8 +162,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     &nbsp;
     - <span style="color:red">Wenig Anti-Air</span>  
     - <span style="color:red">Etwas zu wenig CQC</span>  
-  - - **FW 190 D-9**: Sehr guter Jäger
-    - <span style="color:DodgerBlue">**FW 190 F-8 AT Rocket**: Sehr guter AT-Flieger</span>
+  - - <span style="color:DodgerBlue">**FW 190 F-8 AT Rocket**: Sehr guter AT-Flieger</span>
     - **FW 190 D-9**: Schnellster Axis-Jäger; Medium Resilience
     - **Panther A + D**: insg. 9 Karten
 * - [Fallschirm-Panzer "Hermann Göring"](https://steeldivision.fandom.com/wiki/Fallschirm-Panzer_%22Hermann_G%C3%B6ring%22)
@@ -184,7 +183,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Wenig Panzer (nur Stug III)</span>  
     - <span style="color:red">Teure Infanterie</span>   
   - - **Begleit-Grenadier**: Sehr gutes Rifle Squad (8xMP44+3xG43+MG42) (1 Karte)
-    - <span style="color:DodgerBlue">**Begleit-Pionier**: Sehr gute 13-Mann CQC (9xMP44+3xG43+MG42+Granate) (1 Karte)</span>
+    - <span style="color:DodgerBlue">**Begleit-Pionier**: Sehr gute 13-Mann CQC (9xMP44+3xG43+MG42+Granate)</span>
     - **Sturmschützen**: Sehr gute 13-Mann CQC (13xMP44+Panzerfaust) (3 Karten)
     - **S.IG 33**: Sehr gute Anti-Infantrie  
 * - [1. Lovas](https://steeldivision.fandom.com/wiki/1._Lovas)
@@ -206,7 +205,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:red">Viel mittelmäßige Infanterie</span>  
     - <span style="color:red">Schlechte Anti-Air</span>   
   - - <span style="color:DodgerBlue">**Tarkka-Ampuja**: Doppel-Sniper Recon!</span>  
-    - **Soomepoisid**: Gutes Rifle-Squad (3xSuomi+5xSemiAuto+Lahti(MG)+Molotov)
+    - **Soomepoisid**: Gutes Rifle-Squad (3xSuomi+5xSemiAuto+Lahti(MG) + Molotov)
 * - [11. SS-Fr.-Panzergrenadier "Nordland"](https://steeldivision.fandom.com/wiki/11._SS-Fr.-Panzergrenadier_%22Nordland%22)
   - ![](pics/11_ss.png)
   - - <span style="color:green">Sehr gute Recon</span>  
