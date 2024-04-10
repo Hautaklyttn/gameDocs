@@ -203,9 +203,10 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:green">Guter 2k-Mix (HE und AT)</span>  
     &nbsp;
     - <span style="color:red">Viel mittelmäßige Infanterie</span>  
-    - <span style="color:red">Schlechte Anti-Air</span>   
+    - <span style="color:red">Mittelmässige Anti-Air</span>   
   - - <span style="color:DodgerBlue">**Tarkka-Ampuja**: Doppel-Sniper Recon!</span>  
     - **Soomepoisid**: Gutes Rifle-Squad (3xSuomi+5xSemiAuto+Lahti(MG) + Molotov)
+    - **Lahti L-39**: Starkes Doppel-AT-Gun (!) Squad (Lahti: Beste AT-Gun im Spiel)
 * - [11. SS-Fr.-Panzergrenadier "Nordland"](https://steeldivision.fandom.com/wiki/11._SS-Fr.-Panzergrenadier_%22Nordland%22)
   - ![](pics/11_ss.png)
   - - <span style="color:green">Sehr gute Recon</span>  
@@ -429,12 +430,11 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - <span style="color:green">Gute Support und Artillerie</span>
     - <span style="color:green">Sehr gute Flugzeuge</span>
     &nbsp;
-    - <span style="color:red">Mittelmässige Anti-Tank</span> 
-    - <span style="color:red">Schlechte Anti-Air</span> 
+    - <span style="color:red">Mittelmässige Anti-Tank</span>
   - - **Jäger**: Gute günstiges Rifle Squad (exz. Availability, 1xMG42+Panzerfaust)
     - **Jäger Pionier**: Gut im CQC und auf Entfernung (8xG43, MG42 + Granate)
     - <span style="color:DodgerBlue">**Sturmjäger**: Sehr gute Mid-Range Inf. (7xMP44, 2xG43, MG42 + AT-Granate)</span>
-    - **Jäger Flammenwerfer**: Sehr gute Flammenw. (2xFlammenw.+Granate)
+    - **HS 129 B-3**: Sehr gutes AT-Flugzeug
 * - [Festung Dünkirchen](https://steeldivision.fandom.com/wiki/Festung_D%C3%BCnkirchen)
   - ![](pics/festD.png)
   - - <span style="color:green">Gute Infanterie, Support und Anti-Tank</span>
