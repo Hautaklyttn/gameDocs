@@ -730,6 +730,57 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - Wappen
   - Stärken / Schwächen
   - Anmerkungen
+* - [101st Airborne](https://steeldivision.fandom.com/wiki/)
+  - ![](pics/101st_air.png)
+  - - <span style="color:green">...</span>  
+    &nbsp;
+    - <span style="color:red">tbd</span>  
+  - - <span style="color:DodgerBlue">tbd</span>
+    - tbd
+* - [Guards Armoured](https://steeldivision.fandom.com/wiki/)
+  - ![](pics/guardsArm.png)
+  - - <span style="color:green">...</span>  
+    - <span style="color:green">...</span>  
+    &nbsp;
+    - <span style="color:red">...</span>  
+    - <span style="color:red">...</span> 
+  - - <span style="color:DodgerBlue">tbd</span>
+    - tbd
+* - [4th Armored](https://steeldivision.fandom.com/wiki/)
+  - ![](pics/4thArmor.png)
+  - - <span style="color:green">...</span>  
+    &nbsp;
+    - <span style="color:red">...</span>  
+  - - <span style="color:DodgerBlue">tbd</span>
+    - tbd
+* - [7th Armored "Desert Rats"](https://steeldivision.fandom.com/wiki/)
+  - ![](pics/7th_arm.png)
+  - - <span style="color:green">...</span>  
+    &nbsp;
+    - <span style="color:red">...</span>  
+  - - <span style="color:DodgerBlue">tbd</span>
+    - tbd
+* - [Demi-Brigade SAS](https://steeldivision.fandom.com/wiki/)
+  - ![](pics/demiBrig.png)
+  - - <span style="color:green">...</span>  
+    &nbsp;
+    - <span style="color:red">...</span>  
+  - - <span style="color:DodgerBlue">tbd</span>
+    - tbd
+* - [1st Infantry](https://steeldivision.fandom.com/wiki/)
+  - ![](pics/1st_inf.png)
+  - - <span style="color:green">...</span>  
+    &nbsp;
+    - <span style="color:red">...</span>  
+  - - <span style="color:DodgerBlue">tbd</span>
+    - tbd
+* - [4th Canadian Armoured](https://steeldivision.fandom.com/wiki/)
+  - ![](pics/4thCanadian.png)
+  - - <span style="color:green">...</span>  
+    &nbsp;
+    - <span style="color:red">...</span>  
+  - - <span style="color:DodgerBlue">tbd</span>
+    - tbd
 * - [84-ya Gvard. Strelkovy](https://steeldivision.fandom.com/wiki/84-ya_Gvard._Strelkovy)  
   - ![](pics/84ya_GS.png)
   - - <span style="color:green">Sehr starke Armor</span>  
