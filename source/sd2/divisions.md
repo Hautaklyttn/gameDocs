@@ -59,6 +59,57 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - Wappen
   - Stärken / Schwächen
   - Anmerkungen
+* - [1.SS Panzer - LSSAH](https://steeldivision.fandom.com/wiki/)
+  - ![](pics/1ss_lssah.png)
+  - - <span style="color:green">Starke Infanterie</span>  
+    &nbsp;
+    - <span style="color:red">Wenig Flugzeuge</span>  
+  - - <span style="color:DodgerBlue">tbd</span>
+    - tbd
+* - [2.Panzer](https://steeldivision.fandom.com/wiki/)
+  - ![](pics/2_pzer.png)
+  - - <span style="color:green">Viel Vet. Infanterie</span>  
+    - <span style="color:green">Sehr viele Panzer</span>  
+    &nbsp;
+    - <span style="color:red">Wenig Infanterie</span>  
+    - <span style="color:red">Wenig Flugzeuge</span> 
+  - - <span style="color:DodgerBlue">tbd</span>
+    - tbd
+* - [9.Panzer](https://steeldivision.fandom.com/wiki/)
+  - ![](pics/9_pzer.png)
+  - - <span style="color:green">...</span>  
+    &nbsp;
+    - <span style="color:red">...</span>  
+  - - <span style="color:DodgerBlue">tbd</span>
+    - tbd
+* - [16. Luftwaffe](https://steeldivision.fandom.com/wiki/)
+  - ![](pics/16_luft.png)
+  - - <span style="color:green">...</span>  
+    &nbsp;
+    - <span style="color:red">...</span>  
+  - - <span style="color:DodgerBlue">tbd</span>
+    - tbd
+* - [Festung Groß-Paris](https://steeldivision.fandom.com/wiki/)
+  - ![](pics/festParis.png)
+  - - <span style="color:green">...</span>  
+    &nbsp;
+    - <span style="color:red">...</span>  
+  - - <span style="color:DodgerBlue">tbd</span>
+    - tbd
+* - [716. Infanterie](https://steeldivision.fandom.com/wiki/)
+  - ![](pics/716_inf.png)
+  - - <span style="color:green">...</span>  
+    &nbsp;
+    - <span style="color:red">...</span>  
+  - - <span style="color:DodgerBlue">tbd</span>
+    - tbd
+* - [91. Luftlande](https://steeldivision.fandom.com/wiki/)
+  - ![](pics/91_lld.png)
+  - - <span style="color:green">...</span>  
+    &nbsp;
+    - <span style="color:red">...</span>  
+  - - <span style="color:DodgerBlue">tbd</span>
+    - tbd
 * - [Panzerdivision Tatra](https://steeldivision.fandom.com/wiki/Panzerdivision_Tatra)
   - ![](pics/pd_tatra.png)
   - - <span style="color:green">Starkes Anti-Tank</span>  
