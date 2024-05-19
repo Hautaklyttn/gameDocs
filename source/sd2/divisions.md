@@ -61,11 +61,16 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - Anmerkungen
 * - [1.SS Panzer - LSSAH](https://steeldivision.fandom.com/wiki/)
   - ![](pics/1ss_lssah.png)
-  - - <span style="color:green">Starke Infanterie</span>  
+  - - <span style="color:DodgerBlue">Bester Panzerdivision</span>
+    - <span style="color:green">Starke Infanterie</span>    
+    - <span style="color:green">Phänomenale 2k-HE (s.IG33+Grille)</span>
+    - <span style="color:green">Sehr gute Anti-Air und Artillerie</span>
     &nbsp;
-    - <span style="color:red">Wenig Flugzeuge</span>  
-  - - <span style="color:DodgerBlue">tbd</span>
-    - tbd
+    - <span style="color:red">Schwache Luftwaffe</span>  
+  - - **SPW 234/2 PUMA**: Sehr gutes Recon-Fzg (schnell und starkes Geschütz)
+    - **Pz.Sturmpionier LSSAH**: Sehr gute Mid-Range Einheit (5xMP44+2xMG42+Flammenw.)
+    - **Nebelwerfer 42 210mm**: Sehr gute Artillerie (besonders gegen schwere Panzer)
+    - **sK 18 105mm**: Sehr gute (Counter-)Artillerie (Accuracy > 45% !)
 * - [2.Panzer](https://steeldivision.fandom.com/wiki/)
   - ![](pics/2_pzer.png)
   - - <span style="color:green">Viel Vet. Infanterie</span>  
@@ -77,11 +82,15 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
     - tbd
 * - [9.Panzer](https://steeldivision.fandom.com/wiki/)
   - ![](pics/9_pzer.png)
-  - - <span style="color:green">...</span>  
+  - - <span style="color:green">Sehr gute Recon und AT</span>  
+    - <span style="color:green">Gute Infanterie und Anti-Air</span>
     &nbsp;
-    - <span style="color:red">...</span>  
-  - - <span style="color:DodgerBlue">tbd</span>
-    - tbd
+    - <span style="color:red">Nur Panzer IV (+2 Tiger)</span>
+    - <span style="color:red">Mittelmässiger Support (wenig 2k)</span>  
+  - - **Kosaken Pionier**: Sehr günstige, gute CQC
+    - **Pz.Grenadier(G-43)**: Phänomenales Rifle Squad (7xG43+2xMG42)
+    - **Panzerjäger 35R(f)**: Günstiger, guter Panzerjäger
+    - **sK 18 105mm**: Sehr gute (Counter-)Artillerie (Accuracy > 45% !)
 * - [16. Luftwaffe](https://steeldivision.fandom.com/wiki/)
   - ![](pics/16_luft.png)
   - - <span style="color:green">...</span>  
