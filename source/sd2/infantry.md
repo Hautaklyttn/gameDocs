@@ -27,25 +27,36 @@
 
 ## Infanterietypen - Eigenschaften  
 
+- <span style="color:green">Führer</span> jeder Art erhöhen den Vet-Status jeder Einheit um ihn herum um 1!
+- <span style="color:green">Kommandanten</span> jeder Art erhöhen den Vet-Status jeder Einheit um ihn herum um 2!
+- <span style="color:green">Führer</span> im Bereich eines <span style="color:green">Kommandanten</span> erhöhen Vet-Status jeder Einheit um ihn herum um 2!  
+
 &nbsp;
 
 ### Axis Einheiten
 
-- <span style="color:green">Grenadiere</span> sind deutlich schwächer als <span style="color:green">Panzergrenadiere</span> - **sind ok auf Entfernung, schlecht im Nahkampf!**
-- <span style="color:green">Panzergrenadiere</span> sind solide Einheit mit 2x MG, sehr gut auf Entfernung, **schlecht im Nahkampf**, gehören nicht in den Wald!
-- Stärkste <span style="color:green">Panzergrenadiere</span> sind die mit 2 x MG-42 (andere Typen 'MG-26' oder 'MG-34')
-- <span style="color:green">Sturmpionier</span> sind gut im Nahkampf (Flammenwerfer), schlecht im Fernkampf, für den Einsatz im Wald/Ortschaften gedacht.
-- <span style="color:green">Fs.Jäger</span> sind mit die beste (dt.) Infantrieeinheit auf Entfernung und mittlere Distanz (nicht in dichten Wald/Ortschaften!).
-- <span style="color:green">Ersatztruppen</span> sind generell sehr schwach ('Disheartened'), wenn dann in der Masse nutzen.
-- <span style="color:green">Sicherungs-x</span> sind etwas bessere <span style="color:green">Grenadiere</span> mit AT-Fähigkeiten, preiswert deshalb nicht schlecht.
-- <span style="color:green">Stosstrupp</span> sind preiwert, daher ok, sehr gut sind die <span style="color:green">Stosstrupp (Beretta)</span>, sollten immer ausgewählt werden.
-- <span style="color:green">Begleit-x</span> sind sehr gut auf mittlere Entfernung, schwach auf lange Entfernung. Sehr gut in Ortschaften oder offenem Wald (gelb: leichte Deckung)!
+#### Standard CQC  
+
+  - <span style="color:green">Sturmpionier</span> sind gut im Nahkampf (Flammenwerfer), schlecht im Fernkampf, für den Einsatz im Wald/Ortschaften gedacht.
+  - <span style="color:green">Stosstrupp</span> sind preiwert, daher ok, sehr gut sind die <span style="color:green">Stosstrupp (Beretta)</span>, sollten immer ausgewählt werden.
+
+#### Mid-range
+
+  - <span style="color:green">Begleit-x</span> sind sehr gut auf mittlere Entfernung, schwach auf lange Entfernung. Sehr gut in Ortschaften oder offenem Wald (gelb: leichte Deckung)!
+
+
+#### Rifle Entfernung
+
+  - <span style="color:green">Grenadiere</span> sind deutlich schwächer als <span style="color:green">Panzergrenadiere</span> - **sind ok auf Entfernung, schlecht im Nahkampf!**
+  - <span style="color:green">Panzergrenadiere</span> sind solide Einheit mit 2x MG, sehr gut auf Entfernung, **schlecht im Nahkampf**, gehören nicht in den Wald!
+  - Stärkste <span style="color:green">Panzergrenadiere</span> sind die mit 2 x MG-42 (andere Typen 'MG-26' oder 'MG-34')
+  - <span style="color:green">Fs.Jäger</span> sind mit die beste (dt.) Infantrieeinheit auf Entfernung und mittlere Distanz (nicht in dichten Wald/Ortschaften!).
+  - <span style="color:green">Ersatztruppen</span> sind generell sehr schwach ('Disheartened'), wenn dann in der Masse nutzen.
+  - <span style="color:green">Sicherungs-x</span> sind etwas bessere <span style="color:green">Grenadiere</span> mit AT-Fähigkeiten, preiswert deshalb nicht schlecht.
   
 &nbsp;
 
-- <span style="color:green">Führer</span> jeder Art erhöhen den Vet-Status jeder Einheit um ihn herum um 1!
-- <span style="color:green">Kommandanten</span> jeder Art erhöhen den Vet-Status jeder Einheit um ihn herum um 2!
-- <span style="color:green">Führer</span> im Bereich eines <span style="color:green">Kommandanten</span> erhöhen Vet-Status jeder Einheit um ihn herum um 2!  
+
 
 &nbsp;
 
