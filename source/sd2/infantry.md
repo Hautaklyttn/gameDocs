@@ -49,9 +49,54 @@
 
 &nbsp;
 
+### Allies Einheiten - Sowjets
+
+#### Sehr nahe CQC  
+
+  - <span style="color:green">Avtomachiki</span> (PPSh + AT) (== <span style="color:green">Kazaki (PPSh)</span>)  
+     Angriffstrupps wie das **Avtomatchiki** sind die perfekte Einheit für CQC in engen Städten und dichten Wäldern. Sie sollten nicht im Freien gehalten werden, da sie aufgrund ihrer 
+     geringen Waffenreichweite von 100 m nicht in der Lage sind, sich zu verteidigen. **Avtomatchiki** sind Nahkampfmonster – jedes PPSh-41 verursacht 8 Unterdrückung (während jedes 
+     Repetiergewehr 2 Unterdrückung und jedes MG 5 Unterdrückung verursacht). Das bedeutet, dass die Avtos (und ähnliche Trupps wie *Tankodesantniki*), sobald sie in Reichweite sind,
+     feindliche Trupps sehr schnell unterdrücken und zur Kapitulation zwingen können.  
+     Bester counter: MP-44 squads
+  - <span style="color:green">Tankodesantniki</span> (PPSh + Molotov)  
+     Angriffstrupps wie das **Tankodesantniki** sind die perfekte Einheit für CQC in engen Städten und dichten Wäldern. Sie sollten nicht im Freien gehalten werden, da sie aufgrund ihrer 
+     geringen Waffenreichweite von 100 m nicht in der Lage sind, sich zu verteidigen. **Tankodesantniki** sind Nahkampfmonster – jedes PPSh-41 verursacht 8 Unterdrückung (während jedes 
+     Repetiergewehr 2 Unterdrückung und jedes MG 5 Unterdrückung verursacht). Das bedeutet, dass die Avtos, sobald sie in Reichweite sind, feindliche Trupps sehr schnell unterdrücken 
+     und zur Kapitulation zwingen können.  
+     Bester counter: MP-44 squads
+  - <span style="color:green">Shturmoviki</span> (PPSh + TNT + DT)  
+     Angriffstrupp wie Tankodesantniki, jedoch mit einem zusätzlichen Maschinengewehr.  
+
+#### Standard CQC  
+
+  - <span style="color:green">Saperi</span> (1xDP + TNT)  
+     Standard CQC-Verwendung. Manche Leute füllen ihre Infanterie-Tabs nur mit **Saperi**, Problem ist nur AT, da sie nur HE-Bomben haben.
+  - <span style="color:green">Saperi (PPSh)</span> (PPSh + Panzerfaust)  
+     **Saperi (PPSh)** ist ein CQC-Trupp, der mit vier Maschinenpistolen und Panzerabwehrfähigkeiten ausgestattet ist. Weniger effizientes Avtomachiki.
+
+#### Rifle Entfernung
+
+  - <span style="color:green">Gvardia</span> (2xPPSh + AT-Granate) (== <span style="color:green">Strelki</span>)  
+     **Gvardia** sind einigermaßen ok. Sie können aus allen Entfernungen angreifen und haben eine sehr gute Verfügbarkeit. Der größte Vorteil für sie besteht darin, dass sie über 
+     Panzerabwehrgranaten verfügen, was bedeutet, dass der Feind vorsichtig sein muss, wenn er versucht, sich mit Fahrzeugen zu nähern. Sie können Panther und sogar Königstiger bekämpfen, 
+     wenn Sie nahe genug herankommen. Auch gut gegen 'vehicle rushes'.  
+  - <span style="color:green">Gvardia (DP)</span> (2xDP + AT-Rifle) (== <span style="color:green">Strelki (DP)</span>)  
+     **Gvardia (DP)** sind rundum in Ordnung, Doppel-DP-Maschinengewehre und AT-Rifle. AT-Rifle eignen sich gut zum Ausschalten leichter Fahrzeuge, sie können leichte Transportfahrzeuge mit einem 
+     Schuss töten. Das Problem mit dieser Infanterie entsteht, wenn schwerere Fahrzeuge ausgeschaltet werden müssen und ihre AT-Gewehre nur 1 Schaden verursachen, was ewig dauert, um Panzer zu töten. 
+     Außerdem haben sie im Vergleich zur Gvardia nur 1 PPSh und keine SVTs wie die Strelki-Version.  
+  - <span style="color:green">Shtrafniki</span> (3xPPSh + 3xDP + AT Rifle)  
+     Sehr starkes Rifle squad (13xRifle) mit AT-Gewehr und 3xDP.  
+  - <span style="color:green">Kazaki</span> (3xPPSh + 4xSVT-40 + 1xDP + AT Rifle)  
+     Starkes Rifle squad mit weniger Gewehren, aber besserem Typ (SVT-40). Es besteht die Gefahr, dass sie weder auf Reichweite noch im CQC effizient sind.  
+  - <span style="color:green">Partizani</span> (10x Rifle)  
+     Rifle squad mit CQC-Elementen (2xPPSh + Molotov).
+       
+&nbsp;
+
 ## Einheitenmerkmale (*"Traits"*)  
 
-
+... tbd ...
 
 
 
