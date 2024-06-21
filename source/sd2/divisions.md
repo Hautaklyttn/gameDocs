@@ -61,7 +61,7 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
   - Anmerkungen
 * - [1.SS Panzer - LSSAH](https://steeldivision.fandom.com/wiki/)
   - ![](pics/1ss_lssah.png)
-  - - <span style="color:DodgerBlue">Bester Panzerdivision</span>
+  - - <span style="color:DodgerBlue">Beste Panzerdivision</span>
     - <span style="color:green">Starke Infanterie</span>    
     - <span style="color:green">Phänomenale 2k-HE (s.IG33+Grille)</span>
     - <span style="color:green">Sehr gute Anti-Air und Artillerie</span>
