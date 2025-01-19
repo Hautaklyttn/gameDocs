@@ -520,16 +520,16 @@ D.h. **je besser die Division geranked, desto universeller ist sie**.
 * - [Panzer-Lehr](https://steeldivision.fandom.com/wiki/Panzer-Lehr_(SD2))
   - ![](pics/pLehr.png)
   - - <span style="color:green">Fantastischer Recon Tab</span>  
-    - <span style="color:green">Guter Panzer- und AT-Tab</span>  
+    - <span style="color:green">Sehr guter Panzer- und AT-Tab</span>  
     - <span style="color:green">Gute Artillerie</span>  
+	- <span style="color:green">Infanterie kommt in Half-Tracks</span>  
     &nbsp;
-    - <span style="color:red">Zu hohe Slot-Kosten und zu wenige Slots</span>  
-    - <span style="color:red">Mittelmäßige Infanterie</span>
+    - <span style="color:red">Hohe Slot-Kosten und zu wenige Slots</span>  
     - <span style="color:red">Zu teuer und langsam</span>  
   - - **SPW 234/2 PUMA**: Sehr gutes gepanzertes Fahrzeug  
-    - **Pz.Grenadier (PzSchk)**: Phänomenale Panzergrenadiere  
+    - <span style="color:DodgerBlue">**Pz.Grenadier (PzSchk)**: Phänomenale Panzergrenadiere</span>  
     - **Borgward IV**: Kann Teil von Ortschaft zerstören  
-    - <span style="color:DodgerBlue">**FW 190 A-8**: Einer der besten Fighter im Spiel</span>
+    - **FW 190 A-8**: Einer der besten Fighter im Spiel
 * - [20. Panzergrenadier](https://steeldivision.fandom.com/wiki/20._Panzergrenadier)
   - ![](pics/20_pg.png)
   - - <span style="color:green">Guter Support und Anti-Tank</span>  
