@@ -18,13 +18,6 @@ Entscheidend ist das Wissen: <span style="color:red">**Was kann ich womit töten
 
 - Sobald Einheiten *"Unterdrückt"* sind  
   **Sofort "R" drücken** (damit überleben deutlich mehr Männer der Einheit)  
-- **Spieleröffnung/Eroberungen:**  
-  &rarr; Wo ist die höchste Konzentration von Flags?  
-  &rarr; Wo ist eine feindliche Flagge nah an der Frontlinie?  
-  &rarr; Wo ist eine feindliche Flagge vom Gegner schwer (zu langer Weg) zu erreichen?  
-  &rarr; Nicht in Gegenden vorrücken die keinen Wert haben (z.B. offene Felder ohne Flaggen).  
-  &rarr; Nicht zwangsläufig weiter pushen. Manchmal mehr Sinn Eroberungen zu verwalten/schützen.  
-  &rarr; Immer im Hinterkopf bevor man pusht: Kann ich eine Position gut versorgen?  
 
 &nbsp;
 
@@ -50,6 +43,30 @@ Beim Setzen der Einheiten darauf achten, schnelle Einheiten zu verwenden (~80km/
 - **Beuteausrüstung**  
   Whenever you see a German unit, look for the (x). Look for (r), (f), (e), because that tells you it's captured equipment. **R is Russia, F is France, E is England, H is Hungary, etc. For example, Panzer B2 (f)**
   
+&nbsp;
+
+&nbsp;
+
+## Allgemeine Strategien
+
+```{important}
+Nutze die Karte entsprechend deiner Einheiten und plane Vorstöße entsprechend, d.h.
+  - Versuche nicht unbedingt auf ganzer Front gleichmäßig vorzurücken, das ist nur auf homogenen Karten zu empfehlen
+  - Ist z.B. ein Teil der Karte Freifläche, stoße hier schnell mit Panzern vor und versuche dann von dieser Seite seitlich den Rest der Karte zu nehmen. Das ist oft erfolgreicher als auf ganzer Breite anzugreifen
+  - Generell: **Plane den Vorstoß, d.h. schaue wo die Flaggen sind und welche leicht zu erreichen sind. Flankieren ist sehr oft das Mittel zum Gewinn.**
+  - Studiere die Karten und überlege dir einen **Battle Plan**!
+```
+
+&nbsp;
+
+- **Spieleröffnung/Eroberungen:**  
+  &rarr; Wo ist die höchste Konzentration von Flags?  
+  &rarr; Wo ist eine feindliche Flagge nah an der Frontlinie?  
+  &rarr; Wo ist eine feindliche Flagge vom Gegner schwer (zu langer Weg) zu erreichen?  
+  &rarr; Nicht in Gegenden vorrücken die keinen Wert haben (z.B. offene Felder ohne Flaggen).  
+  &rarr; Nicht zwangsläufig weiter pushen. Manchmal mehr Sinn Eroberungen zu verwalten/schützen.  
+  &rarr; Immer im Hinterkopf bevor man pusht: Kann ich eine Position gut versorgen?  
+
 &nbsp;
 
 &nbsp;
